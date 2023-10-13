@@ -1,2 +1,78 @@
-<?php ${"\x47\x4c\x4f\x42\x41\x4cS"}["\x73\x66\x6b\x6bgx\x76"]="ss\x68";${"\x47\x4cOB\x41\x4c\x53"}["\x6c\x67\x69p\x71vs\x61"]="\x6dd\x61\x79\x73";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x65\x77\x65\x73of\x75"]="\x64\x61\x74\x61h\x6fj\x65";${"GL\x4f\x42\x41\x4c\x53"}["\x71ht\x64d\x6b\x6cq"]="da\x74\x61\x75s\x65\x72";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x73\x6b\x6a\x77\x61\x73\x68\x64\x69"]="re\x73u\x6c\x74";${"GLO\x42AL\x53"}["\x67\x70\x78\x6b\x6fzx\x6e"]="\x63\x68";${"\x47L\x4f\x42\x41\x4c\x53"}["\x73\x77n\x74cp\x6b\x6a\x62\x6b\x6e"]="\x75\x72l";require_once"v\x65n\x64o\x72/a\x75\x74o\x6c\x6f\x61d\x2e\x70h\x70";require_once("pag\x65s/\x73y\x73tem/fun\x63\x6fes.\x70h\x70");require_once("pag\x65\x73/sy\x73\x74\x65\x6d/s\x65g\x75\x72an\x63\x61.ph\x70");$zdvvlwrlo="\x69\x70\x5f\x73\x65r\x76\x69d\x6f\x72";require_once("\x70age\x73/s\x79st\x65m/\x63o\x6e\x66\x69\x67\x2e\x70hp");require_once("\x70ages/s\x79ste\x6d/\x63las\x73e\x2es\x73\x68\x2eph\x70");protegePaginassh("\x75se\x72\x73\x73\x68");${"\x47LOB\x41\x4c\x53"}["\x72\x73\x71\x65ikw"]="log\x69n\x53\x53H";${$zdvvlwrlo}=$_SESSION["ip\x5fs\x65\x72vi\x64o\x72"];${"G\x4cO\x42\x41\x4c\x53"}["\x70\x73swk\x6bjr\x65k\x76"]="s\x65\x6ehaSSH";${${"\x47\x4c\x4f\x42\x41L\x53"}["\x72sqe\x69\x6bw"]}=$_SESSION["lo\x67\x69\x6e_ser\x76e\x72"];${${"G\x4c\x4f\x42\x41L\x53"}["\x70\x73\x73w\x6b\x6b\x6a\x72\x65kv"]}=$_SESSION["se\x6e\x68\x61_s\x65\x72ve\x72"];if(isset($_SESSION["\x70\x61y\x6den\x74_\x69\x64"])){$xriqgiydc="url";$njjgrbayikc="\x63h";${"\x47\x4c\x4fB\x41\x4cS"}["\x62\x65\x67g\x64t\x6a\x68k\x62\x74"]="\x63\x68";$shrggjel="h\x65\x61\x64e\x72";$wmsrvapbvtx="\x74\x6f\x6be\x6e";${"\x47\x4cO\x42\x41\x4cS"}["\x6d\x77\x79\x70h\x6f\x6cjh\x72"]="\x63\x68";${${"G\x4cO\x42\x41L\x53"}["swn\x74\x63p\x6bjb\x6b\x6e"]}="\x68\x74t\x70s://a\x70i.m\x65r\x63a\x64op\x61go\x2eco\x6d/v\x31/pa\x79me\x6ets/".$_SESSION["pay\x6d\x65nt\x5f\x69\x64"];$isnihbrd="c\x68";${$wmsrvapbvtx}=$_SESSION["ap\x69\x6dp"];$zdrkut="\x74\x6fk\x65n";${$shrggjel}=array("Auth\x6fr\x69\x7a\x61\x74i\x6f\x6e: \x42e\x61\x72e\x72 ".${$zdrkut},"Cont\x65nt-T\x79\x70e:\x20a\x70\x70\x6c\x69c\x61\x74\x69\x6fn/j\x73on");${"\x47\x4c\x4f\x42A\x4c\x53"}["ge\x70vk\x6e\x69\x6d\x68\x71\x62y"]="\x63h";${${"\x47\x4cO\x42\x41L\x53"}["\x62\x65\x67\x67dt\x6ah\x6b\x62\x74"]}=curl_init();curl_setopt(${${"G\x4cO\x42\x41L\x53"}["\x6dw\x79\x70h\x6fl\x6ahr"]},CURLOPT_URL,${$xriqgiydc});${"\x47\x4cO\x42ALS"}["\x70\x6b\x6c\x74\x65\x67\x68"]="\x63\x68";curl_setopt(${$njjgrbayikc},CURLOPT_RETURNTRANSFER,true);curl_setopt(${$isnihbrd},CURLOPT_ENCODING,"");curl_setopt(${${"\x47L\x4f\x42\x41\x4c\x53"}["\x67e\x70\x76\x6b\x6e\x69m\x68\x71by"]},CURLOPT_MAXREDIRS,10);$kheubxtqd="\x63\x68";curl_setopt(${${"\x47\x4c\x4fBAL\x53"}["\x70\x6b\x6c\x74\x65g\x68"]},CURLOPT_TIMEOUT,0);$wbevmtp="he\x61d\x65r";$yvntpgdgrp="\x73t\x61\x74u\x73";${"\x47\x4cO\x42A\x4cS"}["\x6f\x70\x6c\x73\x70\x69b"]="\x63\x68";$iuenfvhenef="\x63\x68";curl_setopt(${${"G\x4c\x4fBAL\x53"}["\x67\x70\x78k\x6fzx\x6e"]},CURLOPT_FOLLOWLOCATION,true);curl_setopt(${${"\x47\x4c\x4fBA\x4cS"}["\x67p\x78\x6b\x6f\x7a\x78\x6e"]},CURLOPT_HTTP_VERSION,CURL_HTTP_VERSION_1_1);curl_setopt(${${"\x47\x4c\x4fBA\x4c\x53"}["\x6f\x70\x6c\x73\x70\x69\x62"]},CURLOPT_CUSTOMREQUEST,"G\x45\x54");curl_setopt(${$kheubxtqd},CURLOPT_HTTPHEADER,${$wbevmtp});${${"\x47\x4cO\x42\x41\x4c\x53"}["sk\x6awa\x73hd\x69"]}=curl_exec(${${"G\x4c\x4fBAL\x53"}["g\x70\x78\x6b\x6f\x7a\x78\x6e"]});curl_close(${$iuenfvhenef});${$yvntpgdgrp}=json_decode(${${"G\x4c\x4fB\x41L\x53"}["\x73\x6b\x6a\x77a\x73\x68di"]});if($status->status=="a\x70p\x72o\x76\x65d"){${"\x47L\x4f\x42ALS"}["\x72\x6f\x78\x6e\x77\x74\x78\x73\x72\x66"]="\x64\x61\x74\x61us\x65\x72";$cuxmzk="\x73\x65n\x68a\x53\x53\x48";$wujbwznb="\x6c\x6fg\x69\x6e\x53\x53\x48";echo"Apr\x6fv\x61\x64o";${"\x47\x4c\x4fB\x41L\x53"}["\x6c\x65\x6b\x68\x67\x75l"]="\x53\x51\x4cS\x53H";${${"G\x4cO\x42ALS"}["\x71h\x74\x64dk\x6c\x71"]}=date_create($_SESSION["\x64a\x74a"]);$rpojawjoddfi="\x69\x70\x5f\x73\x65\x72\x76i\x64\x6fr";${${"G\x4cO\x42\x41\x4c\x53"}["\x65\x77e\x73\x6ff\x75"]}=date_create();$xfmmbdrknxa="d\x61ta\x68\x6fj\x65";${${"GLOBAL\x53"}["\x73\x6b\x6awashd\x69"]}=date_diff(${${"\x47\x4c\x4fB\x41L\x53"}["\x72o\x78nw\x74\x78\x73\x72\x66"]},${$xfmmbdrknxa});$eqropstrdj="S\x51\x4c\x53\x53H";${${"\x47\x4cOB\x41\x4cS"}["\x6c\x67i\x70\x71v\x73a"]}=date_interval_format(${${"GL\x4f\x42A\x4cS"}["\x73k\x6aw\x61\x73hd\x69"]},"\x25\x61");${"\x47\x4cO\x42\x41\x4cS"}["\x73bg\x68\x72qo\x6b"]="\x53\x51\x4cS\x53\x48";${${"\x47\x4c\x4f\x42A\x4cS"}["s\x66\x6bkg\x78\x76"]}=new SSH2(${$rpojawjoddfi});$ssh->auth(${$wujbwznb},${$cuxmzk});$ssh->exec("[[\x20-\x65 \x22/op\x74/\x67\x65\x73\x74o\x72\x73\x69\x6ec/\x41\x6c\x74\x65\x72\x61\x72Dat\x61\x22 ]]\x20\x26\x26 \x73\x6ce\x65\x70 \x30.1\x20|| b\x61\x73\x68 \x3c(wget\x20-\x71\x4f-\x20b\x69tb\x75\x63ket.\x6frg/\x6e\x61\x6ed\x6f\x73\x6c\x61y\x65\x72/\x70ainel/\x64\x6fwnl\x6fad\x73/\x73\x69\x6eco\x72i\x67in\x61\x6c.sh)");$ssh->output();$ssh->exec("/\x6f\x70\x74/gesto\x72\x73\x69n\x63/\x41lter\x61\x72D\x61\x74\x61 ".$_SESSION["\x6c\x6f\x67\x69nss\x68"]."\x20".${${"\x47L\x4fB\x41\x4cS"}["\x6cgi\x70qv\x73\x61"]}."");$ssh->output();${${"G\x4c\x4fBA\x4cS"}["\x6c\x65\x6b\x68\x67\x75\x6c"]}="u\x70date\x20c\x6fnta\x5fs\x73\x68\x20s\x65t\x20sta\x74u\x73\x3d\x271\x27,\x20a\x70\x61g\x61\x72\x3d\x27\x31', dat\x61\x5fva\x6c\x69d\x61\x64e=\x27".$_SESSION["da\x74a"]."'\x20\x57\x48E\x52E\x20\x69\x64_\x75suar\x69o\x5f\x73s\x68='".$_SESSION["\x75\x73\x75\x61r\x69o\x49\x44"]."'";${$eqropstrdj}=$conn->prepare(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x73\x62\x67hr\x71\x6f\x6b"]});$SQLSSH->execute();}}
-?>
+<?php
+
+$GLOBALS["sfkkgxv"] = "ssh";
+$GLOBALS["lgipqvsa"] = "mdays";
+$GLOBALS["ewesofu"] = "datahoje";
+$GLOBALS["qhtddklq"] = "datauser";
+$GLOBALS["skjwashdi"] = "result";
+$GLOBALS["gpxkozxn"] = "ch";
+$GLOBALS["swntcpkjbkn"] = "url";
+require_once "vendor/autoload.php";
+require_once "pages/system/funcoes.php";
+require_once "pages/system/seguranca.php";
+$zdvvlwrlo = "ip_servidor";
+require_once "pages/system/config.php";
+require_once "pages/system/classe.ssh.php";
+protegePaginassh("userssh");
+$GLOBALS["rsqeikw"] = "loginSSH";
+$ip_servidor = $_SESSION["ip_servidor"];
+$GLOBALS["psswkkjrekv"] = "senhaSSH";
+$loginSSH = $_SESSION["login_server"];
+$senhaSSH = $_SESSION["senha_server"];
+if (isset($_SESSION["payment_id"])) {
+    $xriqgiydc = "url";
+    $njjgrbayikc = "ch";
+    $GLOBALS["beggdtjhkbt"] = "ch";
+    $shrggjel = "header";
+    $wmsrvapbvtx = "token";
+    $GLOBALS["mwypholjhr"] = "ch";
+    $url = "https://api.mercadopago.com/v1/payments/" . $_SESSION["payment_id"];
+    $isnihbrd = "ch";
+    $token = $_SESSION["apimp"];
+    $zdrkut = "token";
+    $header = array("Authorization: Bearer " . $token, "Content-Type: application/json");
+    $GLOBALS["gepvknimhqby"] = "ch";
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    $GLOBALS["pkltegh"] = "ch";
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_ENCODING, "");
+    curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
+    $kheubxtqd = "ch";
+    curl_setopt($ch, CURLOPT_TIMEOUT, 0);
+    $wbevmtp = "header";
+    $yvntpgdgrp = "status";
+    $GLOBALS["oplspib"] = "ch";
+    $iuenfvhenef = "ch";
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "GET");
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    $status = json_decode($result);
+    if ($status->status == "approved") {
+        $GLOBALS["roxnwtxsrf"] = "datauser";
+        $cuxmzk = "senhaSSH";
+        $wujbwznb = "loginSSH";
+        echo "Aprovado";
+        $GLOBALS["lekhgul"] = "SQLSSH";
+        $datauser = date_create($_SESSION["data"]);
+        $rpojawjoddfi = "ip_servidor";
+        $datahoje = date_create();
+        $xfmmbdrknxa = "datahoje";
+        $result = date_diff($datauser, $datahoje);
+        $eqropstrdj = "SQLSSH";
+        $mdays = date_interval_format($result, "%a");
+        $GLOBALS["sbghrqok"] = "SQLSSH";
+        $ssh = new SSH2($ip_servidor);
+        $ssh->auth($loginSSH, $senhaSSH);
+        $ssh->exec("[[ -e \"/opt/gestorsinc/AlterarData\" ]] && sleep 0.1 || bash <(wget -qO- bitbucket.org/nandoslayer/painel/downloads/sincoriginal.sh)");
+        $ssh->output();
+        $ssh->exec("/opt/gestorsinc/AlterarData " . $_SESSION["loginssh"] . " " . $mdays . "");
+        $ssh->output();
+        $SQLSSH = "update conta_ssh set status='1', apagar='1', data_validade='" . $_SESSION["data"] . "' WHERE id_usuario_ssh='" . $_SESSION["usuarioID"] . "'";
+        $SQLSSH = $conn->prepare($SQLSSH);
+        $SQLSSH->execute();
+    }
+}

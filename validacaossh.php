@@ -1,2 +1,39 @@
-<?php ${"\x47\x4c\x4f\x42\x41L\x53"}["\x73ru\x6c\x71p\x6d\x66"]="u\x73uar\x69o";${"\x47LOBA\x4cS"}["\x79\x77\x74k\x70k\x68\x65p"]="\x73\x65\x6eha";${"\x47\x4c\x4f\x42ALS"}["o\x76t\x79\x6co\x67\x73\x68\x73\x6b"]="da\x74\x65";require_once("\x70\x61\x67\x65\x73/\x73ystem/seg\x75ra\x6eca.\x70\x68\x70");require_once("\x70\x61\x67es/s\x79s\x74em/\x63\x6fnf\x69\x67.\x70h\x70");require_once("\x70\x61\x67\x65\x73/syst\x65\x6d/\x66\x75\x6e\x63oes\x2eph\x70");require_once("\x70a\x67es/sys\x74\x65m/\x63la\x73\x73\x65\x2e\x73sh.\x70\x68\x70");require_once("page\x73/\x73\x79\x73t\x65m/\x66\x75\x6ec\x6f\x65\x73\x73cri\x70\x74.ph\x70");if(isset($_POST["\x62o\x74\x61ol\x6f\x67\x69n"])){$jfjckyjn="s\x65\x6eha";${"\x47\x4cO\x42A\x4cS"}["\x6d\x74d\x6e\x74l\x6b\x63j\x65"]="\x75s\x75\x61\x72\x69o";$emuufbfw="\x75\x73\x75\x61\x72\x69\x6f";${${"G\x4c\x4fB\x41\x4cS"}["\x6f\x76\x74\x79lo\x67s\x68\x73\x6b"]}=date("Y-m-d H:\x69:\x73");${${"\x47\x4cOB\x41\x4cS"}["\x6d\x74\x64n\x74\x6c\x6bc\x6ae"]}=$_POST["\x6co\x67i\x6e"];${"\x47\x4cO\x42\x41L\x53"}["o\x76h\x6e\x6b\x77\x70\x62pfg"]="i\x70";${${"\x47\x4c\x4fBAL\x53"}["\x79\x77\x74kp\x6b\x68\x65\x70"]}=$_POST["\x73\x65\x6eh\x61"];${${"G\x4c\x4f\x42\x41\x4c\x53"}["ov\x68\x6e\x6b\x77p\x62\x70\x66\x67"]}=pega_ip();if(empty(${$emuufbfw})){echo alertinfo2("\x77\x61r\x6e\x69\x6e\x67","\x44i\x67\x69t\x65 \x6f \x75s\x75ário\x21","\x2e./");}elseif(empty(${$jfjckyjn})){echo alertinfo2("\x77\x61rn\x69\x6eg","D\x69\x67\x69te\x20\x61 senha\x21","../");}else{if($_SERVER["\x52EQUEST\x5f\x4dE\x54\x48OD"]=="\x50OS\x54"){$oczuivettmko="i\x70";$lwpich="\x75sua\x72io";$ydxxvwdevpe="s\x65\x6eh\x61";${"GL\x4f\x42\x41L\x53"}["\x79c\x71q\x72\x69\x62"]="s\x65\x6eh\x61";${${"\x47L\x4f\x42A\x4cS"}["sr\x75lq\x70\x6d\x66"]}=(isset(${$lwpich}))?${${"\x47L\x4f\x42AL\x53"}["s\x72\x75l\x71p\x6d\x66"]}:"";${$ydxxvwdevpe}=(isset(${${"\x47L\x4fBA\x4cS"}["\x79\x77\x74k\x70\x6bh\x65p"]}))?${${"\x47L\x4fBAL\x53"}["\x79\x63\x71qr\x69\x62"]}:"";if(validaUsuariossh(${${"\x47\x4c\x4fB\x41\x4cS"}["\x73\x72u\x6c\x71\x70\x6d\x66"]},${${"\x47\x4c\x4f\x42\x41\x4cS"}["y\x77tkpkhe\x70"]},${$oczuivettmko},"\x75\x73\x65r\x73s\x68")==true){echo alertinfo("\x73\x75cces\x73","\x4c\x6fga\x64o\x20\x63om\x20\x73u\x63\x65\x73s\x6f\x21","/ren\x6fv\x61\x63\x61\x6fs\x73\x68\x2eph\x70");}else{echo alertinfo2("\x77a\x72ning","Dad\x6fs\x20\x69\x6ecor\x72\x65t\x6f\x21","/\x72en\x6f\x76a\x73s\x68\x2ephp");}}}}
-?>
+<?php
+
+$GLOBALS["srulqpmf"] = "usuario";
+$GLOBALS["ywtkpkhep"] = "senha";
+$GLOBALS["ovtylogshsk"] = "date";
+require_once "pages/system/seguranca.php";
+require_once "pages/system/config.php";
+require_once "pages/system/funcoes.php";
+require_once "pages/system/classe.ssh.php";
+require_once "pages/system/funcoesscript.php";
+if (isset($_POST["botaologin"])) {
+    $jfjckyjn = "senha";
+    $GLOBALS["mtdntlkcje"] = "usuario";
+    $emuufbfw = "usuario";
+    $date = date("Y-m-d H:i:s");
+    $usuario = $_POST["login"];
+    $GLOBALS["ovhnkwpbpfg"] = "ip";
+    $senha = $_POST["senha"];
+    $ip = pega_ip();
+    if (empty($usuario)) {
+        echo alertinfo2("warning", "Digite o usuario!", "../");
+    } elseif (empty($senha)) {
+        echo alertinfo2("warning", "Digite a senha!", "../");
+    } else {
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $oczuivettmko = "ip";
+            $lwpich = "usuario";
+            $ydxxvwdevpe = "senha";
+            $GLOBALS["ycqqrib"] = "senha";
+            $usuario = isset($usuario) ? $usuario : "";
+            $senha = isset($senha) ? $senha : "";
+            if (validaUsuariossh($usuario, $senha, $ip, "userssh") == true) {
+                echo alertinfo("success", "Logado com sucesso!", "/renovacaossh.php");
+            } else {
+                echo alertinfo2("warning", "Dados incorreto!", "/renovassh.php");
+            }
+        }
+    }
+}

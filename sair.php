@@ -1,2 +1,4 @@
-<?php require_once("p\x61\x67e\x73/sys\x74\x65m/\x73e\x67uranca\x2e\x70h\x70");expulsaSair();
-?>
+<?php
+
+require_once "pages/system/seguranca.php";
+expulsaSair();
