@@ -1,2 +1,51 @@
-<?php ${"G\x4cO\x42\x41\x4c\x53"}["\x72\x69\x62\x76q\x6e\x75\x78\x6d\x70i\x65"]="\x70\x61\x79\x6d\x65\x6et";${"\x47\x4c\x4f\x42A\x4cS"}["yq\x6b\x66\x6c\x6bn\x62"]="v\x61\x6c\x6f\x72";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73\x71\x6dl\x63yc\x76vf\x71"]="\x61\x70im\x70";${"G\x4c\x4fB\x41\x4c\x53"}["xib\x67\x73\x6f\x6cb"]="\x6c\x6f\x67\x69n";${"GLO\x42\x41L\x53"}["qy\x70xp\x71\x6a\x6dm"]="\x6e\x6fme";${"\x47\x4c\x4f\x42A\x4c\x53"}["j\x65\x68\x67\x65\x66ab\x65g"]="\x63\x70f";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x70\x64\x74\x6et\x74\x6e\x74\x6b"]="da\x74\x61ex\x70i\x72\x65\x66\x6f\x74\x6da\x74";${"\x47L\x4f\x42ALS"}["\x62\x68mi\x67\x71\x78\x6a\x63\x62"]="\x61\x63\x63\x65\x73\x73\x4bE\x59";require_once"\x2e./\x76\x65nd\x6f\x72/\x61u\x74\x6fl\x6f\x61\x64.ph\x70";$pdgeeartq="\x69\x70\x64\x6fmi\x6e\x69o";require_once("\x73ystem/s\x65g\x75r\x61nc\x61.\x70\x68p");require_once("system/co\x6ef\x69g\x2e\x70\x68\x70");protegePagina("u\x73e\x72");${"G\x4c\x4f\x42AL\x53"}["\x64\x6d\x70k\x63\x7a"]="\x64a\x74a\x65\x78\x70ir\x65";if($_POST["\x73e\x67\x6da\x78"]!==${${"\x47LO\x42\x41L\x53"}["\x62hmig\x71\x78j\x63b"]}){expulsaVisitante();exit;}if($_POST["ip\x6dax"]!==${$pdgeeartq}){expulsaVisitante();exit;}${${"G\x4cO\x42\x41\x4c\x53"}["\x64\x6d\x70\x6bc\x7a"]}=date("Y-m-\x64\x5c\x54\x48:\x69:s",strtotime("+\x31\x35\x20mi\x6eut\x65\x73"));${${"\x47L\x4f\x42\x41LS"}["\x70\x64tn\x74tn\x74\x6b"]}="$dataexpire\x2e00\x30-0\x33:\x300";if(isset($_POST["bota\x6f\x70ag\x61r"])){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x75\x74\x6b\x6a\x67\x77\x6d\x6dj\x73"]="\x6c\x6f\x67\x69\x6e";${${"\x47\x4cO\x42A\x4cS"}["j\x65\x68g\x65\x66\x61be\x67"]}=$_POST["\x63\x70\x66"];${"\x47LOB\x41\x4c\x53"}["\x73\x75\x6d\x78\x66v\x62\x6b\x77\x65"]="\x65m\x61i\x6c";${${"\x47\x4cO\x42\x41\x4c\x53"}["q\x79p\x78pqj\x6dm"]}=$_POST["\x6e\x6fm\x65"];${${"G\x4cO\x42\x41L\x53"}["\x78i\x62\x67s\x6flb"]}=$_POST["lo\x67i\x6e"];${${"GL\x4fB\x41L\x53"}["\x73\x75\x6d\x78\x66\x76\x62\x6b\x77\x65"]}=$_POST["em\x61i\x6c"];$kpijpyc="a\x70\x69mp";${${"\x47L\x4f\x42\x41L\x53"}["\x73\x71\x6d\x6c\x63\x79\x63\x76\x76f\x71"]}=$_POST["\x61\x70\x69\x6d\x70"];${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x79\x71\x6b\x66\x6c\x6bnb"]}=$_POST["va\x6c\x6fr\x74\x6ft\x61l"];MercadoPago\SDK::setAccessToken(${$kpijpyc});${${"\x47L\x4fBA\x4cS"}["\x72\x69b\x76\x71\x6eu\x78m\x70\x69\x65"]}=new MercadoPago\Payment();$payment->date_of_expiration=${${"GL\x4fB\x41L\x53"}["p\x64t\x6e\x74\x74\x6e\x74k"]};$wicgnz="\x65mai\x6c";${"G\x4c\x4f\x42\x41\x4c\x53"}["a\x61d\x75rrmsd"]="\x6e\x6f\x6de";$payment->transaction_amount=${${"\x47L\x4f\x42\x41LS"}["\x79q\x6bflk\x6e\x62"]};$payment->description="\x52EN\x4fV\x41\x52\x20R\x45\x56\x45N\x44\x41";$payment->payment_method_id="\x70i\x78";$payment->payer=array("\x65\x6d\x61il"=>${$wicgnz},"\x66i\x72st_\x6ea\x6de"=>${${"\x47LO\x42AL\x53"}["\x75\x74\x6bj\x67\x77\x6d\x6d\x6a\x73"]},"\x6cas\x74\x5fnam\x65"=>${${"\x47L\x4f\x42AL\x53"}["a\x61\x64\x75\x72\x72m\x73\x64"]},"\x69\x64\x65\x6et\x69\x66ica\x74\x69on"=>array("\x74y\x70\x65"=>"CP\x46","nu\x6dber"=>${${"\x47\x4cO\x42\x41\x4cS"}["\x6a\x65\x68\x67\x65f\x61\x62\x65\x67"]}),"a\x64\x64r\x65ss"=>array("\x7a\x69\x70_code"=>"062\x33\x33\x32\x30\x30","st\x72\x65et\x5fna\x6de"=>"A\x76. da\x73 N\x61çõ\x65\x73\x20\x55n\x69d\x61s","\x73\x74\x72\x65\x65t\x5f\x6e\x75\x6d\x62e\x72"=>"\x330\x303","n\x65\x69\x67hbo\x72\x68\x6f\x6fd"=>"\x42\x6fn\x66im","\x63\x69\x74\x79"=>"O\x73as\x63o","fe\x64e\x72\x61l_\x75\x6e\x69t"=>"SP"));$payment->save();$_SESSION["a\x70\x69mp"]=${${"G\x4c\x4f\x42\x41LS"}["\x73\x71\x6dl\x63\x79\x63\x76\x76f\x71"]};$_SESSION["\x70a\x79m\x65\x6et_id"]=$payment->id;$_SESSION["\x74\x69\x63\x6be\x74\x5f\x75rl"]=$payment->point_of_interaction->transaction_data->ticket_url;echo"<\x73crip\x74 \x74yp\x65\x3d\x22t\x65xt/j\x61va\x73\x63\x72ipt\"\x3e \x77\x69\x6ed\x6f\x77.\x6co\x63\x61\x74io\x6e=\x22../h\x6f\x6d\x65\x2ep\x68p?\x70a\x67e=\x72e\x6eo\x76\x61r\x22;\x3c/scr\x69\x70\x74\x3e";}
-?>
+<?php
+
+$GLOBALS["ribvqnuxmpie"] = "payment";
+$GLOBALS["yqkflknb"] = "valor";
+$GLOBALS["sqmlcycvvfq"] = "apimp";
+$GLOBALS["xibgsolb"] = "login";
+$GLOBALS["qypxpqjmm"] = "nome";
+$GLOBALS["jehgefabeg"] = "cpf";
+$GLOBALS["pdtnttntk"] = "dataexpirefotmat";
+$GLOBALS["bhmigqxjcb"] = "accessKEY";
+require_once "../vendor/autoload.php";
+$pdgeeartq = "ipdominio";
+require_once "system/seguranca.php";
+require_once "system/config.php";
+protegePagina("user");
+$GLOBALS["dmpkcz"] = "dataexpire";
+if ($_POST["segmax"] !== $accessKEY) {
+    expulsaVisitante();
+    exit;
+}
+if ($_POST["ipmax"] !== ${$pdgeeartq}) {
+    expulsaVisitante();
+    exit;
+}
+${$GLOBALS["dmpkcz"]} = date("Y-m-d\\TH:i:s", strtotime("+15 minutes"));
+${$GLOBALS["pdtnttntk"]} = "{$dataexpire}.000-03:00";
+if (isset($_POST["botaopagar"])) {
+    $GLOBALS["utkjgwmmjs"] = "login";
+    ${$GLOBALS["jehgefabeg"]} = $_POST["cpf"];
+    $GLOBALS["sumxfvbkwe"] = "email";
+    ${$GLOBALS["qypxpqjmm"]} = $_POST["nome"];
+    ${$GLOBALS["xibgsolb"]} = $_POST["login"];
+    ${$GLOBALS["sumxfvbkwe"]} = $_POST["email"];
+    $kpijpyc = "apimp";
+    ${$GLOBALS["sqmlcycvvfq"]} = $_POST["apimp"];
+    ${$GLOBALS["yqkflknb"]} = $_POST["valortotal"];
+    MercadoPago\SDK::setAccessToken(${$kpijpyc});
+    ${$GLOBALS["ribvqnuxmpie"]} = new MercadoPago\Payment();
+    $payment->date_of_expiration = ${$GLOBALS["pdtnttntk"]};
+    $wicgnz = "email";
+    $GLOBALS["aadurrmsd"] = "nome";
+    $payment->transaction_amount = ${$GLOBALS["yqkflknb"]};
+    $payment->description = "RENOVAR REVENDA";
+    $payment->payment_method_id = "pix";
+    $payment->payer = array("email" => $email, "first_name" => ${$GLOBALS["utkjgwmmjs"]}, "last_name" => $nome, "identification" => array("type" => "CPF", "number" => ${$GLOBALS["jehgefabeg"]}), "address" => array("zip_code" => "06233200", "street_name" => "Av. das Na\xc3\xa7\xc3\xb5es Unidas", "street_number" => "3003", "neighborhood" => "Bonfim", "city" => "Osasco", "federal_unit" => "SP"));
+    $payment->save();
+    $_SESSION["apimp"] = ${$GLOBALS["sqmlcycvvfq"]};
+    $_SESSION["payment_id"] = $payment->id;
+    $_SESSION["ticket_url"] = $payment->point_of_interaction->transaction_data->ticket_url;
+    echo "<script type=\"text/javascript\"> window.location=\"../home.php?page=renovar\";</script>";
+}

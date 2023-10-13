@@ -1,2 +1,54 @@
-<?php ${"\x47L\x4fBAL\x53"}["f\x75v\x6c\x6ajw\x74\x6a\x70"]="\x75\x70d\x61\x74e\x63\x68\x61\x6da\x64o";${"\x47LO\x42A\x4c\x53"}["\x70\x71\x68w\x6c\x71\x6c"]="ch\x61\x6d\x61";${"\x47L\x4f\x42\x41\x4cS"}["\x62\x64\x64\x61\x71d\x75\x6d\x66\x6f\x72"]="d\x69\x72\x65t\x6f\x72\x69\x6f";${"\x47\x4c\x4fB\x41LS"}["\x7avrub\x68nd\x79\x66\x77\x67"]="\x63ham\x61\x64\x6f";$jzgkwvbjpvmk="u\x73u\x61\x72i\x6f";require_once(".\x2e/\x2e\x2e/p\x61ges/\x73y\x73tem/s\x65gur\x61\x6e\x63\x61\x2ep\x68\x70");require_once("\x2e\x2e/\x2e./\x70age\x73/\x73\x79\x73te\x6d/c\x6f\x6e\x66i\x67.php");require_once("\x2e\x2e/\x2e./\x70\x61\x67e\x73/\x73\x79stem/f\x75nc\x6f\x65s.p\x68p");require_once("\x2e./\x2e\x2e/p\x61\x67es/\x73\x79st\x65\x6d/c\x6c\x61sse.\x73\x73\x68\x2e\x70hp");protegePagina("\x75\x73e\x72");if(${$jzgkwvbjpvmk}["at\x69\x76\x6f"]==2){echo"<scr\x69\x70\x74 \x74\x79pe\x3d\"\x74\x65xt/ja\x76\x61\x73\x63\x72\x69\x70t\x22>";echo"\x77ind\x6fw\x2el\x6fcat\x69\x6fn=\"hom\x65.p\x68\x70?\x70ag\x65\x3d\x73\x75\x73pens\x6f\"\x3b";echo"</sc\x72ip\x74\x3e";exit;}if(isset($_POST["\x63h\x61m\x61\x64o"])){$rxyowgbogtb="\x62\x75\x73\x63\x61ch\x61\x6da\x64\x6f";$sgjbxa="\x63h\x61\x6da";${${"\x47L\x4fB\x41\x4c\x53"}["\x7av\x72ub\x68\x6e\x64yfw\x67"]}=$_POST["\x63\x68a\x6d\x61d\x6f"];${"G\x4c\x4fB\x41\x4cS"}["x\x7a\x6c\x66\x77j\x62w"]="b\x75\x73c\x61c\x68\x61\x6d\x61\x64o";${${"\x47\x4cO\x42\x41\x4c\x53"}["\x62\x64da\x71\x64\x75m\x66\x6f\x72"]}=$_POST["dir\x65torio"];${${"GL\x4f\x42\x41\x4c\x53"}["xz\x6cf\x77\x6abw"]}="\x53ELEC\x54\x20* \x46\x52OM \x63\x68ama\x64\x6fs\x20wh\x65r\x65\x20\x69d='".${${"\x47LOB\x41LS"}["z\x76\x72\x75\x62hnd\x79\x66\x77\x67"]}."\x27 \x61nd i\x64_\x6des\x74\x72\x65='".$_SESSION["\x75su\x61r\x69oI\x44"]."'";${"G\x4cO\x42\x41\x4cS"}["\x6bvv\x67\x65c\x6ak\x75\x76p"]="\x62\x75\x73c\x61\x63\x68\x61\x6dad\x6f";$icxpfrsxwkzu="\x63\x68\x61\x6d\x61";${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x6bvv\x67\x65cjk\x75\x76p"]}=$conn->prepare(${$rxyowgbogtb});$buscachamado->execute();${"G\x4c\x4fB\x41\x4cS"}["cz\x63nt\x6dlnhte"]="u\x70date\x63h\x61\x6da\x64\x6f";if($buscachamado->rowCount()==0){echo"\x3c\x73cri\x70t\x20\x74\x79p\x65\x3d\"te\x78t/java\x73c\x72\x69\x70\x74\x22\x3e";${"\x47\x4cO\x42\x41\x4c\x53"}["\x7a\x73rk\x6bhq"]="d\x69\x72\x65\x74o\x72i\x6f";echo"\x61\x6c\x65r\x74(\"\x43h\x61m\x61\x64\x6f não \x65nc\x6fntr\x61d\x6f!\x22)\x3b";echo"\x77\x69n\x64ow.lo\x63\x61ti\x6f\x6e\x3d\"".${${"G\x4c\x4f\x42A\x4cS"}["z\x73\x72kk\x68q"]}."\"\x3b";echo"\x3c/scr\x69pt\x3e";exit;}${$sgjbxa}=$buscachamado->fetch();if(${${"G\x4cOBA\x4cS"}["\x70\x71\x68wlq\x6c"]}["stat\x75s"]<>"\x65n\x63\x65\x72\x72\x61do"){echo"<\x73cr\x69pt\x20typ\x65\x3d\x22tex\x74/j\x61\x76\x61\x73cri\x70t\x22>";echo"ale\x72\x74(\x22Ch\x61\x6d\x61d\x6f\x20p\x72ec\x69sa\x20ser\x20en\x63\x65rr\x61\x64o\x20p\x72ime\x69ro!\")\x3b";echo"w\x69ndow.lo\x63\x61tion=\x22".${${"\x47L\x4fB\x41\x4c\x53"}["\x62dd\x61\x71\x64\x75\x6d\x66or"]}."\x22;";echo"</\x73\x63\x72\x69\x70\x74>";exit;}${${"G\x4cO\x42\x41\x4cS"}["\x66u\x76l\x6a\x6a\x77\x74\x6a\x70"]}="\x44\x45\x4cE\x54\x45 F\x52OM c\x68\x61\x6da\x64o\x73\x20wh\x65re\x20\x69d=\x27".${$icxpfrsxwkzu}["i\x64"]."'";${${"\x47\x4c\x4fB\x41LS"}["\x63zcn\x74\x6d\x6cn\x68t\x65"]}=$conn->prepare(${${"\x47L\x4f\x42A\x4c\x53"}["\x66\x75v\x6c\x6a\x6a\x77tj\x70"]});$updatechamado->execute();echo"<sc\x72i\x70\x74\x20type\x3d\"\x74e\x78\x74/j\x61v\x61\x73cript\">";echo"\x61le\x72\x74(\"C\x68a\x6da\x64o\x20\x64\x65\x6c\x65tad\x6f\x20c\x6fm \x73\x75\x63esso\x21\")\x3b";echo"\x77i\x6e\x64\x6fw.\x6c\x6f\x63ation\x3d\"".${${"\x47\x4cO\x42\x41\x4c\x53"}["\x62ddaqd\x75\x6df\x6fr"]}."\"\x3b";echo"\x3c/\x73c\x72ipt>";}
-?>
+<?php
+
+$GLOBALS["fuvljjwtjp"] = "updatechamado";
+$GLOBALS["pqhwlql"] = "chama";
+$GLOBALS["bddaqdumfor"] = "diretorio";
+$GLOBALS["zvrubhndyfwg"] = "chamado";
+$jzgkwvbjpvmk = "usuario";
+require_once "../../pages/system/seguranca.php";
+require_once "../../pages/system/config.php";
+require_once "../../pages/system/funcoes.php";
+require_once "../../pages/system/classe.ssh.php";
+protegePagina("user");
+if ($usuario["ativo"] == 2) {
+    echo "<script type=\"text/javascript\">";
+    echo "window.location=\"home.php?page=suspenso\";";
+    echo "</script>";
+    exit;
+}
+if (isset($_POST["chamado"])) {
+    $rxyowgbogtb = "buscachamado";
+    $sgjbxa = "chama";
+    ${$GLOBALS["zvrubhndyfwg"]} = $_POST["chamado"];
+    $GLOBALS["xzlfwjbw"] = "buscachamado";
+    ${$GLOBALS["bddaqdumfor"]} = $_POST["diretorio"];
+    ${$GLOBALS["xzlfwjbw"]} = "SELECT * FROM chamados where id='" . ${$GLOBALS["zvrubhndyfwg"]} . "' and id_mestre='" . $_SESSION["usuarioID"] . "'";
+    $GLOBALS["kvvgecjkuvp"] = "buscachamado";
+    $icxpfrsxwkzu = "chama";
+    $buscachamado = $conn->prepare(${$rxyowgbogtb});
+    $buscachamado->execute();
+    $GLOBALS["czcntmlnhte"] = "updatechamado";
+    if ($buscachamado->rowCount() == 0) {
+        echo "<script type=\"text/javascript\">";
+        $GLOBALS["zsrkkhq"] = "diretorio";
+        echo "alert(\"Chamado n\xc3\xa3o encontrado!\");";
+        echo "window.location=\"" . $diretorio . "\";";
+        echo "</script>";
+        exit;
+    }
+    ${$sgjbxa} = $buscachamado->fetch();
+    if (${$GLOBALS["pqhwlql"]}["status"] != "encerrado") {
+        echo "<script type=\"text/javascript\">";
+        echo "alert(\"Chamado precisa ser encerrado primeiro!\");";
+        echo "window.location=\"" . ${$GLOBALS["bddaqdumfor"]} . "\";";
+        echo "</script>";
+        exit;
+    }
+    ${$GLOBALS["fuvljjwtjp"]} = "DELETE FROM chamados where id='" . ${$icxpfrsxwkzu}["id"] . "'";
+    ${$GLOBALS["czcntmlnhte"]} = $conn->prepare(${$GLOBALS["fuvljjwtjp"]});
+    $updatechamado->execute();
+    echo "<script type=\"text/javascript\">";
+    echo "alert(\"Chamado deletado com sucesso!\");";
+    echo "window.location=\"" . ${$GLOBALS["bddaqdumfor"]} . "\";";
+    echo "</script>";
+}

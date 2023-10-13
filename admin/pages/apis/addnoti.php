@@ -1,2 +1,73 @@
-<?php ${"\x47\x4c\x4f\x42AL\x53"}["\x6f\x74\x6fy\x63\x7aj\x79\x73\x78\x65y"]="a\x64\x64n\x6f\x74\x69\x63\x69\x61\x73";${"\x47L\x4f\x42AL\x53"}["x\x65\x79\x63\x77\x6ch\x66\x6f"]="b\x75\x73\x63\x6e\x6ft\x69\x63\x69\x61s";${"GLO\x42\x41\x4c\x53"}["\x79\x70\x6dou\x78"]="subt\x69tul\x6f";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x77\x76k\x77y\x6f\x74\x79"]="p\x72\x6f\x63n\x6f\x74\x69c\x69\x61s";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x68\x70b\x70\x63qr\x69\x6a"]="\x6d\x73\x67";${"G\x4cO\x42A\x4c\x53"}["c\x6at\x66hlpy"]="\x74\x69\x74\x75l\x6f";require_once("\x2e\x2e/../\x2e./\x70ag\x65\x73/sy\x73\x74\x65m/segur\x61n\x63\x61.\x70\x68p");require_once("\x2e./\x2e\x2e/\x2e./pages/s\x79\x73t\x65m/\x63\x6fn\x66\x69\x67\x2eph\x70");require_once("../\x2e./../p\x61\x67\x65s/sy\x73\x74e\x6d/c\x6c\x61sse\x2e\x73s\x68\x2e\x70\x68p");require_once("../.\x2e/.\x2e/p\x61\x67\x65s/syst\x65\x6d/func\x6fes.sy\x73te\x6d\x2e\x70\x68p");$fqokxct="\x61\x63\x63e\x73\x73\x4b\x45\x59";protegePagina("\x64o\x6e\x6f\x61dmi\x6e");${"G\x4c\x4f\x42A\x4cS"}["\x74\x71\x6e\x64pn\x77\x64\x62\x6a"]="i\x70\x64o\x6d\x69\x6eio";if($_POST["\x73\x65\x67max"]!==${$fqokxct}){expulsaVisitante();exit;}if($_POST["\x69\x70m\x61\x78"]!==${${"\x47\x4c\x4f\x42A\x4cS"}["\x74\x71n\x64p\x6e\x77\x64\x62\x6a"]}){expulsaVisitante();exit;}if(isset($_POST["\x61\x64\x69\x63i\x6fn\x61\x6e\x6f\x74\x69ci\x61"])&&isset($_POST["\x6fw\x6e\x65\x72"])){${"\x47\x4c\x4f\x42\x41\x4cS"}["h\x79v\x67t\x67s\x63"]="\x6d\x73\x67";${${"\x47\x4cO\x42\x41L\x53"}["\x63\x6a\x74\x66\x68\x6c\x70y"]}=sql_injector2($_POST["\x74\x69t\x75"]);$zonykgled="\x70\x72o\x63\x6e\x6f\x74i\x63\x69\x61\x73";$knpgoyq="\x73\x75\x62\x74i\x74\x75l\x6f";${$knpgoyq}=sql_injector2($_POST["\x73\x75bti\x74u"]);$nicwqctmhrp="\x70\x72\x6fc\x6e\x6f\x74\x69\x63\x69\x61s";${${"G\x4c\x4fB\x41\x4c\x53"}["\x68pb\x70c\x71rij"]}=sql_injector2($_POST["m\x73\x67"]);${$zonykgled}="s\x65l\x65\x63\x74\x20* \x46RO\x4d\x20\x6e\x6ft\x69cias wher\x65 \x73\x74a\x74u\x73=\x27a\x74i\x76o'";${$nicwqctmhrp}=$conn->prepare(${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x77\x76\x6b\x77y\x6ft\x79"]});$procnoticias->execute();if($procnoticias->rowCount()>0){echo myalertuser("\x65r\x72or","\x45\x78\x69\x73t\x65 uma no\x74\x69\x66\x69\x63\x61çã\x6f\x20a\x74i\x76a\x21","\x2e./.\x2e/home\x2e\x70\x68p?\x70age\x3da\x70is/g\x65r\x65n\x63\x69\x61\x72");exit;}$nzkosmxkiw="\x62us\x63\x6eo\x74ic\x69\x61s";if(${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x63jtf\x68\x6c\x70\x79"]}==""){echo myalertuser("\x77\x61\x72n\x69\x6eg","Tít\x75l\x6f \x65m\x20br\x61nco\x21","../\x2e\x2e/home\x2e\x70\x68\x70?\x70a\x67\x65=a\x70i\x73/g\x65\x72\x65n\x63\x69a\x72");exit;}if(${${"\x47L\x4f\x42\x41\x4c\x53"}["y\x70\x6d\x6f\x75\x78"]}==""){echo myalertuser("wa\x72ning","Su\x62\x74ítul\x6f\x20\x65\x6d\x20\x62\x72a\x6eco!","\x2e\x2e/\x2e\x2e/ho\x6d\x65.\x70h\x70?p\x61\x67e\x3d\x61pis/\x67e\x72e\x6e\x63\x69a\x72");exit;}if(${${"G\x4c\x4f\x42A\x4c\x53"}["h\x79\x76\x67t\x67\x73c"]}==""){echo myalertuser("\x77a\x72ni\x6eg","Men\x73\x61\x67\x65\x6d\x20\x65m\x20\x62\x72\x61nco\x21",".\x2e/\x2e./\x68ome\x2e\x70\x68p?p\x61g\x65=ap\x69s/\x67\x65\x72e\x6ecia\x72");exit;}${${"GLO\x42ALS"}["\x78\x65\x79c\x77\x6c\x68\x66o"]}="\x73e\x6c\x65\x63\x74\x20* F\x52OM \x6e\x6f\x74ic\x69a\x73";${${"\x47\x4cO\x42\x41\x4c\x53"}["x\x65\x79\x63w\x6c\x68f\x6f"]}=$conn->prepare(${$nzkosmxkiw});$buscnoticias->execute();if($buscnoticias->rowCount()>0){$icrltogxw="a\x64\x64\x6eo\x74icia\x73";$ynrsqh="\x6d\x73\x67";${"G\x4c\x4fBAL\x53"}["mp\x71oq\x6e\x76i"]="\x61d\x64\x6e\x6f\x74\x69c\x69a\x73";${"\x47\x4cO\x42\x41\x4c\x53"}["\x71\x66kch\x6ee"]="a\x64\x64n\x6ft\x69\x63\x69\x61\x73";${$icrltogxw}="u\x70da\x74e \x6e\x6f\x74\x69c\x69\x61s\x20\x73e\x74 \x73\x74\x61\x74u\x73\x3d'a\x74\x69\x76\x6f\x27,\x20t\x69\x74u\x6c\x6f\x3d'".${${"\x47L\x4f\x42A\x4c\x53"}["c\x6at\x66\x68\x6c\x70\x79"]}."\x27, s\x75\x62ti\x74u\x6co\x3d\x27".${${"G\x4c\x4f\x42A\x4c\x53"}["yp\x6d\x6fux"]}."\x27,\x20\x6d\x73\x67=\x27".${$ynrsqh}."\x27,\x20d\x61\x74a=\x27".date("Y-m-d\x20H:\x69:s")."\x27\x20\x77he\x72e\x20\x73\x74at\x75s='\x64\x65\x73\x61ti\x76\x61\x64\x6f\x27 LI\x4d\x49T\x20\x31";${${"\x47LOBAL\x53"}["q\x66\x6b\x63\x68\x6e\x65"]}=$conn->prepare(${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6d\x70q\x6fq\x6ev\x69"]});$addnoticias->execute();echo myalertuser("s\x75c\x63\x65\x73\x73","Not\x69\x66\x69c\x61do co\x6d \x73u\x63\x65\x73s\x6f!","\x2e./\x2e./\x68ome\x2ephp?p\x61\x67\x65=\x61pi\x73/gere\x6e\x63i\x61r");}else{$smrrgyh="s\x75bt\x69t\x75\x6c\x6f";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x68\x63eu\x72uu\x6c\x65\x76"]="\x74\x69\x74\x75\x6c\x6f";$ggxkrlqhw="a\x64\x64\x6e\x6ft\x69c\x69\x61s";${$ggxkrlqhw}="i\x6es\x65\x72\x74\x20\x69nto\x20noti\x63i\x61\x73\x20(st\x61t\x75s,\x74i\x74u\x6co,su\x62ti\x74\x75l\x6f,ms\x67,d\x61\x74a) v\x61l\x75\x65\x73\x20('\x61ti\x76o\x27,\x27".${${"\x47L\x4f\x42\x41\x4c\x53"}["hc\x65\x75\x72\x75\x75\x6ce\x76"]}."','".${$smrrgyh}."',\x27".${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x68p\x62\x70c\x71r\x69\x6a"]}."\x27,\x27".date("\x59-\x6d-d\x20H:\x69:\x73")."')";${${"G\x4cO\x42\x41\x4c\x53"}["o\x74o\x79\x63\x7a\x6ays\x78\x65y"]}=$conn->prepare(${${"\x47L\x4f\x42\x41\x4c\x53"}["o\x74\x6f\x79c\x7ajy\x73x\x65\x79"]});$addnoticias->execute();echo myalertuser("\x73\x75ccess","\x4e\x6f\x74\x69f\x69ca\x64o \x63\x6f\x6d\x20su\x63e\x73\x73\x6f!","\x2e./../h\x6f\x6de.\x70h\x70?pa\x67\x65\x3da\x70i\x73/\x67\x65\x72enc\x69a\x72");}}
-?>
+<?php
+
+$GLOBALS["otoyczjysxey"] = "addnoticias";
+$GLOBALS["xeycwlhfo"] = "buscnoticias";
+$GLOBALS["ypmoux"] = "subtitulo";
+$GLOBALS["wvkwyoty"] = "procnoticias";
+$GLOBALS["hpbpcqrij"] = "msg";
+$GLOBALS["cjtfhlpy"] = "titulo";
+require_once "../../../pages/system/seguranca.php";
+require_once "../../../pages/system/config.php";
+require_once "../../../pages/system/classe.ssh.php";
+require_once "../../../pages/system/funcoes.system.php";
+$fqokxct = "accessKEY";
+protegePagina("donoadmin");
+$GLOBALS["tqndpnwdbj"] = "ipdominio";
+if ($_POST["segmax"] !== $accessKEY) {
+    expulsaVisitante();
+    exit;
+}
+if ($_POST["ipmax"] !== ${$GLOBALS["tqndpnwdbj"]}) {
+    expulsaVisitante();
+    exit;
+}
+if (isset($_POST["adicionanoticia"]) && isset($_POST["owner"])) {
+    $GLOBALS["hyvgtgsc"] = "msg";
+    ${$GLOBALS["cjtfhlpy"]} = sql_injector2($_POST["titu"]);
+    $zonykgled = "procnoticias";
+    $knpgoyq = "subtitulo";
+    $subtitulo = sql_injector2($_POST["subtitu"]);
+    $nicwqctmhrp = "procnoticias";
+    ${$GLOBALS["hpbpcqrij"]} = sql_injector2($_POST["msg"]);
+    ${$zonykgled} = "select * FROM noticias where status='ativo'";
+    ${$nicwqctmhrp} = $conn->prepare(${$GLOBALS["wvkwyoty"]});
+    $procnoticias->execute();
+    if ($procnoticias->rowCount() > 0) {
+        echo myalertuser("error", "Existe uma notifica\xc3\xa7\xc3\xa3o ativa!", "../../home.php?page=apis/gerenciar");
+        exit;
+    }
+    $nzkosmxkiw = "buscnoticias";
+    if (${$GLOBALS["cjtfhlpy"]} == "") {
+        echo myalertuser("warning", "T\xc3\xadtulo em branco!", "../../home.php?page=apis/gerenciar");
+        exit;
+    }
+    if (${$GLOBALS["ypmoux"]} == "") {
+        echo myalertuser("warning", "Subt\xc3\xadtulo em branco!", "../../home.php?page=apis/gerenciar");
+        exit;
+    }
+    if (${$GLOBALS["hyvgtgsc"]} == "") {
+        echo myalertuser("warning", "Mensagem em branco!", "../../home.php?page=apis/gerenciar");
+        exit;
+    }
+    ${$GLOBALS["xeycwlhfo"]} = "select * FROM noticias";
+    ${$GLOBALS["xeycwlhfo"]} = $conn->prepare(${$nzkosmxkiw});
+    $buscnoticias->execute();
+    if ($buscnoticias->rowCount() > 0) {
+        $icrltogxw = "addnoticias";
+        $ynrsqh = "msg";
+        $GLOBALS["mpqoqnvi"] = "addnoticias";
+        $GLOBALS["qfkchne"] = "addnoticias";
+        $addnoticias = "update noticias set status='ativo', titulo='" . ${$GLOBALS["cjtfhlpy"]} . "', subtitulo='" . ${$GLOBALS["ypmoux"]} . "', msg='" . $msg . "', data='" . date("Y-m-d H:i:s") . "' where status='desativado' LIMIT 1";
+        $addnoticias = $conn->prepare($addnoticias);
+        $addnoticias->execute();
+        echo myalertuser("success", "Notificado com sucesso!", "../../home.php?page=apis/gerenciar");
+    } else {
+        $smrrgyh = "subtitulo";
+        $GLOBALS["hceuruulev"] = "titulo";
+        $ggxkrlqhw = "addnoticias";
+        $addnoticias = "insert into noticias (status,titulo,subtitulo,msg,data) values ('ativo','" . $titulo . "','" . $subtitulo . "','" . ${$GLOBALS["hpbpcqrij"]} . "','" . date("Y-m-d H:i:s") . "')";
+        ${$GLOBALS["otoyczjysxey"]} = $conn->prepare(${$GLOBALS["otoyczjysxey"]});
+        $addnoticias->execute();
+        echo myalertuser("success", "Notificado com sucesso!", "../../home.php?page=apis/gerenciar");
+    }
+}

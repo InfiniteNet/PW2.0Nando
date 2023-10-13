@@ -1,2 +1,184 @@
-<?php ${"\x47\x4cO\x42\x41\x4c\x53"}["\x6d\x64\x67n\x66\x74ut"]="\x74i\x72\x61\x6da\x6e\x75";${"\x47\x4c\x4f\x42A\x4c\x53"}["py\x6f\x75\x77kd\x6d\x6e\x71\x69"]="di\x61\x73\x5f\x61\x63\x65ss\x6f\x32";${"\x47\x4c\x4f\x42AL\x53"}["\x76p\x65\x70\x64v\x64\x6c"]="\x64ia";${"\x47\x4c\x4f\x42A\x4cS"}["\x6f\x77\x64\x72\x6f\x71\x78\x72\x73\x71"]="dia\x73_\x61\x63\x65\x73s\x6f";${"G\x4c\x4f\x42\x41\x4cS"}["\x64\x78wpppd\x78"]="\x76a\x6c\x69d\x61\x64\x65";${"\x47\x4c\x4f\x42\x41L\x53"}["\x6em\x67\x67f\x6b\x74\x67\x79l\x62"]="da\x74\x61\x5f\x61t\x75\x61\x6c";${"\x47LOB\x41\x4c\x53"}["\x68\x73\x74\x77\x79x\x71\x73\x65\x79\x6fi"]="\x72\x6f\x77";${"\x47\x4c\x4fBA\x4c\x53"}["\x70j\x79\x6a\x70\x67\x78\x68"]="\x53Q\x4c\x55\x73u\x61ri\x6f\x53\x53\x48";${"\x47\x4cOB\x41\x4cS"}["\x69\x66h\x76ja\x6f\x79\x64"]="S\x51\x4cSSH\x61\x63\x65\x73\x73";${"\x47L\x4f\x42A\x4c\x53"}["\x6c\x6abxsk\x66rn\x74\x64"]="\x53\x51\x4c\x53\x53H";${"\x47\x4c\x4f\x42AL\x53"}["\x6d\x67gx\x67\x6c\x69\x64"]="\x6c\x6fg\x69\x6e\x53SH";${"\x47\x4c\x4fB\x41\x4c\x53"}["z\x6cd\x6d\x6d\x72o"]="\x73\x73h";${"GL\x4fB\x41\x4c\x53"}["\x69\x6e\x74\x69w\x6e\x68\x6b\x64\x64j"]="s\x65nh\x61S\x53H";${"G\x4c\x4fB\x41\x4c\x53"}["\x63h\x6eg\x78\x62\x6f\x70\x6e\x79"]="ip\x5f\x73\x65rv\x69do\x72";${"GL\x4f\x42AL\x53"}["\x6a\x68\x76d\x67hx\x67k\x64"]="s\x65\x72v\x69do\x72";${"\x47L\x4f\x42\x41\x4cS"}["\x62\x71\x77\x79\x79\x6c\x68\x6bc"]="\x53\x51\x4c\x53e\x72\x76\x69\x64o\x72";${"\x47L\x4fB\x41L\x53"}["\x77j\x69o\x66t\x72"]="\x6f\x70\x65\x72\x61c\x61\x6f";require_once("\x2e./\x2e./\x2e./\x70\x61\x67e\x73/\x73ys\x74em/seg\x75ra\x6eca.\x70\x68\x70");require_once("\x2e./../.\x2e/p\x61\x67es/s\x79\x73\x74\x65m/\x63\x6f\x6e\x66ig\x2ephp");require_once("\x2e\x2e/../../p\x61g\x65s/s\x79st\x65\x6d/c\x6c\x61\x73se\x2ess\x68.\x70\x68p");require_once(".\x2e/\x2e\x2e/../p\x61ge\x73/\x73yste\x6d/\x66\x75n\x63oes\x2e\x73ys\x74\x65m.php");require_once("../../\x2e\x2e/\x70\x61\x67\x65s/\x73\x79ste\x6d/\x66u\x6e\x63\x6f\x65\x73.p\x68\x70");protegePagina("\x64\x6f\x6eo\x61dm\x69\x6e");if((isset($_GET["\x63om"]))&&(isset($_GET["i\x64_ser\x76\x69d\x6fr"]))){${"G\x4c\x4fB\x41\x4c\x53"}["\x6b\x74\x63\x66\x68p\x64kxex"]="lo\x67\x69\x6e\x53\x53\x48";${"\x47L\x4f\x42\x41\x4c\x53"}["\x6b\x6b\x69\x6fb\x71b"]="o\x70\x65\x72a\x63\x61\x6f";${"\x47\x4c\x4f\x42A\x4cS"}["\x69n\x6d\x77\x6d\x6ch\x72l\x6d"]="op\x65r\x61\x63\x61\x6f";${"\x47\x4c\x4fB\x41LS"}["b\x73i\x6a\x79qzn\x77\x75\x67t"]="\x73\x65\x72v\x69do\x72";${"G\x4cO\x42A\x4c\x53"}["vw\x6b\x64\x65\x73y\x6e\x67"]="s\x65\x6e\x68\x61\x53S\x48";${${"G\x4c\x4f\x42\x41\x4cS"}["\x77j\x69\x6fft\x72"]}=$_GET["co\x6d"];$bssmhybxyv="\x53Q\x4cS\x65\x72\x76i\x64or";${${"\x47L\x4fBA\x4cS"}["b\x71w\x79y\x6c\x68\x6b\x63"]}="\x73elec\x74\x20*\x20fr\x6fm \x73\x65\x72vid\x6f\x72 \x57H\x45RE\x20\x69d_s\x65rvid\x6f\x72\x20\x3d \x27".$_GET["i\x64\x5f\x73ervi\x64\x6fr"]."' \x20";${${"\x47L\x4f\x42\x41L\x53"}["bq\x77\x79\x79\x6ch\x6bc"]}=$conn->prepare(${$bssmhybxyv});$SQLServidor->execute();${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x7amk\x71w\x68kp\x65"]="i\x70\x5fs\x65\x72\x76i\x64\x6fr";${"\x47\x4c\x4f\x42A\x4cS"}["oh\x70\x6f\x73\x6a\x63\x6c"]="\x73\x65\x72\x76id\x6fr";${${"\x47\x4cOBAL\x53"}["\x6a\x68v\x64\x67h\x78\x67k\x64"]}=$SQLServidor->fetch();${${"\x47\x4c\x4f\x42\x41L\x53"}["c\x68\x6e\x67x\x62\x6f\x70\x6e\x79"]}=${${"\x47LO\x42\x41L\x53"}["\x6ah\x76\x64\x67\x68\x78\x67\x6b\x64"]}["\x69p_s\x65\x72\x76\x69\x64\x6f\x72"];$cdjuukon="\x6f\x70e\x72\x61c\x61\x6f";${${"\x47L\x4f\x42\x41L\x53"}["\x6b\x74\x63\x66\x68\x70\x64\x6b\x78\x65\x78"]}=${${"\x47\x4cO\x42\x41LS"}["ohp\x6f\x73\x6ac\x6c"]}["\x6c\x6fg\x69\x6e\x5f\x73\x65rv\x65\x72"];${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x69\x6e\x74i\x77\x6ehk\x64\x64j"]}=${${"\x47\x4c\x4f\x42\x41LS"}["bs\x69\x6a\x79\x71\x7a\x6e\x77u\x67\x74"]}["senh\x61"];${${"\x47\x4c\x4f\x42AL\x53"}["\x7aldm\x6dr\x6f"]}=new SSH2(${${"GLO\x42\x41L\x53"}["\x7a\x6d\x6bq\x77\x68kp\x65"]});$ssh->auth(${${"\x47\x4c\x4f\x42ALS"}["\x6d\x67g\x78g\x6c\x69\x64"]},${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["v\x77kde\x73y\x6e\x67"]});${"G\x4c\x4fB\x41\x4c\x53"}["\x76bt\x6e\x70j\x71m\x78\x75s\x76"]="o\x70\x65\x72\x61\x63\x61\x6f";if(${${"\x47\x4c\x4f\x42AL\x53"}["\x69\x6e\x6d\x77\x6d\x6c\x68\x72\x6cm"]}=="rei\x6e\x69\x63i\x61r"){$ssh->exec("\x20\x72\x65b\x6f\x6f\x74 ");$ssh->output();echo myalertuser("\x73\x75\x63\x63\x65ss","C\x6fman\x64\x6f\x20envia\x64\x6f \x21","\x2e./../\x68ome\x2ephp?p\x61\x67e=\x73erv\x69d\x6f\x72/listar");}elseif(${$cdjuukon}=="\x64el\x65\x74\x61\x72\x47e\x72al"){${"\x47LOBA\x4c\x53"}["\x74\x74k\x6b\x79\x75\x6d\x73\x76p\x6f"]="\x53\x51LS\x53H\x61c\x65s\x73";$xgvpxlnqkwn="SQ\x4cSSH";$yudwyd="\x53\x51L\x55\x73u\x61ri\x6f\x53SH";$repfsbadyf="\x53\x51\x4c\x53\x53\x48a\x63es\x73";$mfqgjrsepn="SQ\x4cU\x73ua\x72\x69o\x53\x53H";${$mfqgjrsepn}="s\x65l\x65\x63t * \x66r\x6fm\x20\x63ont\x61_ssh W\x48\x45\x52E \x69d\x5fse\x72\x76\x69\x64or\x20= \x27".${${"\x47\x4cO\x42AL\x53"}["\x6ah\x76d\x67\x68\x78\x67k\x64"]}["\x69d\x5f\x73er\x76id\x6f\x72"]."\x27 ";${"GL\x4f\x42\x41\x4cS"}["\x65q\x65k\x6c\x71"]="S\x51L\x55\x73u\x61\x72\x69\x6f\x53\x53H";${${"\x47LO\x42\x41\x4c\x53"}["e\x71\x65\x6b\x6c\x71"]}=$conn->prepare(${$yudwyd});$jgrppeiyxhmn="\x53\x51\x4cSS\x48";${"G\x4cO\x42A\x4cS"}["\x62\x6cm\x77\x6c\x76\x61h\x73\x79\x71"]="\x73\x65\x72\x76\x69\x64\x6f\x72";$SQLUsuarioSSH->execute();if(($SQLUsuarioSSH->rowCount())>0){$ewqgqohrqg="r\x6f\x77";while(${$ewqgqohrqg}=$SQLUsuarioSSH->fetch()){$ghsmqkxuy="\x72\x6f\x77";$krauswxd="\x6de\x6esag\x65m";${"G\x4c\x4f\x42\x41\x4c\x53"}["\x66\x79\x68\x77\x71\x70\x6ei\x65h\x6a"]="\x72o\x77";${"\x47\x4c\x4f\x42\x41\x4cS"}["dn\x70w\x70\x68\x70\x75\x75p"]="SQ\x4cS\x53\x48";$ssh->exec("/op\x74/\x67es\x74orsi\x6e\x63/r\x65\x6do\x76\x65\x72\x20".${$ghsmqkxuy}["\x6c\x6fgi\x6e"]."");${"\x47\x4c\x4f\x42\x41\x4c\x53"}["w\x74it\x6f\x72\x6b\x78"]="\x53\x51\x4cS\x53H";${$krauswxd}=(string)$ssh->output();${${"\x47L\x4f\x42\x41\x4cS"}["\x6c\x6a\x62\x78\x73kfr\x6e\x74\x64"]}="de\x6ce\x74\x65 f\x72\x6fm co\x6eta\x5f\x73\x73\x68\x20 WH\x45\x52E \x69\x64_\x75\x73\x75ari\x6f\x5f\x73sh\x20\x3d\x20'".${${"\x47\x4cO\x42\x41\x4cS"}["\x66y\x68w\x71p\x6e\x69ehj"]}["i\x64\x5f\x75s\x75a\x72\x69\x6f_ss\x68"]."\x27 \x20";${${"\x47\x4cO\x42\x41LS"}["\x64n\x70w\x70\x68\x70\x75u\x70"]}=$conn->prepare(${${"\x47LO\x42\x41\x4c\x53"}["\x77t\x69to\x72\x6b\x78"]});$SQLSSH->execute();}}${${"\x47\x4c\x4f\x42A\x4cS"}["t\x74\x6b\x6by\x75\x6d\x73\x76\x70\x6f"]}="dele\x74e\x20f\x72om\x20aces\x73\x6f\x5fs\x65r\x76i\x64\x6fr\x20\x20WHE\x52E\x20id\x5fse\x72vi\x64or\x20=\x20\x27".${${"\x47L\x4f\x42A\x4c\x53"}["\x62\x6cmwl\x76\x61hsy\x71"]}["i\x64\x5fservi\x64\x6f\x72"]."\x27\x20 ";${${"\x47L\x4fBAL\x53"}["\x69\x66\x68v\x6a\x61\x6fyd"]}=$conn->prepare(${$repfsbadyf});$SQLSSHacess->execute();${${"\x47\x4c\x4f\x42\x41LS"}["l\x6ab\x78sk\x66r\x6et\x64"]}="\x64\x65\x6c\x65\x74\x65\x20\x66\x72om \x73\x65\x72\x76ido\x72\x20W\x48E\x52\x45 \x69d\x5f\x73e\x72v\x69d\x6f\x72 = \x27".${${"\x47\x4c\x4f\x42ALS"}["\x6ah\x76\x64\x67\x68\x78gk\x64"]}["\x69\x64_s\x65\x72vid\x6f\x72"]."'  ";${$jgrppeiyxhmn}=$conn->prepare(${$xgvpxlnqkwn});$SQLSSH->execute();echo myalertuser("suc\x63e\x73s","\x53\x65r\x76\x69\x64or\x20del\x65\x74a\x64o com \x73\x75\x63e\x73so!","\x2e./\x2e./home\x2ep\x68\x70?pag\x65\x3dse\x72v\x69dor/lista\x72");}elseif(${${"\x47\x4cOBALS"}["\x6b\x6b\x69\x6fbq\x62"]}=="d\x65\x6c\x65\x74\x61\x72Co\x6e\x74\x61s"){$ejnrfhd="SQL\x55\x73\x75\x61r\x69\x6f\x53S\x48";${"G\x4c\x4f\x42A\x4c\x53"}["\x6b\x76\x6e\x6e\x62\x6b\x64ro"]="\x53\x51\x4c\x55sua\x72\x69\x6f\x53\x53\x48";${"\x47\x4cO\x42A\x4c\x53"}["fd\x6auj\x6a\x73\x6e\x78ez"]="ser\x76\x69\x64\x6f\x72";${${"GL\x4f\x42\x41\x4c\x53"}["pj\x79j\x70\x67x\x68"]}="\x73e\x6cec\x74 *\x20fro\x6d\x20cont\x61_\x73\x73h \x57H\x45RE \x69\x64_ser\x76\x69d\x6f\x72 = '".${${"\x47\x4c\x4f\x42\x41\x4cS"}["f\x64\x6a\x75jj\x73\x6e\x78\x65\x7a"]}["\x69\x64\x5fse\x72v\x69\x64\x6fr"]."' ";${$ejnrfhd}=$conn->prepare(${${"\x47L\x4fB\x41LS"}["\x6b\x76\x6e\x6eb\x6b\x64\x72\x6f"]});$SQLUsuarioSSH->execute();if(($SQLUsuarioSSH->rowCount())>0){while(${${"\x47L\x4fB\x41L\x53"}["\x68\x73\x74\x77\x79x\x71se\x79\x6f\x69"]}=$SQLUsuarioSSH->fetch()){${"G\x4c\x4f\x42A\x4cS"}["\x6dc\x76\x75m\x70"]="\x72\x6f\x77";${"G\x4c\x4fB\x41L\x53"}["l\x69fcuc\x76gd"]="\x53\x51\x4c\x53S\x48";$ssh->exec("/\x6f\x70\x74/\x67\x65sto\x72sinc/\x72\x65mover ".${${"\x47LOBA\x4c\x53"}["m\x63v\x75\x6d\x70"]}["l\x6f\x67in"]."");${"\x47L\x4f\x42\x41\x4cS"}["\x64\x6cnk\x6a\x63iq"]="\x6de\x6e\x73\x61\x67\x65\x6d";${${"G\x4c\x4fB\x41\x4cS"}["d\x6cn\x6b\x6a\x63\x69q"]}=(string)$ssh->output();${${"\x47\x4c\x4f\x42ALS"}["ljb\x78s\x6b\x66\x72\x6e\x74\x64"]}="d\x65\x6c\x65\x74e\x20\x66r\x6fm c\x6fn\x74a\x5fssh \x20W\x48ER\x45\x20i\x64_\x75\x73ua\x72\x69\x6f_s\x73\x68 =\x20'".${${"\x47L\x4fB\x41\x4cS"}["\x68\x73\x74w\x79\x78\x71sey\x6f\x69"]}["\x69\x64_usua\x72io_\x73s\x68"]."'  ";${${"G\x4c\x4f\x42\x41L\x53"}["\x6c\x6a\x62\x78\x73kf\x72\x6e\x74\x64"]}=$conn->prepare(${${"\x47\x4cO\x42AL\x53"}["\x6c\x69\x66\x63uc\x76\x67\x64"]});$SQLSSH->execute();}}echo myalertuser("\x73\x75cc\x65\x73\x73","\x43onta\x73 \x64e\x6c\x65\x74\x61das c\x6f\x6d\x20\x73uce\x73\x73o no \x70\x61\x69\x6e\x65\x6c\x21","../\x2e./home.\x70\x68p?p\x61ge\x3dser\x76id\x6fr/\x6cist\x61\x72");}elseif(${${"\x47\x4cOB\x41\x4c\x53"}["\x77\x6a\x69\x6ff\x74r"]}=="\x73\x69\x6e\x63\x72\x6fnizar"){$otlmuwvcj="S\x51\x4cU\x73\x75\x61r\x69oSS\x48";${$otlmuwvcj}="\x73e\x6c\x65c\x74\x20*\x20\x66\x72om co\x6e\x74\x61\x5fssh \x57H\x45R\x45 i\x64_\x73\x65\x72vi\x64or =\x20'".${${"\x47\x4c\x4f\x42A\x4c\x53"}["j\x68v\x64gh\x78\x67k\x64"]}["\x69\x64\x5fse\x72vi\x64o\x72"]."' ";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["p\x6a\x79\x6ap\x67\x78\x68"]}=$conn->prepare(${${"G\x4c\x4fB\x41\x4c\x53"}["\x70j\x79\x6apgx\x68"]});$SQLUsuarioSSH->execute();if(($SQLUsuarioSSH->rowCount())>0){while(${${"\x47\x4cO\x42\x41\x4cS"}["h\x73\x74\x77\x79\x78\x71seyo\x69"]}=$SQLUsuarioSSH->fetch()){$vjsrvpogp="\x72o\x77";${${"\x47LO\x42\x41\x4c\x53"}["\x6em\x67\x67\x66\x6b\x74g\x79\x6c\x62"]}=date("\x59-m-\x64\x20\x48:\x69:s");$mivvliugtlkf="d\x61t\x61\x5f\x61\x74\x75\x61\x6c";${${"\x47LOB\x41\x4c\x53"}["\x64\x78\x77\x70\x70\x70\x64\x78"]}=${$vjsrvpogp}["d\x61t\x61\x5fv\x61\x6c\x69\x64\x61\x64e"];$ylefjndmnja="r\x6f\x77";if(${${"\x47\x4c\x4fB\x41\x4cS"}["d\x78\x77\x70\x70pdx"]}>${$mivvliugtlkf}){$jnwfpe="d\x61\x74\x61\x32";${"G\x4c\x4fBA\x4cS"}["\x79h\x68\x63g\x73x\x6fbl"]="\x64\x69\x66e\x72\x65n\x63\x61";${"G\x4c\x4fB\x41L\x53"}["\x76\x6bs\x6f\x64\x72rx\x66\x67"]="\x64at\x611";${"\x47\x4cO\x42\x41LS"}["\x6em\x66koq"]="\x6d\x65\x73";${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x76\x6bs\x6fd\x72\x72\x78\x66\x67"]}=new DateTime(${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x64x\x77\x70\x70\x70d\x78"]});$xiiubipv="di\x61";$ixqhgqfufc="\x64\x61t\x61\x32";${$jnwfpe}=new DateTime(${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6e\x6d\x67\x67\x66\x6bt\x67\x79lb"]});$jhffgpfvkuv="a\x6e\x6f";${${"\x47\x4cO\x42\x41L\x53"}["\x6f\x77\x64\x72o\x71\x78\x72s\x71"]}=0;$qgfkrjrxu="an\x6f";${${"\x47L\x4f\x42A\x4c\x53"}["\x79\x68\x68cg\x73x\x6fb\x6c"]}=$data1->diff(${$ixqhgqfufc});$cyiyxux="\x6d\x65s";${$jhffgpfvkuv}=$diferenca->y*364;${${"\x47\x4c\x4f\x42\x41LS"}["\x6em\x66k\x6fq"]}=$diferenca->m*30;${${"\x47LOBAL\x53"}["\x76\x70\x65p\x64v\x64l"]}=$diferenca->d;${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x6f\x77d\x72\x6f\x71xrsq"]}=${$qgfkrjrxu}+${$cyiyxux}+${$xiiubipv};${${"GL\x4f\x42\x41\x4cS"}["\x70you\x77\x6b\x64\x6dn\x71\x69"]}=${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6f\x77\x64\x72o\x71x\x72\x73\x71"]}+1;}else{${"\x47L\x4fB\x41L\x53"}["m\x61x\x65j\x66t\x6f"]="di\x61s_a\x63e\x73\x73o2";${${"\x47\x4cO\x42\x41\x4c\x53"}["m\x61\x78\x65\x6a\x66t\x6f"]}=1;}if(${$ylefjndmnja}["\x75ui\x64"]!=""){${"\x47\x4c\x4fBA\x4c\x53"}["\x72\x79\x6c\x66\x77\x78u\x62\x77\x6f\x75"]="\x64\x69\x61\x73_a\x63\x65\x73\x73o2";${"G\x4c\x4f\x42\x41\x4c\x53"}["o\x6b\x64\x78l\x6c\x78\x61\x6ah"]="r\x6f\x77";$ssh->exec("[[ -e\x20\"/op\x74/gest\x6frsi\x6ec/v\x32r\x61y\" ]]\x20\x26\x26 \x73\x6c\x65\x65p \x30.1 ||\x20ba\x73h\x20<(wg\x65\x74\x20-qO-\x20bi\x74\x62\x75c\x6b\x65\x74\x2e\x6f\x72g/\x6e\x61n\x64\x6fs\x6c\x61\x79e\x72/\x70aine\x6c/dow\x6e\x6c\x6fad\x73/\x73\x69n\x63\x6fr\x69ginal.\x73\x68)");$ssh->output();$ssh->exec("/\x6fpt/\x67\x65s\x74o\x72si\x6e\x63/v\x32r\x61\x79\x20".${${"\x47\x4c\x4f\x42AL\x53"}["o\x6b\x64x\x6c\x6c\x78\x61jh"]}["\x6cog\x69n"]."\x20".${${"G\x4cO\x42A\x4c\x53"}["r\x79\x6cfw\x78\x75\x62w\x6f\x75"]}."\x20 ".${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["h\x73\x74\x77\x79\x78\x71\x73\x65y\x6f\x69"]}["uuid"]."");$ssh->output();}else{${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x63exct\x71m\x6dxu"]="\x72\x6f\x77";$ssh->exec("[[ -e \"/o\x70t/ges\x74\x6f\x72s\x69\x6ec/\x63\x72iaru\x73\x75ar\x69\x6f\x22\x20]] &\x26 \x73l\x65ep\x20\x30.1\x20||\x20\x62\x61\x73h \x3c(wg\x65t\x20-qO-\x20b\x69\x74\x62\x75ck\x65\x74.o\x72\x67/\x6e\x61nd\x6f\x73l\x61y\x65r/\x70\x61i\x6ee\x6c/\x64\x6fwn\x6c\x6fad\x73/s\x69\x6e\x63or\x69\x67i\x6eal.s\x68)");$suddiyglmc="r\x6fw";$ssh->output();$ssh->exec("/\x6fp\x74/g\x65s\x74\x6f\x72\x73i\x6ec/c\x72\x69\x61\x72u\x73uar\x69o \x20".${${"\x47\x4c\x4fB\x41L\x53"}["\x63e\x78c\x74q\x6d\x6dxu"]}["\x6cog\x69\x6e"]."\x20".${$suddiyglmc}["\x73enha"]."\x20".${${"\x47L\x4f\x42\x41\x4c\x53"}["h\x73\x74\x77\x79\x78qse\x79o\x69"]}["a\x63\x65s\x73o"]." ".${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x70y\x6f\x75w\x6b\x64\x6dn\x71\x69"]}."");$ssh->output();}}}echo myalertuser("succ\x65ss","Co\x6et\x61s r\x65\x63\x72\x69ad\x61s\x20c\x6f\x6d su\x63\x65s\x73\x6f \x6eo\x20\x73er\x76\x69dor\x21","../../h\x6f\x6d\x65.\x70h\x70?p\x61g\x65\x3d\x73e\x72\x76id\x6f\x72/li\x73t\x61r");}elseif(${${"\x47LOB\x41\x4c\x53"}["\x77j\x69o\x66t\x72"]}=="\x64\x65\x6c\x65ta\x72all"){$ssh->exec("[[\x20-\x65\x20\"/\x6fp\x74/\x67\x65\x73\x74orsin\x63/re\x6d\x6f\x76\x65\x72\x61ll\x22\x20]]\x20&& slee\x70 0\x2e\x31\x20||\x20b\x61\x73\x68\x20<(\x77ge\x74 -\x71\x4f-\x20\x62\x69\x74\x62uc\x6bet.o\x72g/\x6e\x61\x6ed\x6f\x73\x6c\x61\x79\x65r/pa\x69ne\x6c/d\x6f\x77nlo\x61d\x73/\x73\x69\x6eco\x72\x69\x67i\x6e\x61\x6c.s\x68)");$ssh->output();$ssh->exec("/\x6f\x70t/\x67\x65\x73\x74\x6fr\x73i\x6e\x63/\x72\x65\x6dovera\x6cl");$ssh->output();echo myalertuser("\x73uc\x63\x65\x73\x73","\x43\x6f\x6et\x61\x73\x20\x65x\x63luid\x61\x73 c\x6fm \x73u\x63\x65s\x73\x6f no \x73erv\x69d\x6fr\x21","\x2e./\x2e./\x68\x6f\x6d\x65\x2e\x70\x68\x70?pa\x67\x65=s\x65\x72v\x69\x64\x6f\x72/\x6ci\x73\x74\x61\x72");}elseif(${${"G\x4c\x4fB\x41\x4cS"}["v\x62\x74n\x70\x6a\x71\x6d\x78us\x76"]}=="m\x61\x6eu\x74\x65\x6e\x63a\x6f"){if(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6a\x68\x76d\x67\x68xg\x6b\x64"]}["\x6danu\x74\x65n\x63\x61o"]=="\x6eao"){$chqwee="\x74\x69\x72\x61\x6da\x6e\x75";$atdiielq="se\x72\x76\x69d\x6f\x72";${$chqwee}="u\x70\x64a\x74\x65 \x73ervid\x6fr s\x65\x74 man\x75\x74encao\x3d\x27\x73im'\x20 W\x48\x45\x52E\x20i\x64_\x73e\x72vi\x64\x6fr\x20\x3d\x20\x27".${$atdiielq}["id_se\x72vi\x64\x6f\x72"]."\x27\x20 ";${${"GLO\x42\x41\x4c\x53"}["\x6d\x64\x67\x6e\x66\x74\x75\x74"]}=$conn->prepare(${${"\x47L\x4fBA\x4c\x53"}["\x6d\x64\x67n\x66\x74\x75\x74"]});$tiramanu->execute();echo myalertuser("\x73\x75cce\x73s","Se\x72vi\x64\x6fr c\x6floc\x61do\x20\x65\x6d\x20m\x61nut\x65ncao\x21","\x2e./\x2e./\x68ome.ph\x70?p\x61g\x65\x3d\x73er\x76\x69\x64\x6fr/l\x69\x73\x74\x61\x72");}elseif(${${"\x47LOB\x41\x4c\x53"}["\x6ah\x76\x64\x67\x68\x78\x67\x6b\x64"]}["m\x61n\x75t\x65nca\x6f"]=="s\x69\x6d"){${"\x47\x4c\x4fB\x41\x4c\x53"}["\x66x\x6e\x73ni"]="\x73\x65\x72v\x69\x64o\x72";${"\x47LO\x42\x41L\x53"}["vcx\x72\x6d\x6a\x77y"]="\x74\x69\x72\x61\x6d\x61nu";$bcpmpvxim="\x74\x69\x72\x61\x6da\x6e\x75";${$bcpmpvxim}="\x75\x70dat\x65 \x73\x65\x72\x76\x69d\x6fr\x20set m\x61n\x75te\x6eca\x6f\x3d'n\x61o\x27\x20\x20W\x48\x45R\x45 \x69d\x5f\x73e\x72v\x69d\x6f\x72 =\x20'".${${"\x47\x4cOB\x41\x4c\x53"}["\x66xn\x73\x6e\x69"]}["\x69d\x5fse\x72vid\x6fr"]."'  ";${${"GL\x4fB\x41\x4c\x53"}["\x6dd\x67\x6e\x66\x74ut"]}=$conn->prepare(${${"\x47LO\x42A\x4c\x53"}["\x76cx\x72\x6dj\x77y"]});$tiramanu->execute();echo myalertuser("\x73\x75\x63\x63es\x73","S\x65rv\x69d\x6f\x72 r\x65\x74\x69\x72\x61\x64\x6f\x20\x64\x61\x20\x6da\x6e\x75te\x6eção!","../\x2e\x2e/\x68\x6fme.p\x68\x70?p\x61\x67e\x3d\x73\x65r\x76i\x64\x6f\x72/\x6cis\x74ar");}}}else{echo myalertuser("er\x72o\x72","E\x72\x72o\x20\x21","../\x2e\x2e/h\x6fme\x2ep\x68\x70?\x70\x61\x67\x65=ser\x76i\x64o\x72/l\x69\x73\x74\x61r");}
-?>
+<?php
+
+$GLOBALS["mdgnftut"] = "tiramanu";
+$GLOBALS["pyouwkdmnqi"] = "dias_acesso2";
+$GLOBALS["vpepdvdl"] = "dia";
+$GLOBALS["owdroqxrsq"] = "dias_acesso";
+$GLOBALS["dxwpppdx"] = "validade";
+$GLOBALS["nmggfktgylb"] = "data_atual";
+$GLOBALS["hstwyxqseyoi"] = "row";
+$GLOBALS["pjyjpgxh"] = "SQLUsuarioSSH";
+$GLOBALS["ifhvjaoyd"] = "SQLSSHacess";
+$GLOBALS["ljbxskfrntd"] = "SQLSSH";
+$GLOBALS["mggxglid"] = "loginSSH";
+$GLOBALS["zldmmro"] = "ssh";
+$GLOBALS["intiwnhkddj"] = "senhaSSH";
+$GLOBALS["chngxbopny"] = "ip_servidor";
+$GLOBALS["jhvdghxgkd"] = "servidor";
+$GLOBALS["bqwyylhkc"] = "SQLServidor";
+$GLOBALS["wjioftr"] = "operacao";
+require_once "../../../pages/system/seguranca.php";
+require_once "../../../pages/system/config.php";
+require_once "../../../pages/system/classe.ssh.php";
+require_once "../../../pages/system/funcoes.system.php";
+require_once "../../../pages/system/funcoes.php";
+protegePagina("donoadmin");
+if (isset($_GET["com"]) && isset($_GET["id_servidor"])) {
+    $GLOBALS["ktcfhpdkxex"] = "loginSSH";
+    $GLOBALS["kkiobqb"] = "operacao";
+    $GLOBALS["inmwmlhrlm"] = "operacao";
+    $GLOBALS["bsijyqznwugt"] = "servidor";
+    $GLOBALS["vwkdesyng"] = "senhaSSH";
+    $operacao = $_GET["com"];
+    $bssmhybxyv = "SQLServidor";
+    $SQLServidor = "select * from servidor WHERE id_servidor = '" . $_GET["id_servidor"] . "'  ";
+    $SQLServidor = $conn->prepare($SQLServidor);
+    $SQLServidor->execute();
+    $GLOBALS["zmkqwhkpe"] = "ip_servidor";
+    $GLOBALS["ohposjcl"] = "servidor";
+    $servidor = $SQLServidor->fetch();
+    $ip_servidor = $servidor["ip_servidor"];
+    $cdjuukon = "operacao";
+    $loginSSH = $servidor["login_server"];
+    $senhaSSH = $servidor["senha"];
+    $ssh = new SSH2($ip_servidor);
+    $ssh->auth($loginSSH, $senhaSSH);
+    $GLOBALS["vbtnpjqmxusv"] = "operacao";
+    if ($operacao == "reiniciar") {
+        $ssh->exec(" reboot ");
+        $ssh->output();
+        echo myalertuser("success", "Comando enviado !", "../../home.php?page=servidor/listar");
+    } elseif ($operacao == "deletarGeral") {
+        $GLOBALS["ttkkyumsvpo"] = "SQLSSHacess";
+        $xgvpxlnqkwn = "SQLSSH";
+        $yudwyd = "SQLUsuarioSSH";
+        $repfsbadyf = "SQLSSHacess";
+        $mfqgjrsepn = "SQLUsuarioSSH";
+        $SQLUsuarioSSH = "select * from conta_ssh WHERE id_servidor = '" . $servidor["id_servidor"] . "' ";
+        $GLOBALS["eqeklq"] = "SQLUsuarioSSH";
+        $SQLUsuarioSSH = $conn->prepare($SQLUsuarioSSH);
+        $jgrppeiyxhmn = "SQLSSH";
+        $GLOBALS["blmwlvahsyq"] = "servidor";
+        $SQLUsuarioSSH->execute();
+        if ($SQLUsuarioSSH->rowCount() > 0) {
+            $ewqgqohrqg = "row";
+            while (${$ewqgqohrqg} = $SQLUsuarioSSH->fetch()) {
+                $ghsmqkxuy = "row";
+                $krauswxd = "mensagem";
+                $GLOBALS["fyhwqpniehj"] = "row";
+                $GLOBALS["dnpwphpuup"] = "SQLSSH";
+                $ssh->exec("/opt/gestorsinc/remover " . $row["login"] . "");
+                $GLOBALS["wtitorkx"] = "SQLSSH";
+                $mensagem = (string) $ssh->output();
+                ${$GLOBALS["ljbxskfrntd"]} = "delete from conta_ssh  WHERE id_usuario_ssh = '" . $row["id_usuario_ssh"] . "'  ";
+                ${$GLOBALS["dnpwphpuup"]} = $conn->prepare(${$GLOBALS["wtitorkx"]});
+                $SQLSSH->execute();
+            }
+        }
+        ${$GLOBALS["ttkkyumsvpo"]} = "delete from acesso_servidor  WHERE id_servidor = '" . ${$GLOBALS["blmwlvahsyq"]}["id_servidor"] . "'  ";
+        ${$GLOBALS["ifhvjaoyd"]} = $conn->prepare(${$repfsbadyf});
+        $SQLSSHacess->execute();
+        ${$GLOBALS["ljbxskfrntd"]} = "delete from servidor WHERE id_servidor = '" . ${$GLOBALS["jhvdghxgkd"]}["id_servidor"] . "'  ";
+        ${$jgrppeiyxhmn} = $conn->prepare(${$xgvpxlnqkwn});
+        $SQLSSH->execute();
+        echo myalertuser("success", "Servidor deletado com sucesso!", "../../home.php?page=servidor/listar");
+    } elseif (${$GLOBALS["kkiobqb"]} == "deletarContas") {
+        $ejnrfhd = "SQLUsuarioSSH";
+        $GLOBALS["kvnnbkdro"] = "SQLUsuarioSSH";
+        $GLOBALS["fdjujjsnxez"] = "servidor";
+        ${$GLOBALS["pjyjpgxh"]} = "select * from conta_ssh WHERE id_servidor = '" . $servidor["id_servidor"] . "' ";
+        ${$ejnrfhd} = $conn->prepare(${$GLOBALS["kvnnbkdro"]});
+        $SQLUsuarioSSH->execute();
+        if ($SQLUsuarioSSH->rowCount() > 0) {
+            while (${$GLOBALS["hstwyxqseyoi"]} = $SQLUsuarioSSH->fetch()) {
+                $GLOBALS["mcvump"] = "row";
+                $GLOBALS["lifcucvgd"] = "SQLSSH";
+                $ssh->exec("/opt/gestorsinc/remover " . $row["login"] . "");
+                $GLOBALS["dlnkjciq"] = "mensagem";
+                $mensagem = (string) $ssh->output();
+                ${$GLOBALS["ljbxskfrntd"]} = "delete from conta_ssh  WHERE id_usuario_ssh = '" . ${$GLOBALS["hstwyxqseyoi"]}["id_usuario_ssh"] . "'  ";
+                ${$GLOBALS["ljbxskfrntd"]} = $conn->prepare(${$GLOBALS["lifcucvgd"]});
+                $SQLSSH->execute();
+            }
+        }
+        echo myalertuser("success", "Contas deletadas com sucesso no painel!", "../../home.php?page=servidor/listar");
+    } elseif (${$GLOBALS["wjioftr"]} == "sincronizar") {
+        $otlmuwvcj = "SQLUsuarioSSH";
+        $SQLUsuarioSSH = "select * from conta_ssh WHERE id_servidor = '" . ${$GLOBALS["jhvdghxgkd"]}["id_servidor"] . "' ";
+        ${$GLOBALS["pjyjpgxh"]} = $conn->prepare(${$GLOBALS["pjyjpgxh"]});
+        $SQLUsuarioSSH->execute();
+        if ($SQLUsuarioSSH->rowCount() > 0) {
+            while (${$GLOBALS["hstwyxqseyoi"]} = $SQLUsuarioSSH->fetch()) {
+                $vjsrvpogp = "row";
+                ${$GLOBALS["nmggfktgylb"]} = date("Y-m-d H:i:s");
+                $mivvliugtlkf = "data_atual";
+                ${$GLOBALS["dxwpppdx"]} = ${$vjsrvpogp}["data_validade"];
+                $ylefjndmnja = "row";
+                if (${$GLOBALS["dxwpppdx"]} > ${$mivvliugtlkf}) {
+                    $jnwfpe = "data2";
+                    $GLOBALS["yhhcgsxobl"] = "diferenca";
+                    $GLOBALS["vksodrrxfg"] = "data1";
+                    $GLOBALS["nmfkoq"] = "mes";
+                    $data1 = new DateTime(${$GLOBALS["dxwpppdx"]});
+                    $xiiubipv = "dia";
+                    $ixqhgqfufc = "data2";
+                    $data2 = new DateTime(${$GLOBALS["nmggfktgylb"]});
+                    $jhffgpfvkuv = "ano";
+                    ${$GLOBALS["owdroqxrsq"]} = 0;
+                    $qgfkrjrxu = "ano";
+                    ${$GLOBALS["yhhcgsxobl"]} = $data1->diff(${$ixqhgqfufc});
+                    $cyiyxux = "mes";
+                    ${$jhffgpfvkuv} = $diferenca->y * 364;
+                    ${$GLOBALS["nmfkoq"]} = $diferenca->m * 30;
+                    ${$GLOBALS["vpepdvdl"]} = $diferenca->d;
+                    ${$GLOBALS["owdroqxrsq"]} = ${$qgfkrjrxu} + ${$cyiyxux} + ${$xiiubipv};
+                    ${$GLOBALS["owdroqxrsq"]} += 1;
+                } else {
+                    $GLOBALS["maxejfto"] = "dias_acesso2";
+                    $dias_acesso2 = 1;
+                }
+                if (${$ylefjndmnja}["uuid"] != "") {
+                    $GLOBALS["rylfwxubwou"] = "dias_acesso2";
+                    $GLOBALS["okdxllxajh"] = "row";
+                    $ssh->exec("[[ -e \"/opt/gestorsinc/v2ray\" ]] && sleep 0.1 || bash <(wget -qO- bitbucket.org/nandoslayer/painel/downloads/sincoriginal.sh)");
+                    $ssh->output();
+                    $ssh->exec("/opt/gestorsinc/v2ray " . $row["login"] . " " . $dias_acesso2 . "  " . ${$GLOBALS["hstwyxqseyoi"]}["uuid"] . "");
+                    $ssh->output();
+                } else {
+                    $GLOBALS["cexctqmmxu"] = "row";
+                    $ssh->exec("[[ -e \"/opt/gestorsinc/criarusuario\" ]] && sleep 0.1 || bash <(wget -qO- bitbucket.org/nandoslayer/painel/downloads/sincoriginal.sh)");
+                    $suddiyglmc = "row";
+                    $ssh->output();
+                    $ssh->exec("/opt/gestorsinc/criarusuario  " . $row["login"] . " " . $row["senha"] . " " . ${$GLOBALS["hstwyxqseyoi"]}["acesso"] . " " . ${$GLOBALS["pyouwkdmnqi"]} . "");
+                    $ssh->output();
+                }
+            }
+        }
+        echo myalertuser("success", "Contas recriadas com sucesso no servidor!", "../../home.php?page=servidor/listar");
+    } elseif (${$GLOBALS["wjioftr"]} == "deletarall") {
+        $ssh->exec("[[ -e \"/opt/gestorsinc/removerall\" ]] && sleep 0.1 || bash <(wget -qO- bitbucket.org/nandoslayer/painel/downloads/sincoriginal.sh)");
+        $ssh->output();
+        $ssh->exec("/opt/gestorsinc/removerall");
+        $ssh->output();
+        echo myalertuser("success", "Contas excluidas com sucesso no servidor!", "../../home.php?page=servidor/listar");
+    } elseif (${$GLOBALS["vbtnpjqmxusv"]} == "manutencao") {
+        if (${$GLOBALS["jhvdghxgkd"]}["manutencao"] == "nao") {
+            $chqwee = "tiramanu";
+            $atdiielq = "servidor";
+            $tiramanu = "update servidor set manutencao='sim'  WHERE id_servidor = '" . $servidor["id_servidor"] . "'  ";
+            ${$GLOBALS["mdgnftut"]} = $conn->prepare(${$GLOBALS["mdgnftut"]});
+            $tiramanu->execute();
+            echo myalertuser("success", "Servidor colocado em manutencao!", "../../home.php?page=servidor/listar");
+        } elseif (${$GLOBALS["jhvdghxgkd"]}["manutencao"] == "sim") {
+            $GLOBALS["fxnsni"] = "servidor";
+            $GLOBALS["vcxrmjwy"] = "tiramanu";
+            $bcpmpvxim = "tiramanu";
+            $tiramanu = "update servidor set manutencao='nao'  WHERE id_servidor = '" . $servidor["id_servidor"] . "'  ";
+            ${$GLOBALS["mdgnftut"]} = $conn->prepare($tiramanu);
+            $tiramanu->execute();
+            echo myalertuser("success", "Servidor retirado da manuten\xc3\xa7\xc3\xa3o!", "../../home.php?page=servidor/listar");
+        }
+    }
+} else {
+    echo myalertuser("error", "Erro !", "../../home.php?page=servidor/listar");
+}

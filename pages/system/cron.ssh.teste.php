@@ -1,2 +1,27 @@
-<?php ${"\x47L\x4f\x42ALS"}["\x76\x79fp\x67\x6dt\x76"]="S\x51\x4c\x44\x65\x6c\x53SH";${"G\x4c\x4fBAL\x53"}["dos\x69\x62c\x6b\x68\x6fc\x6f"]="\x53Q\x4c\x55\x73\x75\x61\x72i\x6fSSH";require_once("\x73e\x67u\x72a\x6ec\x61.\x70hp");require_once("co\x6e\x66\x69g\x2e\x70h\x70");$lhjvwvb="\x69d\x5f\x6cog\x69\x6e";require_once("\x66\x75nc\x6f\x65\x73\x2e\x70\x68\x70");require_once("\x63l\x61s\x73e.\x73s\x68.\x70\x68p");$vxlyotwtbui="\x69\x64\x5f\x6c\x6f\x67in";${$lhjvwvb}=$argv[1];if(!empty(${$vxlyotwtbui})){$gwfiyqefvs="i\x64\x5f\x6cog\x69n";${"\x47LOBAL\x53"}["\x66\x6b\x66\x67qx\x62"]="i\x64_\x6c\x6f\x67i\x6e";$nrysekerkg="\x53\x51L\x55\x73u\x61\x72\x69\x6f\x53\x53H";$dbwoltqn="\x53\x51\x4cUsuar\x69o\x53\x53\x48";${$dbwoltqn}="se\x6c\x65\x63t * fr\x6fm\x20cont\x61_ssh\x20\x57\x48ER\x45 \x69\x64\x5f\x75\x73\x75\x61r\x69\x6f\x5f\x73s\x68 =\x20'".${${"\x47L\x4fB\x41\x4c\x53"}["f\x6b\x66g\x71xb"]}."\x27\x20\x61nd\x20s\x74a\x74u\x73='\x31' \x61\x6e\x64 \x61paga\x72\x3d'\x30'";${${"\x47\x4cO\x42\x41\x4cS"}["\x64\x6fs\x69\x62\x63\x6b\x68o\x63\x6f"]}=$conn->prepare(${$nrysekerkg});$bxhbysfrs="\x53Q\x4c\x44e\x6cS\x53\x48";$uelsvg="S\x51\x4cDe\x6c\x53SH";${"G\x4c\x4f\x42A\x4c\x53"}["\x64nq\x77to\x72"]="c\x6fn\x74\x61\x5f\x73s\x68";$SQLUsuarioSSH->execute();${${"\x47\x4cO\x42\x41\x4c\x53"}["\x64n\x71\x77\x74\x6f\x72"]}=$SQLUsuarioSSH->fetch();${${"\x47L\x4f\x42AL\x53"}["\x76\x79\x66pgm\x74\x76"]}="upd\x61t\x65 co\x6eta\x5fs\x73h set\x20s\x74\x61\x74u\x73\x3d'3\x27, \x61\x70a\x67ar\x3d\x273',\x20i\x64_us\x75ari\x6f=\x270'\x20\x57\x48E\x52E\x20i\x64\x5fu\x73u\x61\x72io\x5fss\x68\x20\x3d\x20'".${$gwfiyqefvs}."\x27";${$bxhbysfrs}=$conn->prepare(${$uelsvg});$SQLDelSSH->execute();}
-?>
+<?php
+
+$GLOBALS["vyfpgmtv"] = "SQLDelSSH";
+$GLOBALS["dosibckhoco"] = "SQLUsuarioSSH";
+require_once "seguranca.php";
+require_once "config.php";
+$lhjvwvb = "id_login";
+require_once "funcoes.php";
+require_once "classe.ssh.php";
+$vxlyotwtbui = "id_login";
+$id_login = $argv[1];
+if (!empty($id_login)) {
+    $gwfiyqefvs = "id_login";
+    $GLOBALS["fkfgqxb"] = "id_login";
+    $nrysekerkg = "SQLUsuarioSSH";
+    $dbwoltqn = "SQLUsuarioSSH";
+    $SQLUsuarioSSH = "select * from conta_ssh WHERE id_usuario_ssh = '" . $id_login . "' and status='1' and apagar='0'";
+    $SQLUsuarioSSH = $conn->prepare($SQLUsuarioSSH);
+    $bxhbysfrs = "SQLDelSSH";
+    $uelsvg = "SQLDelSSH";
+    $GLOBALS["dnqwtor"] = "conta_ssh";
+    $SQLUsuarioSSH->execute();
+    $conta_ssh = $SQLUsuarioSSH->fetch();
+    $SQLDelSSH = "update conta_ssh set status='3', apagar='3', id_usuario='0' WHERE id_usuario_ssh = '" . $id_login . "'";
+    $SQLDelSSH = $conn->prepare($SQLDelSSH);
+    $SQLDelSSH->execute();
+}

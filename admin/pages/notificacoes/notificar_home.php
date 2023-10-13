@@ -1,2 +1,70 @@
-<?php ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x76\x76\x64o\x74\x76\x74"]="\x6ds\x67";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x74\x61\x73\x6b\x6b\x68"]="\x74\x69\x70o";${"G\x4c\x4f\x42\x41\x4cS"}["o\x77\x6fl\x6ac\x70"]="no\x74\x69\x6es";${"\x47\x4c\x4fB\x41\x4c\x53"}["j\x68n\x79qv\x71"]="r\x6f\x77";${"\x47L\x4f\x42A\x4c\x53"}["\x6d\x6d\x6c\x70\x7age\x71\x74\x70"]="\x53\x51\x4ccli";${"G\x4c\x4f\x42A\x4c\x53"}["z\x79\x72\x70\x72\x66\x78\x6b"]="\x63\x6c\x69\x65nt\x65";${"G\x4cO\x42\x41\x4c\x53"}["s\x6bg\x78\x65\x71\x63h\x66\x70\x74"]="\x63\x6c\x69e\x6e\x74\x65\x73";require_once("\x2e\x2e/.\x2e/\x2e./pa\x67\x65s/\x73y\x73\x74em/segu\x72a\x6e\x63\x61\x2e\x70hp");require_once("\x2e\x2e/.\x2e/.\x2e/\x70a\x67e\x73/\x73y\x73\x74em/co\x6ef\x69\x67\x2eph\x70");require_once("\x2e./.\x2e/\x2e\x2e/\x70ag\x65s/\x73\x79\x73te\x6d/f\x75\x6eco\x65s.\x73\x79\x73te\x6d\x2eph\x70");protegePagina("don\x6fa\x64\x6d\x69\x6e");if(isset($_POST["cl\x69e\x6ete\x73"])){${"G\x4c\x4f\x42A\x4c\x53"}["\x71\x66\x74\x78\x6b\x6a\x61og\x72"]="c\x6c\x69\x65\x6et\x65";$pirttuycn="\x63\x6c\x69\x65n\x74\x65";$xorlpsrvmlen="c\x6c\x69\x65\x6e\x74e";${"\x47\x4cO\x42ALS"}["\x7ai\x6divf\x79\x78\x72\x63\x72"]="cli\x65\x6e\x74\x65s";${"\x47L\x4fB\x41\x4c\x53"}["m\x6dr\x73\x70\x6f\x72"]="m\x73\x67";${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x73\x6b\x67\x78\x65\x71\x63h\x66pt"]}=sql_injector($_POST["c\x6c\x69en\x74\x65\x73"]);${${"\x47L\x4fB\x41\x4cS"}["\x6dmrs\x70\x6fr"]}=sql_injector($_POST["\x6d\x73g"]);${"\x47\x4cOBA\x4c\x53"}["\x6d\x6f\x6e\x6f\x71\x78s\x6aw\x6d"]="\x74\x69\x70\x6f";echo${${"\x47LO\x42\x41\x4c\x53"}["\x73kg\x78e\x71chf\x70t"]};$qylxcdy="S\x51\x4ccli";switch(${${"G\x4cOB\x41\x4c\x53"}["z\x69\x6div\x66y\x78\x72\x63\x72"]}){case 1:${${"GLO\x42\x41L\x53"}["\x7a\x79\x72\x70\x72\x66xk"]}="t\x6f\x64\x6f\x73";break;case 2:${${"G\x4c\x4fB\x41\x4c\x53"}["\x7ay\x72\x70r\x66\x78k"]}="rev\x65\x6ed\x61";break;case 3:${${"GLO\x42A\x4c\x53"}["z\x79\x72p\x72\x66xk"]}="\x76p\x6e";break;default:${${"GLOB\x41L\x53"}["\x71\x66t\x78\x6bj\x61o\x67r"]}="e\x72\x72\x6f";break;}${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["mo\x6eoqxsjw\x6d"]}="ou\x74ro\x73";${"G\x4c\x4f\x42\x41LS"}["\x77\x73\x6e\x6d\x6bl"]="\x53\x51L\x63\x6ci";if(${$xorlpsrvmlen}=="e\x72\x72o"){echo"<\x73\x63\x72\x69pt t\x79pe\x3d\x22t\x65\x78\x74/j\x61v\x61s\x63\x72\x69pt\">";echo"\x61\x6ce\x72\x74(\x22E\x72ro\x20n\x6f\x20t\x69p\x6f\x20\x64\x65 \x63li\x65n\x74\x65!\");";echo"wi\x6e\x64ow\x2el\x6f\x63a\x74io\x6e=\"\x2e./.\x2e/\x68\x6fm\x65.php\x22\x3b";echo"</\x73cr\x69p\x74\x3e";exit;}if(${$pirttuycn}=="\x74odos"){$keoomm="S\x51Lc\x6ci";${$keoomm}="S\x45\x4cECT *\x20\x46\x52O\x4d us\x75ar\x69o";}else{${"GL\x4fB\x41\x4c\x53"}["\x6c\x69\x64\x68\x6alk\x6f\x6a\x67\x68f"]="\x63l\x69\x65\x6e\x74e";${${"G\x4c\x4f\x42AL\x53"}["\x6d\x6d\x6c\x70\x7ag\x65\x71tp"]}="\x53EL\x45\x43T *\x20FR\x4fM\x20\x75s\x75\x61\x72i\x6f\x20wh\x65\x72e \x74i\x70\x6f=\x27".${${"\x47L\x4fB\x41\x4c\x53"}["l\x69\x64\x68j\x6c\x6bo\x6ag\x68\x66"]}."'";}${$qylxcdy}=$conn->prepare(${${"\x47L\x4f\x42\x41\x4c\x53"}["ws\x6emk\x6c"]});$SQLcli->execute();if($SQLcli->rowCount()>0){while(${${"G\x4c\x4fB\x41\x4cS"}["\x6a\x68\x6e\x79\x71\x76\x71"]}=$SQLcli->fetch()){${"\x47\x4c\x4fB\x41\x4c\x53"}["tb\x66\x74\x61\x68"]="msg";$cqxktdh="\x6dsg";$wdaicgq="n\x6f\x74\x69\x6es";$xtziwrefflp="\x6eot\x69\x6e\x73";${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x74\x62\x66t\x61\x68"]}=${$cqxktdh};${${"G\x4c\x4f\x42\x41\x4cS"}["\x6fw\x6f\x6cjcp"]}="I\x4e\x53E\x52T I\x4e\x54O\x20\x6e\x6ft\x69\x66\x69c\x61\x63o\x65\x73\x20(u\x73\x75ar\x69\x6f_i\x64,d\x61t\x61,t\x69\x70\x6f,\x6c\x69\x6ek\x66\x61\x74ur\x61,\x6d\x65n\x73ag\x65m)\x20\x76al\x75\x65s (\x27".${${"GL\x4fB\x41\x4c\x53"}["\x6a\x68\x6ey\x71\x76\x71"]}["id\x5fusuario"]."','".date("\x59-m-\x64 H:i:s")."\x27,\x27".${${"G\x4cOB\x41\x4c\x53"}["\x74\x61\x73k\x6b\x68"]}."',\x27Ad\x6di\x6e\x27,\x27".${${"\x47\x4cO\x42\x41L\x53"}["v\x76\x64ot\x76\x74"]}."\x27)";${$wdaicgq}=$conn->prepare(${$xtziwrefflp});$notins->execute();}}echo myalertuser("\x73u\x63ces\x73","\x4eoti\x66\x69c\x61do\x20\x63\x6fm \x73u\x63\x65\x73\x73o !","../.\x2e/hom\x65.\x70\x68p");}
-?>
+<?php
+
+$GLOBALS["vvdotvt"] = "msg";
+$GLOBALS["taskkh"] = "tipo";
+$GLOBALS["owoljcp"] = "notins";
+$GLOBALS["jhnyqvq"] = "row";
+$GLOBALS["mmlpzgeqtp"] = "SQLcli";
+$GLOBALS["zyrprfxk"] = "cliente";
+$GLOBALS["skgxeqchfpt"] = "clientes";
+require_once "../../../pages/system/seguranca.php";
+require_once "../../../pages/system/config.php";
+require_once "../../../pages/system/funcoes.system.php";
+protegePagina("donoadmin");
+if (isset($_POST["clientes"])) {
+    $GLOBALS["qftxkjaogr"] = "cliente";
+    $pirttuycn = "cliente";
+    $xorlpsrvmlen = "cliente";
+    $GLOBALS["zimivfyxrcr"] = "clientes";
+    $GLOBALS["mmrspor"] = "msg";
+    $clientes = sql_injector($_POST["clientes"]);
+    $msg = sql_injector($_POST["msg"]);
+    $GLOBALS["monoqxsjwm"] = "tipo";
+    echo $clientes;
+    $qylxcdy = "SQLcli";
+    switch ($clientes) {
+        case 1:
+            ${$GLOBALS["zyrprfxk"]} = "todos";
+            break;
+        case 2:
+            ${$GLOBALS["zyrprfxk"]} = "revenda";
+            break;
+        case 3:
+            ${$GLOBALS["zyrprfxk"]} = "vpn";
+            break;
+        default:
+            ${$GLOBALS["qftxkjaogr"]} = "erro";
+            break;
+    }
+    ${$GLOBALS["monoqxsjwm"]} = "outros";
+    $GLOBALS["wsnmkl"] = "SQLcli";
+    if (${$xorlpsrvmlen} == "erro") {
+        echo "<script type=\"text/javascript\">";
+        echo "alert(\"Erro no tipo de cliente!\");";
+        echo "window.location=\"../../home.php\";";
+        echo "</script>";
+        exit;
+    }
+    if (${$pirttuycn} == "todos") {
+        $keoomm = "SQLcli";
+        $SQLcli = "SELECT * FROM usuario";
+    } else {
+        $GLOBALS["lidhjlkojghf"] = "cliente";
+        ${$GLOBALS["mmlpzgeqtp"]} = "SELECT * FROM usuario where tipo='" . $cliente . "'";
+    }
+    ${$qylxcdy} = $conn->prepare(${$GLOBALS["wsnmkl"]});
+    $SQLcli->execute();
+    if ($SQLcli->rowCount() > 0) {
+        while (${$GLOBALS["jhnyqvq"]} = $SQLcli->fetch()) {
+            $GLOBALS["tbftah"] = "msg";
+            $cqxktdh = "msg";
+            $wdaicgq = "notins";
+            $xtziwrefflp = "notins";
+            $msg = $msg;
+            ${$GLOBALS["owoljcp"]} = "INSERT INTO notificacoes (usuario_id,data,tipo,linkfatura,mensagem) values ('" . ${$GLOBALS["jhnyqvq"]}["id_usuario"] . "','" . date("Y-m-d H:i:s") . "','" . ${$GLOBALS["taskkh"]} . "','Admin','" . ${$GLOBALS["vvdotvt"]} . "')";
+            ${$wdaicgq} = $conn->prepare(${$xtziwrefflp});
+            $notins->execute();
+        }
+    }
+    echo myalertuser("success", "Notificado com sucesso !", "../../home.php");
+}

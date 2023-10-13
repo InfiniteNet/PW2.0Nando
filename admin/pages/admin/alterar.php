@@ -1,2 +1,114 @@
-<?php ${"\x47\x4c\x4f\x42\x41\x4cS"}["t\x77\x68\x78\x67r\x75\x6c\x62\x6fv"]="\x53\x51\x4c\x55\x50\x55s\x65r";${"\x47L\x4f\x42\x41L\x53"}["\x76\x6b\x73\x6b\x6e\x77\x6a\x78\x73\x65"]="S\x51L\x41DM";${"\x47\x4cOBAL\x53"}["\x79\x77bw\x6c\x71v\x76ei"]="S\x51\x4cUse\x72";${"G\x4c\x4fB\x41\x4c\x53"}["\x68\x62\x66\x72q\x6a\x67s\x62\x68\x79"]="\x53\x51\x4c\x43\x53\x53H";${"\x47L\x4f\x42\x41\x4c\x53"}["\x6dtj\x73\x6b\x72ox\x62a\x74"]="\x53Q\x4c\x55su\x61ri\x6f";${"G\x4c\x4fB\x41L\x53"}["\x6b\x62v\x6f\x66\x73\x69\x6a"]="s\x65n\x68\x61n\x65\x77";${"\x47L\x4f\x42\x41\x4cS"}["vi\x78\x78p\x63\x64\x72\x68yd"]="\x73\x65nha\x61\x74";${"\x47\x4cO\x42\x41L\x53"}["g\x74\x6er\x69\x68\x68\x6b\x6d\x79\x6e"]="te\x78\x74\x6frev";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x67\x61\x69\x63y\x73u"]="s\x69t\x65";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x79\x6c\x6e\x63\x71\x68"]="\x6eo\x6d\x65";${"\x47LO\x42A\x4c\x53"}["\x76\x6d\x74\x6b\x6fc\x6d"]="i\x70\x64\x6fmi\x6e\x69\x6f";require_once(".\x2e/../\x2e\x2e/\x70\x61\x67\x65s/sy\x73\x74em/segur\x61n\x63a\x2e\x70\x68\x70");require_once("\x2e\x2e/.\x2e/\x2e./\x70a\x67es/s\x79st\x65m/co\x6ef\x69\x67\x2e\x70h\x70");require_once("\x2e./\x2e./../pa\x67e\x73/\x73y\x73\x74em/fu\x6e\x63o\x65s.\x73\x79s\x74\x65\x6d\x2e\x70\x68\x70");$motrcgb="\x61\x63ce\x73\x73\x4bE\x59";protegePagina("do\x6eo\x61d\x6di\x6e");if($_POST["segm\x61x"]!==${$motrcgb}){expulsaVisitante();exit;}if($_POST["\x69\x70m\x61x"]!==${${"\x47LOBA\x4c\x53"}["\x76\x6d\x74\x6b\x6fc\x6d"]}){expulsaVisitante();exit;}if((isset($_POST["\x6eom\x65"]))and(isset($_POST["\x65m\x61\x69l"]))and(isset($_POST["\x69d\x75su\x61rio"]))){${"G\x4cOB\x41\x4c\x53"}["\x67\x73\x7ank\x77"]="\x53\x51\x4cCSS\x48";${"\x47\x4c\x4fBA\x4c\x53"}["\x6d\x68\x64\x75\x72\x74\x6dt\x64kw"]="\x63el\x75\x6ca\x72";${"\x47L\x4f\x42\x41L\x53"}["u\x73\x71p\x6c\x72\x76\x74\x6er\x65"]="SQ\x4cU\x73\x75\x61\x72io";$owptigwapbcs="t\x65\x78\x74\x6fco\x6e";${${"G\x4c\x4fBA\x4c\x53"}["\x79\x6c\x6e\x63\x71\x68"]}=sql_injector($_POST["\x6eom\x65"]);${"\x47\x4c\x4f\x42\x41\x4cS"}["\x6e\x62\x6ejop\x66\x64\x69\x65\x6d\x71"]="\x53Q\x4c\x55\x73\x65r";$vfdwvgn="\x6c\x6f\x67\x69\x6e";${"G\x4c\x4fB\x41\x4c\x53"}["\x6cb\x6c\x79\x79\x65"]="e\x6d\x61\x69\x6c";${$vfdwvgn}=sql_injector($_POST["id\x75\x73\x75\x61r\x69o"]);${${"G\x4c\x4fB\x41\x4c\x53"}["m\x68du\x72\x74m\x74\x64k\x77"]}=sql_injector($_POST["ce\x6cul\x61\x72"]);${"\x47\x4cO\x42\x41\x4c\x53"}["fy\x71\x67\x72\x70\x62ovr"]="\x53\x51\x4c\x55sua\x72\x69o";${${"G\x4cO\x42ALS"}["\x6cb\x6c\x79\x79\x65"]}=sql_injector($_POST["ema\x69l"]);${${"G\x4cOB\x41\x4c\x53"}["\x67a\x69\x63\x79\x73\x75"]}=sql_injector($_POST["s\x69te"]);$eulfopoqcli="\x53\x51\x4cCS\x53\x48";${$owptigwapbcs}=sql_injector($_POST["\x74\x65x\x74o\x63o\x6e\x61\x74\x74"]);${${"\x47L\x4f\x42AL\x53"}["gt\x6e\x72i\x68\x68\x6b\x6d\x79\x6e"]}=sql_injector($_POST["\x74\x65\x78\x74o\x72e\x76\x61\x74t"]);${"\x47L\x4f\x42\x41LS"}["\x65w\x6b\x66\x66\x6f"]="S\x51LU\x73er";${${"\x47\x4cO\x42\x41\x4c\x53"}["\x76\x69x\x78\x70\x63\x64\x72hyd"]}=sql_injector($_POST["\x73\x65\x6e\x68aant\x69ga"]);${${"\x47\x4c\x4fB\x41\x4c\x53"}["k\x62vo\x66s\x69\x6a"]}=sql_injector($_POST["\x6e\x6f\x76\x61se\x6e\x68a"]);${${"\x47L\x4fB\x41LS"}["m\x74\x6a\x73\x6bro\x78\x62\x61\x74"]}="sel\x65\x63t\x20* f\x72o\x6d\x20u\x73\x75\x61r\x69\x6f\x20WH\x45\x52E login\x3d'".$_POST["id\x75s\x75ar\x69\x6f"]."\x27 ";${${"\x47L\x4f\x42ALS"}["fyq\x67r\x70\x62\x6f\x76\x72"]}=$conn->prepare(${${"\x47LOB\x41LS"}["\x75s\x71p\x6c\x72\x76t\x6er\x65"]});$SQLUsuario->execute();if(($SQLUsuario->rowCount())>0){echo myalertuser("w\x61r\x6ei\x6e\x67","\x4f\x20\x75suá\x72i\x6f ".$_POST["\x69\x64\x75\x73ua\x72\x69\x6f"]." já \x65\x78\x69\x73\x74e!","\x2e\x2e/\x2e./\x68\x6fm\x65.\x70\x68\x70?p\x61g\x65=\x61d\x6d\x69\x6e/\x64ados");exit;}${$eulfopoqcli}="\x73e\x6cec\x74\x20*\x20f\x72om co\x6e\x74\x61\x5f\x73\x73h\x20W\x48\x45R\x45 lo\x67\x69\x6e\x3d\x27".$_POST["id\x75s\x75\x61\x72io"]."\x27 ";${${"\x47\x4c\x4f\x42\x41L\x53"}["\x68\x62fr\x71\x6a\x67\x73\x62\x68\x79"]}=$conn->prepare(${${"G\x4cO\x42\x41\x4c\x53"}["g\x73znk\x77"]});$SQLCSSH->execute();if(($SQLCSSH->rowCount())>0){echo myalertuser("war\x6ei\x6e\x67","O \x75s\x75á\x72\x69o\x20".$_POST["\x69\x64u\x73u\x61\x72i\x6f"]."\x20já e\x78\x69\x73t\x65\x21","../../\x68om\x65\x2e\x70\x68p?\x70age\x3d\x61\x64min/\x64ados");exit;}${${"G\x4cO\x42\x41\x4c\x53"}["n\x62n\x6ao\x70fd\x69\x65\x6d\x71"]}="s\x65\x6c\x65\x63\x74\x20* fr\x6fm\x20adm\x69\x6e\x20w\x68e\x72\x65 \x69d\x5fadm\x69n\x69\x73\x74\x72ador = '".$_SESSION["u\x73\x75a\x72\x69\x6f\x49D"]."\x27\x20\x20 ";${${"\x47LO\x42A\x4c\x53"}["\x65w\x6b\x66\x66\x6f"]}=$conn->prepare(${${"\x47L\x4f\x42A\x4cS"}["y\x77\x62\x77l\x71\x76\x76ei"]});$SQLUser->execute();if(($SQLUser->rowCount())>0){${"\x47\x4c\x4f\x42AL\x53"}["b\x65\x77\x79p\x69\x66bh"]="S\x51L\x55P\x55\x73\x65\x72";${"\x47\x4cOB\x41\x4cS"}["\x71\x79f\x63\x74\x6fwl\x67"]="\x65\x75\x61d\x6d";$gmpblufrfcfh="l\x6fg\x69\x6e";$lejlbxd="up\x64\x61t\x65\x73\x65\x6eh\x61";${${"\x47\x4cO\x42AL\x53"}["\x71\x79\x66\x63\x74owl\x67"]}=$SQLUser->fetch();${"\x47\x4c\x4fBALS"}["\x6d\x79\x6d\x6d\x67\x79\x6f\x6a\x67\x6e"]="\x65\x75\x61\x64\x6d";$dgkkervxf="s\x65n\x68aat";if(${$gmpblufrfcfh}!==${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6dy\x6d\x6dgy\x6fjg\x6e"]}["\x6co\x67i\x6e"]){$iboetwhnbjg="\x53QL\x41\x44\x4d";${"\x47\x4cO\x42A\x4c\x53"}["\x76\x75\x6d\x67\x71\x68il\x73"]="\x53\x51\x4c\x41\x44M";${${"\x47L\x4fB\x41L\x53"}["\x76\x6b\x73\x6b\x6ewj\x78\x73e"]}="\x73e\x6c\x65c\x74\x20*\x20\x66\x72o\x6d\x20\x61\x64min\x20WHER\x45 l\x6f\x67i\x6e\x3d'".$_POST["\x69\x64u\x73uari\x6f"]."\x27 ";${$iboetwhnbjg}=$conn->prepare(${${"G\x4c\x4f\x42A\x4c\x53"}["v\x75\x6dg\x71h\x69\x6c\x73"]});$SQLADM->execute();if(($SQLADM->rowCount())>0){echo myalertuser("w\x61\x72n\x69n\x67","O \x75\x73uá\x72\x69\x6f\x20".$_POST["idu\x73\x75\x61rio"]."\x20\x6aá \x65x\x69ste\x21","../\x2e\x2e/h\x6fme\x2e\x70h\x70?\x70age=ad\x6d\x69n/dados");exit;}}if(${$dgkkervxf}<>""){$pwhgfrr="se\x6e\x68\x61at";${"\x47LO\x42A\x4cS"}["\x6d\x76\x71\x6f\x73\x68w\x78x\x64\x64"]="\x65\x75a\x64\x6d";$zlzsojhq="\x73\x65n\x68\x61\x61\x74";$rhxnlbsfr="\x73\x65\x6e\x68an\x65\x77";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["k\x78c\x79w\x76\x66fd\x6f\x6e"]="s\x65n\x68\x61\x6ee\x77";$ihcwstwtw="u\x70da\x74\x65\x73\x65\x6eha";if(${$pwhgfrr}<>${${"G\x4c\x4f\x42A\x4cS"}["m\x76q\x6fs\x68\x77\x78\x78\x64\x64"]}["\x73\x65\x6e\x68a"]){echo myalertuser("\x65r\x72o\x72","\x53\x65n\x68\x61\x20\x61t\x75a\x6c inc\x6f\x72\x72eta\x21","\x2e\x2e/.\x2e/\x68\x6f\x6de.ph\x70?\x70age\x3da\x64m\x69n/\x64a\x64o\x73");exit;}elseif(${$zlzsojhq}==${${"G\x4cOB\x41\x4c\x53"}["\x6b\x78\x63\x79\x77\x76\x66\x66\x64\x6f\x6e"]}){echo myalertuser("\x69nfo","A\x20senh\x61\x20\x64e\x76\x65\x20\x73\x65\x72\x20\x64\x69fe\x72\x65\x6e\x74e d\x61\x20\x61tu\x61\x6c!","\x2e\x2e/\x2e\x2e/\x68o\x6de.\x70\x68p?page=admi\x6e/d\x61dos");exit;}if(strlen(${$rhxnlbsfr})<5){echo myalertuser("\x65r\x72\x6f\x72","S\x65\x6eh\x61\x20\x6d\x75it\x6f \x63\x75r\x74a\x21","\x2e./\x2e\x2e/\x68ome\x2ep\x68p?\x70\x61\x67\x65\x3d\x61d\x6d\x69n/d\x61dos");exit;}${$ihcwstwtw}="se\x6eha\x3d'".${${"G\x4c\x4f\x42\x41\x4cS"}["k\x62\x76\x6ffs\x69\x6a"]}."\x27,";}${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x62\x65\x77y\x70\x69f\x62\x68"]}="\x75\x70d\x61\x74e \x61dmin \x73\x65\x74 ".${$lejlbxd}." no\x6de\x3d\x27".$_POST["n\x6fme"]."\x27, l\x6fgin='".$_POST["i\x64\x75su\x61\x72\x69\x6f"]."',\x20c\x65l\x75\x6car\x3d'".$_POST["\x63e\x6cu\x6car"]."\x27,\x20em\x61il='".$_POST["em\x61\x69l"]."', \x73i\x74\x65\x3d\x27".$_POST["\x73it\x65"]."\x27, \x74ext\x6f\x63\x6fn\x3d'".$_POST["t\x65x\x74\x6fcon\x61\x74\x74"]."', t\x65x\x74or\x65v=\x27".$_POST["\x74e\x78t\x6frev\x61\x74t"]."'\x20\x57H\x45\x52E \x69d\x5f\x61d\x6d\x69\x6e\x69s\x74\x72\x61\x64\x6f\x72\x20\x3d\x20\x27".$_SESSION["\x75\x73u\x61\x72io\x49D"]."\x27\x20";${${"\x47L\x4fB\x41\x4c\x53"}["\x74whxgr\x75\x6cbo\x76"]}=$conn->prepare(${${"G\x4cOB\x41\x4c\x53"}["\x74w\x68\x78gru\x6c\x62ov"]});$SQLUPUser->execute();echo myalertuser("suc\x63\x65\x73\x73","A\x6cte\x72\x61do\x20\x63\x6f\x6d\x20\x73\x75c\x65s\x73o\x20\x21","\x2e./.\x2e/home.ph\x70?\x70ag\x65=a\x64\x6din/\x64a\x64\x6f\x73");}else{echo myalertuser("\x65\x72ror","er\x72o !","../\x2e./\x68o\x6de.\x70\x68\x70?p\x61g\x65=ad\x6di\x6e/\x64\x61\x64o\x73");exit;}}else{echo myalertuser("e\x72\x72or","\x45rr\x6f \x21",".\x2e/.\x2e/ho\x6d\x65\x2e\x70\x68p?pag\x65=ad\x6din/d\x61\x64\x6f\x73");exit;}
-?>
+<?php
+
+$GLOBALS["twhxgrulbov"] = "SQLUPUser";
+$GLOBALS["vksknwjxse"] = "SQLADM";
+$GLOBALS["ywbwlqvvei"] = "SQLUser";
+$GLOBALS["hbfrqjgsbhy"] = "SQLCSSH";
+$GLOBALS["mtjskroxbat"] = "SQLUsuario";
+$GLOBALS["kbvofsij"] = "senhanew";
+$GLOBALS["vixxpcdrhyd"] = "senhaat";
+$GLOBALS["gtnrihhkmyn"] = "textorev";
+$GLOBALS["gaicysu"] = "site";
+$GLOBALS["ylncqh"] = "nome";
+$GLOBALS["vmtkocm"] = "ipdominio";
+require_once "../../../pages/system/seguranca.php";
+require_once "../../../pages/system/config.php";
+require_once "../../../pages/system/funcoes.system.php";
+$motrcgb = "accessKEY";
+protegePagina("donoadmin");
+if ($_POST["segmax"] !== $accessKEY) {
+    expulsaVisitante();
+    exit;
+}
+if ($_POST["ipmax"] !== ${$GLOBALS["vmtkocm"]}) {
+    expulsaVisitante();
+    exit;
+}
+if (isset($_POST["nome"]) and isset($_POST["email"]) and isset($_POST["idusuario"])) {
+    $GLOBALS["gsznkw"] = "SQLCSSH";
+    $GLOBALS["mhdurtmtdkw"] = "celular";
+    $GLOBALS["usqplrvtnre"] = "SQLUsuario";
+    $owptigwapbcs = "textocon";
+    ${$GLOBALS["ylncqh"]} = sql_injector($_POST["nome"]);
+    $GLOBALS["nbnjopfdiemq"] = "SQLUser";
+    $vfdwvgn = "login";
+    $GLOBALS["lblyye"] = "email";
+    $login = sql_injector($_POST["idusuario"]);
+    ${$GLOBALS["mhdurtmtdkw"]} = sql_injector($_POST["celular"]);
+    $GLOBALS["fyqgrpbovr"] = "SQLUsuario";
+    ${$GLOBALS["lblyye"]} = sql_injector($_POST["email"]);
+    ${$GLOBALS["gaicysu"]} = sql_injector($_POST["site"]);
+    $eulfopoqcli = "SQLCSSH";
+    ${$owptigwapbcs} = sql_injector($_POST["textoconatt"]);
+    ${$GLOBALS["gtnrihhkmyn"]} = sql_injector($_POST["textorevatt"]);
+    $GLOBALS["ewkffo"] = "SQLUser";
+    ${$GLOBALS["vixxpcdrhyd"]} = sql_injector($_POST["senhaantiga"]);
+    ${$GLOBALS["kbvofsij"]} = sql_injector($_POST["novasenha"]);
+    ${$GLOBALS["mtjskroxbat"]} = "select * from usuario WHERE login='" . $_POST["idusuario"] . "' ";
+    ${$GLOBALS["fyqgrpbovr"]} = $conn->prepare(${$GLOBALS["usqplrvtnre"]});
+    $SQLUsuario->execute();
+    if ($SQLUsuario->rowCount() > 0) {
+        echo myalertuser("warning", "O usu\xc3\xa1rio " . $_POST["idusuario"] . " j\xc3\xa1 existe!", "../../home.php?page=admin/dados");
+        exit;
+    }
+    ${$eulfopoqcli} = "select * from conta_ssh WHERE login='" . $_POST["idusuario"] . "' ";
+    ${$GLOBALS["hbfrqjgsbhy"]} = $conn->prepare(${$GLOBALS["gsznkw"]});
+    $SQLCSSH->execute();
+    if ($SQLCSSH->rowCount() > 0) {
+        echo myalertuser("warning", "O usu\xc3\xa1rio " . $_POST["idusuario"] . " j\xc3\xa1 existe!", "../../home.php?page=admin/dados");
+        exit;
+    }
+    ${$GLOBALS["nbnjopfdiemq"]} = "select * from admin where id_administrador = '" . $_SESSION["usuarioID"] . "'   ";
+    ${$GLOBALS["ewkffo"]} = $conn->prepare(${$GLOBALS["ywbwlqvvei"]});
+    $SQLUser->execute();
+    if ($SQLUser->rowCount() > 0) {
+        $GLOBALS["bewypifbh"] = "SQLUPUser";
+        $GLOBALS["qyfctowlg"] = "euadm";
+        $gmpblufrfcfh = "login";
+        $lejlbxd = "updatesenha";
+        $euadm = $SQLUser->fetch();
+        $GLOBALS["mymmgyojgn"] = "euadm";
+        $dgkkervxf = "senhaat";
+        if ($login !== $euadm["login"]) {
+            $iboetwhnbjg = "SQLADM";
+            $GLOBALS["vumgqhils"] = "SQLADM";
+            ${$GLOBALS["vksknwjxse"]} = "select * from admin WHERE login='" . $_POST["idusuario"] . "' ";
+            ${$iboetwhnbjg} = $conn->prepare(${$GLOBALS["vumgqhils"]});
+            $SQLADM->execute();
+            if ($SQLADM->rowCount() > 0) {
+                echo myalertuser("warning", "O usu\xc3\xa1rio " . $_POST["idusuario"] . " j\xc3\xa1 existe!", "../../home.php?page=admin/dados");
+                exit;
+            }
+        }
+        if (${$dgkkervxf} != "") {
+            $pwhgfrr = "senhaat";
+            $GLOBALS["mvqoshwxxdd"] = "euadm";
+            $zlzsojhq = "senhaat";
+            $rhxnlbsfr = "senhanew";
+            $GLOBALS["kxcywvffdon"] = "senhanew";
+            $ihcwstwtw = "updatesenha";
+            if ($senhaat != $euadm["senha"]) {
+                echo myalertuser("error", "Senha atual incorreta!", "../../home.php?page=admin/dados");
+                exit;
+            } elseif ($senhaat == $senhanew) {
+                echo myalertuser("info", "A senha deve ser diferente da atual!", "../../home.php?page=admin/dados");
+                exit;
+            }
+            if (strlen(${$rhxnlbsfr}) < 5) {
+                echo myalertuser("error", "Senha muito curta!", "../../home.php?page=admin/dados");
+                exit;
+            }
+            ${$ihcwstwtw} = "senha='" . ${$GLOBALS["kbvofsij"]} . "',";
+        }
+        ${$GLOBALS["bewypifbh"]} = "update admin set " . ${$lejlbxd} . " nome='" . $_POST["nome"] . "', login='" . $_POST["idusuario"] . "', celular='" . $_POST["celular"] . "', email='" . $_POST["email"] . "', site='" . $_POST["site"] . "', textocon='" . $_POST["textoconatt"] . "', textorev='" . $_POST["textorevatt"] . "' WHERE id_administrador = '" . $_SESSION["usuarioID"] . "' ";
+        ${$GLOBALS["twhxgrulbov"]} = $conn->prepare(${$GLOBALS["twhxgrulbov"]});
+        $SQLUPUser->execute();
+        echo myalertuser("success", "Alterado com sucesso !", "../../home.php?page=admin/dados");
+    } else {
+        echo myalertuser("error", "erro !", "../../home.php?page=admin/dados");
+        exit;
+    }
+} else {
+    echo myalertuser("error", "Erro !", "../../home.php?page=admin/dados");
+    exit;
+}

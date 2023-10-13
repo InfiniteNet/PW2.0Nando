@@ -1,2 +1,87 @@
-<?php ${"\x47\x4c\x4fBAL\x53"}["m\x73m\x62\x73\x64\x73p"]="\x53QLS\x65\x72vid\x6fr";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x65\x75\x78\x75c\x73\x64\x76\x77\x6d\x76"]="s\x65\x72\x76\x69\x64\x6f\x72_\x61u\x74\x65\x6e\x74\x69c\x61do";${"G\x4c\x4fB\x41\x4c\x53"}["\x62\x62\x6a\x76r\x69\x6f\x6dft"]="\x73\x73\x68";${"\x47L\x4f\x42\x41\x4c\x53"}["\x68\x6f\x68\x78vx"]="s\x65\x6e\x68\x61\x53\x53H";${"\x47\x4cO\x42\x41\x4cS"}["hf\x78\x73\x75\x64"]="\x6c\x6f\x67\x69n\x53SH";${"\x47\x4c\x4f\x42\x41L\x53"}["\x6d\x62\x6d\x75\x72b"]="S\x51\x4c\x53\x65\x72\x76\x6e";${"G\x4cOBA\x4c\x53"}["\x75\x6ct\x73\x74gx\x75p\x62\x77"]="\x65\x75\x73\x65rv";${"GLO\x42\x41\x4c\x53"}["\x68\x75\x6d\x6er\x6e\x6f"]="SQ\x4cS\x65\x72\x76";require_once("../.\x2e/../pa\x67es/\x73\x79stem/s\x65g\x75\x72a\x6eca.\x70h\x70");require_once("../\x2e\x2e/.\x2e/\x70a\x67e\x73/\x73\x79\x73\x74\x65m/conf\x69g.\x70h\x70");require_once("../\x2e./../pa\x67\x65s/\x73yste\x6d/\x63l\x61s\x73e.ss\x68\x2ep\x68\x70");require_once(".\x2e/\x2e./\x2e./\x70ages/sys\x74\x65\x6d/\x66\x75nc\x6f\x65s\x2e\x73\x79\x73\x74em.php");protegePagina("\x64o\x6eo\x61\x64m\x69n");if((isset($_POST["\x6eom\x65srv"]))and(isset($_POST["i\x70"]))and(isset($_POST["login"]))and(isset($_POST["\x73\x65n\x68a"]))and(isset($_POST["id_\x73e\x72v\x69dor"]))){${${"\x47L\x4fBA\x4c\x53"}["h\x75\x6d\x6e\x72\x6e\x6f"]}="\x73\x65l\x65c\x74\x20*\x20fr\x6fm \x73\x65\x72v\x69\x64or\x20WHE\x52E id\x5f\x73\x65rv\x69do\x72 \x3d '".$_POST["i\x64_\x73\x65\x72\x76\x69d\x6f\x72"]."\x27";$svglmcij="SQL\x53e\x72\x76";${"\x47L\x4f\x42\x41\x4cS"}["ki\x6b\x67\x74\x7a\x6d\x6d\x77"]="\x73e\x72\x76\x69\x64\x6fr\x5fa\x75\x74ent\x69ca\x64\x6f";${${"\x47\x4cOBA\x4c\x53"}["\x68\x75mn\x72\x6e\x6f"]}=$conn->prepare(${$svglmcij});$vrtfxzcroz="\x69\x70\x5fse\x72v\x69do\x72";$SQLServ->execute();if(($SQLServ->rowCount())>0){$grruphfdo="\x65u\x73erv";${${"GL\x4f\x42\x41\x4cS"}["\x75\x6c\x74\x73\x74\x67xu\x70\x62w"]}=$SQLServ->fetch();if($_POST["\x6eo\x6de\x73r\x76"]!==${$grruphfdo}["\x6eo\x6d\x65"]){${"GL\x4fB\x41\x4c\x53"}["\x65\x63\x69\x76v\x6e\x64\x64k"]="\x53QL\x53\x65\x72\x76n";$ytqqno="S\x51\x4cS\x65\x72v\x6e";${${"\x47L\x4f\x42A\x4c\x53"}["\x65c\x69\x76\x76nd\x64\x6b"]}="s\x65\x6c\x65c\x74 *\x20\x66r\x6f\x6d ser\x76i\x64or\x20\x57\x48\x45\x52E\x20n\x6f\x6de\x20=\x20\x27".$_POST["\x6e\x6f\x6d\x65srv"]."'";${$ytqqno}=$conn->prepare(${${"G\x4c\x4f\x42A\x4c\x53"}["\x6d\x62\x6d\x75\x72b"]});$SQLServn->execute();if(($SQLServn->rowCount())>0){echo myalertuser("e\x72ror","Já\x20\x65xis\x74e u\x6d \x73\x65\x72\x76\x69\x64\x6f\x72\x20com e\x73s\x65 no\x6de!","\x2e./../\x68\x6f\x6d\x65\x2e\x70\x68\x70?\x70\x61ge\x3dservi\x64\x6fr/s\x65\x72v\x69\x64or\x26id\x5f\x73er\x76\x69\x64or\x3d".$_POST["\x69d_\x73\x65\x72\x76ido\x72"]."");exit;}}if($_POST["i\x70"]!==${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["ultst\x67x\x75\x70\x62w"]}["\x69p_\x73\x65r\x76ido\x72"]){$tqlkobqknl="S\x51L\x53e\x72\x76\x69\x70";${"G\x4c\x4f\x42\x41\x4c\x53"}["\x62qd\x6f\x6dmh\x72\x69\x6bv"]="\x53\x51\x4c\x53\x65\x72vip";${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x62\x71\x64\x6f\x6d\x6dh\x72\x69\x6bv"]}="s\x65\x6cec\x74\x20* \x66\x72o\x6d\x20se\x72v\x69dor \x57\x48\x45R\x45 ip\x5fs\x65\x72\x76\x69\x64\x6f\x72 \x3d \x27".$_POST["\x69\x70"]."\x27";$gdkmxcqsmc="\x53\x51\x4c\x53\x65rv\x69\x70";${$gdkmxcqsmc}=$conn->prepare(${$tqlkobqknl});$SQLServip->execute();if(($SQLServip->rowCount())>0){echo myalertuser("\x65r\x72\x6f\x72","\x4aá \x65xist\x65\x20um\x20se\x72v\x69d\x6f\x72 \x63o\x6d ess\x65 I\x50!",".\x2e/\x2e\x2e/hom\x65\x2e\x70hp?\x70a\x67e=serv\x69dor/\x73erv\x69d\x6fr&id\x5fs\x65r\x76\x69dor=".$_POST["\x69d\x5f\x73e\x72v\x69\x64\x6fr"]."");exit;}}}if(!is_numeric($_POST["valida\x64e"])){echo myalertuser("\x65\x72\x72or","\x53ó\x20é p\x65rmitid\x6f \x6eúm\x65\x72\x6fs\x20\x6ea\x20\x76\x61l\x69\x64\x61\x64\x65\x21","../\x2e\x2e/\x68\x6fm\x65.php?p\x61\x67e\x3ds\x65r\x76idor/servidor\x26\x69d\x5fse\x72v\x69\x64or\x3d".$_POST["\x69\x64\x5f\x73\x65\x72\x76i\x64\x6fr"]."");exit;}if(!is_numeric($_POST["lim\x69te"])){echo myalertuser("e\x72\x72\x6fr","\x53ó\x20é\x20\x70\x65\x72\x6di\x74i\x64\x6f número\x73 \x6eo \x6c\x69m\x69t\x65!","../.\x2e/\x68\x6fm\x65\x2e\x70\x68p?\x70age\x3dser\x76i\x64o\x72/s\x65rv\x69\x64o\x72&i\x64_s\x65\x72\x76\x69do\x72\x3d".$_POST["id\x5fser\x76id\x6f\x72"]."");exit;}${$vrtfxzcroz}=$_POST["\x69p"];${${"\x47\x4c\x4f\x42\x41L\x53"}["hf\x78\x73ud"]}=$_POST["l\x6f\x67\x69n"];${${"\x47\x4c\x4fB\x41\x4cS"}["\x68\x6f\x68xv\x78"]}=$_POST["se\x6eha"];${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x71\x6eh\x69t\x6e\x64\x65\x75\x77f"]="ip_s\x65\x72\x76\x69\x64\x6fr";${${"GLO\x42\x41LS"}["\x62b\x6a\x76\x72i\x6fm\x66\x74"]}=new SSH2(${${"\x47LO\x42\x41\x4c\x53"}["\x71\x6e\x68itn\x64\x65\x75\x77f"]});${${"G\x4c\x4f\x42\x41LS"}["\x65\x75\x78u\x63\x73\x64\x76w\x6d\x76"]}=$ssh->auth($_POST["\x6cogin"],$_POST["\x73e\x6e\x68\x61"]);$ssh->output();if(${${"GL\x4f\x42\x41\x4c\x53"}["\x6bi\x6b\x67t\x7a\x6dmw"]}){${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6ds\x6d\x62\x73\x64sp"]}="sele\x63t\x20* \x66\x72om \x73\x65rv\x69d\x6fr\x20w\x68er\x65\x20i\x64_s\x65\x72\x76\x69d\x6fr\x20= '".$_POST["id_\x73\x65\x72vido\x72"]."'";${"\x47\x4c\x4fB\x41LS"}["\x64\x76\x69\x74wj\x77x\x68\x79"]="\x53\x51\x4cSer\x76id\x6fr";${${"\x47\x4cO\x42\x41\x4c\x53"}["dv\x69t\x77\x6a\x77x\x68\x79"]}=$conn->prepare(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["m\x73m\x62\x73d\x73\x70"]});$SQLServidor->execute();if(($SQLServidor->rowCount())>0){${"\x47\x4c\x4f\x42\x41\x4cS"}["j\x64\x70\x63\x62\x6b"]="\x53\x51\x4cS\x65\x72\x76\x69\x64\x6f\x72";${"G\x4c\x4f\x42A\x4cS"}["\x63w\x68\x6bg\x69h\x75c\x61\x70"]="\x73\x65rv\x69\x64or";${${"\x47\x4cOB\x41\x4c\x53"}["\x63whk\x67\x69\x68uc\x61p"]}=$SQLServidor->fetch();${${"\x47L\x4fB\x41\x4cS"}["j\x64p\x63bk"]}="upda\x74\x65 \x73er\x76id\x6fr\x20se\x74\x20nom\x65='".sql_injector($_POST["\x6eom\x65srv"])."\x27, \x69\x70_\x73erv\x69\x64o\x72\x3d'".sql_injector($_POST["i\x70"])."\x27,\x20\x6cog\x69n\x5fse\x72v\x65r=\x27".sql_injector($_POST["\x6c\x6f\x67in"])."', \x73\x65\x6eh\x61\x3d'".sql_injector($_POST["s\x65nh\x61"])."', s\x69\x74\x65_\x73\x65\x72vid\x6fr\x3d'".sql_injector($_POST["\x73it\x65server"])."\x27,\x20l\x6f\x63\x61li\x7aa\x63\x61o\x3d'".sql_injector($_POST["l\x6f\x63ali\x7a\x61"])."', l\x6fca\x6ci\x7aa\x63\x61\x6f_\x69\x6dg=\x27".$_POST["local\x69\x7a\x61_\x69c\x6f"]."\x27,\x20\x76\x61lida\x64\x65=\x27".sql_injector($_POST["\x76\x61\x6c\x69da\x64e"])."', \x6c\x69mit\x65\x3d\x27".sql_injector($_POST["\x6ci\x6dit\x65"])."\x27\x20W\x48\x45RE\x20\x69\x64_s\x65\x72v\x69\x64o\x72\x20= \x27".$_POST["id\x5fs\x65\x72\x76ido\x72"]."' ";${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6d\x73\x6d\x62\x73\x64sp"]}=$conn->prepare(${${"\x47\x4c\x4f\x42ALS"}["\x6d\x73\x6d\x62s\x64s\x70"]});$SQLServidor->execute();$conn->query("\x55P\x44\x41\x54\x45\x20\x73e\x72vidor S\x45T\x20on\x6ci\x6ee=\x271',\x20a\x75\x74enti\x63a\x64o=\x271\x27 \x57H\x45R\x45 \x69\x64_\x73e\x72vi\x64or='".$_POST["id\x5f\x73e\x72\x76\x69d\x6f\x72"]."\x27");echo myalertuser("\x73uccess","O s\x65r\x76\x69do\x72 ".$_POST["nom\x65s\x72v"]."\x20f\x6fi\x20ed\x69\x74ad\x6f \x63o\x6d su\x63e\x73\x73\x6f!",".\x2e/\x2e\x2e/\x68ome.\x70hp?p\x61\x67\x65=se\x72\x76\x69\x64o\x72/\x73\x65\x72v\x69\x64\x6fr&\x69d\x5fser\x76id\x6f\x72\x3d".$_POST["i\x64\x5f\x73\x65rv\x69\x64or"]."");}else{echo myalertuser("e\x72\x72o\x72","\x53e\x72vid\x6f\x72\x20\x6eão enc\x6fntr\x61\x64o\x21","\x2e\x2e/.\x2e/ho\x6de.p\x68\x70?\x70\x61\x67\x65=\x73\x65\x72vido\x72/\x6cista\x72");}}else{echo myalertuser("\x77a\x72n\x69\x6e\x67","\x4eã\x6f\x20\x66oi\x20\x70os\x73ív\x65\x6c \x61\x75\x74\x65\x6et\x69c\x61\x72\x20\x6eo\x20s\x65rvid\x6f\x72!","\x2e\x2e/\x2e\x2e/\x68o\x6d\x65\x2e\x70\x68\x70?\x70\x61ge=s\x65\x72v\x69\x64or/s\x65rv\x69\x64or\x26\x69d_s\x65rvi\x64\x6f\x72\x3d".$_POST["\x69\x64_\x73\x65r\x76i\x64o\x72"]."");}}else{echo myalertuser("er\x72o\x72","\x50ree\x6ec\x68\x61\x21",".\x2e/\x2e\x2e/\x68\x6f\x6d\x65\x2e\x70\x68\x70?\x70\x61ge=\x73\x65\x72\x76\x69do\x72/se\x72\x76id\x6fr\x26i\x64\x5f\x73e\x72\x76i\x64\x6f\x72\x3d".$_POST["id_\x73e\x72v\x69d\x6fr"]."");}
-?>
+<?php
+
+$GLOBALS["msmbsdsp"] = "SQLServidor";
+$GLOBALS["euxucsdvwmv"] = "servidor_autenticado";
+$GLOBALS["bbjvriomft"] = "ssh";
+$GLOBALS["hohxvx"] = "senhaSSH";
+$GLOBALS["hfxsud"] = "loginSSH";
+$GLOBALS["mbmurb"] = "SQLServn";
+$GLOBALS["ultstgxupbw"] = "euserv";
+$GLOBALS["humnrno"] = "SQLServ";
+require_once "../../../pages/system/seguranca.php";
+require_once "../../../pages/system/config.php";
+require_once "../../../pages/system/classe.ssh.php";
+require_once "../../../pages/system/funcoes.system.php";
+protegePagina("donoadmin");
+if (isset($_POST["nomesrv"]) and isset($_POST["ip"]) and isset($_POST["login"]) and isset($_POST["senha"]) and isset($_POST["id_servidor"])) {
+    $SQLServ = "select * from servidor WHERE id_servidor = '" . $_POST["id_servidor"] . "'";
+    $svglmcij = "SQLServ";
+    $GLOBALS["kikgtzmmw"] = "servidor_autenticado";
+    $SQLServ = $conn->prepare($SQLServ);
+    $vrtfxzcroz = "ip_servidor";
+    $SQLServ->execute();
+    if ($SQLServ->rowCount() > 0) {
+        $grruphfdo = "euserv";
+        $euserv = $SQLServ->fetch();
+        if ($_POST["nomesrv"] !== $euserv["nome"]) {
+            $GLOBALS["ecivvnddk"] = "SQLServn";
+            $ytqqno = "SQLServn";
+            $SQLServn = "select * from servidor WHERE nome = '" . $_POST["nomesrv"] . "'";
+            $SQLServn = $conn->prepare($SQLServn);
+            $SQLServn->execute();
+            if ($SQLServn->rowCount() > 0) {
+                echo myalertuser("error", "J\xc3\xa1 existe um servidor com esse nome!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+                exit;
+            }
+        }
+        if ($_POST["ip"] !== ${$GLOBALS["ultstgxupbw"]}["ip_servidor"]) {
+            $tqlkobqknl = "SQLServip";
+            $GLOBALS["bqdommhrikv"] = "SQLServip";
+            $SQLServip = "select * from servidor WHERE ip_servidor = '" . $_POST["ip"] . "'";
+            $gdkmxcqsmc = "SQLServip";
+            $SQLServip = $conn->prepare($SQLServip);
+            $SQLServip->execute();
+            if ($SQLServip->rowCount() > 0) {
+                echo myalertuser("error", "J\xc3\xa1 existe um servidor com esse IP!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+                exit;
+            }
+        }
+    }
+    if (!is_numeric($_POST["validade"])) {
+        echo myalertuser("error", "S\xc3\xb3 \xc3\xa9 permitido n\xc3\xbameros na validade!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+        exit;
+    }
+    if (!is_numeric($_POST["limite"])) {
+        echo myalertuser("error", "S\xc3\xb3 \xc3\xa9 permitido n\xc3\xbameros no limite!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+        exit;
+    }
+    ${$vrtfxzcroz} = $_POST["ip"];
+    ${$GLOBALS["hfxsud"]} = $_POST["login"];
+    ${$GLOBALS["hohxvx"]} = $_POST["senha"];
+    $GLOBALS["qnhitndeuwf"] = "ip_servidor";
+    ${$GLOBALS["bbjvriomft"]} = new SSH2($ip_servidor);
+    ${$GLOBALS["euxucsdvwmv"]} = $ssh->auth($_POST["login"], $_POST["senha"]);
+    $ssh->output();
+    if (${$GLOBALS["kikgtzmmw"]}) {
+        ${$GLOBALS["msmbsdsp"]} = "select * from servidor where id_servidor = '" . $_POST["id_servidor"] . "'";
+        $GLOBALS["dvitwjwxhy"] = "SQLServidor";
+        $SQLServidor = $conn->prepare(${$GLOBALS["msmbsdsp"]});
+        $SQLServidor->execute();
+        if ($SQLServidor->rowCount() > 0) {
+            $GLOBALS["jdpcbk"] = "SQLServidor";
+            $GLOBALS["cwhkgihucap"] = "servidor";
+            $servidor = $SQLServidor->fetch();
+            $SQLServidor = "update servidor set nome='" . sql_injector($_POST["nomesrv"]) . "', ip_servidor='" . sql_injector($_POST["ip"]) . "', login_server='" . sql_injector($_POST["login"]) . "', senha='" . sql_injector($_POST["senha"]) . "', site_servidor='" . sql_injector($_POST["siteserver"]) . "', localizacao='" . sql_injector($_POST["localiza"]) . "', localizacao_img='" . $_POST["localiza_ico"] . "', validade='" . sql_injector($_POST["validade"]) . "', limite='" . sql_injector($_POST["limite"]) . "' WHERE id_servidor = '" . $_POST["id_servidor"] . "' ";
+            ${$GLOBALS["msmbsdsp"]} = $conn->prepare(${$GLOBALS["msmbsdsp"]});
+            $SQLServidor->execute();
+            $conn->query("UPDATE servidor SET online='1', autenticado='1' WHERE id_servidor='" . $_POST["id_servidor"] . "'");
+            echo myalertuser("success", "O servidor " . $_POST["nomesrv"] . " foi editado com sucesso!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+        } else {
+            echo myalertuser("error", "Servidor n\xc3\xa3o encontrado!", "../../home.php?page=servidor/listar");
+        }
+    } else {
+        echo myalertuser("warning", "N\xc3\xa3o foi poss\xc3\xadvel autenticar no servidor!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+    }
+} else {
+    echo myalertuser("error", "Preencha!", "../../home.php?page=servidor/servidor&id_servidor=" . $_POST["id_servidor"] . "");
+}

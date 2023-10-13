@@ -1,2 +1,243 @@
-<?php ${"G\x4c\x4f\x42\x41\x4c\x53"}["\x78hvh\x79\x70\x6e\x6c"]="\x69\x70\x61\x64d\x72e\x73\x73";${"\x47L\x4fB\x41\x4cS"}["c\x6eh\x69\x67\x63\x6d"]="\x64i\x72";${"G\x4cO\x42AL\x53"}["\x79c\x77w\x68\x6b\x66\x72\x6c\x61p"]="\x66\x69\x6ce";${"\x47\x4cO\x42A\x4cS"}["\x6e\x62dpq\x6d"]="files";${"G\x4cOB\x41\x4c\x53"}["\x74\x70\x7a\x6a\x70\x6a\x67t"]="\x61\x72\x71\x75\x69\x76o";${"\x47LO\x42\x41L\x53"}["u\x69\x6e\x73\x62n\x76b\x69"]="r\x65s";${"\x47L\x4f\x42\x41\x4c\x53"}["\x67\x64evb\x6ct\x70\x6em"]="u\x69\x64";${"GLO\x42A\x4c\x53"}["\x77\x63\x70\x74\x67\x64x\x77\x62p"]="xtm";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x66u\x64xku\x71\x69"]="\x73\x71\x6c";require_once($_SERVER["D\x4fCU\x4d\x45\x4e\x54\x5fROO\x54"]."/co\x6e\x66ig/\x63o\x6e\x66\x69g\x2e\x70\x68p");function isUser($uid){$ktzeeedgv="\x73\x71\x6c";global$conn;${${"\x47L\x4fB\x41\x4c\x53"}["f\x75\x64x\x6b\x75\x71\x69"]}=$conn->query("S\x45L\x45C\x54\x20* FR\x4f\x4d\x20us\x75\x61ri\x6f\x73 WH\x45\x52E\x20\x69\x64\x3d\x27$uid\x27")->rowCount();if(${$ktzeeedgv}>0){return true;}else{return false;}}function getNickById($uid){$mpckmqnpm="\x73q\x6c";global$conn;${$mpckmqnpm}=$conn->query("SE\x4c\x45CT n\x6f\x6d\x65\x20F\x52\x4fM usuario\x73\x20W\x48E\x52\x45\x20\x69d\x3d'$uid'")->fetch();return@${${"GL\x4f\x42A\x4c\x53"}["f\x75dx\x6b\x75\x71\x69"]}[0];}function getLoginById($uid){$ssjbehlshkq="\x73\x71\x6c";$pjrsmqovqef="\x73q\x6c";global$conn;${$ssjbehlshkq}=$conn->query("\x53\x45\x4c\x45C\x54 l\x6f\x67in\x20\x46\x52O\x4d\x20\x75sua\x72io\x73 \x57H\x45\x52\x45 \x69d\x3d\x27$uid'")->fetch();return@${$pjrsmqovqef}[0];}function getIdByNick($nick){global$conn;${${"\x47\x4cO\x42A\x4cS"}["\x66u\x64\x78k\x75\x71i"]}=$conn->query("SELEC\x54 \x69d F\x52\x4f\x4d\x20usuario\x73 WH\x45\x52\x45\x20login\x3d\x27$nick'")->fetch();return${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x66udxk\x75q\x69"]}[0];}function getFolderById($uid){${"\x47\x4cOBAL\x53"}["e\x65j\x75\x64\x6d\x79df\x71v"]="\x73\x71\x6c";global$conn;${${"G\x4c\x4fB\x41\x4cS"}["\x65\x65\x6a\x75\x64\x6d\x79\x64f\x71\x76"]}=$conn->query("\x53\x45\x4cEC\x54\x20\x70asta\x5f\x61\x74\x74\x20\x46\x52\x4f\x4d\x20usu\x61\x72\x69\x6fs \x57\x48ERE\x20i\x64=\x27$uid\x27")->fetch();return@${${"\x47L\x4f\x42\x41L\x53"}["\x66\x75\x64\x78\x6b\x75\x71\x69"]}[0];}function getBan($uid){global$conn;$yllwohq="\x73\x71\x6c";${${"\x47\x4c\x4f\x42AL\x53"}["fud\x78ku\x71i"]}=$conn->query("SE\x4c\x45CT\x20* F\x52\x4f\x4d \x75suar\x69o\x73 W\x48ER\x45 i\x64=\x27$uid'")->fetch();if(${$yllwohq}["\x62anid\x6f"]==0){return false;}else{return true;}}function getData($valor,$uid){${"\x47L\x4f\x42\x41\x4c\x53"}["\x72\x6alhl\x69\x63\x74gh\x79"]="\x76\x61l\x6f\x72";global$conn;${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x66u\x64\x78\x6buq\x69"]}=$conn->query("S\x45\x4cE\x43\x54 $valor\x20FR\x4f\x4d \x75\x73u\x61\x72\x69\x6f\x73\x20W\x48ERE\x20\x69d=\x27$uid\x27")->fetch();return${${"\x47L\x4f\x42\x41\x4c\x53"}["\x66u\x64\x78\x6b\x75q\x69"]}[${${"\x47\x4c\x4f\x42\x41L\x53"}["\x72jl\x68\x6c\x69c\x74g\x68\x79"]}];}function getIdBySid($sid){${"G\x4c\x4fB\x41L\x53"}["\x71\x67no\x6fyc\x73\x68qw"]="\x75\x69\x64";global$conn;${"\x47L\x4f\x42A\x4cS"}["i\x76\x7a\x78a\x62\x66p\x6c\x67"]="\x75i\x64";$yfhzmu="\x73\x71l";${${"GL\x4f\x42\x41\x4c\x53"}["fu\x64\x78\x6b\x75\x71i"]}=$conn->query("SE\x4cE\x43\x54 u\x69\x64\x20\x46\x52\x4f\x4d\x20\x73\x65\x73\x73a\x6f WH\x45\x52\x45\x20\x69d\x3d\x27$sid'")->fetch();@${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x69\x76\x7a\x78\x61b\x66plg"]}=${$yfhzmu}[0];return${${"\x47L\x4f\x42\x41L\x53"}["\x71\x67n\x6f\x6f\x79\x63\x73\x68q\x77"]};}function getSxtm(){global$conn;${${"G\x4c\x4f\x42\x41\x4cS"}["\x66\x75d\x78\x6b\x75q\x69"]}=$conn->query("\x53\x45LEC\x54 \x76a\x6cor \x46\x52\x4fM\x20c\x6f\x6e\x66\x69gs \x57HER\x45\x20\x6e\x6fme='\x73\x65se\x78\x70'")->fetch();return${${"\x47\x4c\x4fB\x41L\x53"}["f\x75\x64\x78\x6b\x75\x71i"]}["v\x61\x6co\x72"];}function getLogged($sid){global$conn;$hlopnkj="sq\x6c";$conn->query("\x44\x45\x4cE\x54E FR\x4f\x4d\x20\x73\x65s\x73a\x6f\x20\x57H\x45\x52E\x20\x65xp\x69r\x61\x3c\x27".time()."'");${$hlopnkj}=$conn->query("SELE\x43T *\x20F\x52OM\x20se\x73sa\x6f \x57\x48\x45\x52\x45 \x69d=\x27$sid'")->rowCount();if(${${"\x47\x4c\x4f\x42\x41LS"}["\x66u\x64\x78ku\x71i"]}>0){if(!getUser(getIdBySid($sid))){return false;}${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x77\x63\x70t\x67\x64\x78wb\x70"]}=time()+2000;$conn->query("UP\x44\x41\x54\x45\x20\x73ess\x61o \x53\x45\x54 e\x78p\x69\x72a=\x27$xtm\x27WHE\x52E\x20i\x64\x3d\x27$sid\x27");return true;}else{return false;}}function getAdm($uid){${"\x47L\x4f\x42A\x4c\x53"}["as\x71\x6a\x6d\x79\x7a\x64\x66f"]="u\x69\x64";$skdahuyp="\x73q\x6c";${"\x47\x4cOB\x41L\x53"}["g\x74\x77r\x62x\x67"]="\x73\x71\x6c";global$conn;${"\x47\x4c\x4fBA\x4c\x53"}["\x71\x61\x69pn\x71"]="\x75id";${${"\x47\x4cO\x42\x41\x4cS"}["g\x74\x77\x72\x62x\x67"]}=$conn->query("\x53\x45LE\x43T\x20\x6ei\x76\x65l \x46\x52\x4f\x4d\x20\x75su\x61\x72io\x73 WH\x45RE\x20i\x64\x3d\x27".${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x61\x73q\x6am\x79z\x64f\x66"]}."\x27")->fetch();if(${$skdahuyp}[0]=="2"or${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x71a\x69p\x6e\x71"]}=="1"){return true;}else{return false;}}function getOwner($uid){$fhoskddtmxuu="s\x71l";global$conn;$oykftm="\x73q\x6c";${$fhoskddtmxuu}=$conn->query("S\x45\x4cE\x43T \x6ei\x76\x65\x6c \x46\x52OM\x20us\x75ario\x73\x20W\x48\x45\x52E \x69\x64='".${${"\x47\x4c\x4fBAL\x53"}["g\x64ev\x62\x6c\x74\x70\x6e\x6d"]}."'")->fetch();if(${$oykftm}[0]=="\x33"or${${"\x47L\x4fBA\x4cS"}["\x67de\x76\x62\x6c\x74p\x6e\x6d"]}=="1"){return true;}else{return false;}}function getUser($uid){${"G\x4c\x4f\x42\x41\x4c\x53"}["\x67\x71\x77s\x6e\x66\x78\x6aa\x71mn"]="ui\x64";${"\x47LO\x42\x41\x4cS"}["v\x6ae\x77\x6b\x72c\x6c\x6b\x70"]="\x73ql";global$conn;${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x76j\x65\x77\x6b\x72\x63lk\x70"]}=$conn->query("\x53\x45L\x45\x43T *\x20\x46R\x4f\x4d \x75s\x75a\x72\x69os\x20WHERE \x69\x64\x3d\x27".${${"\x47\x4cOBA\x4c\x53"}["\x67\x71ws\x6ef\x78\x6a\x61\x71mn"]}."'")->rowCount();if(${${"G\x4c\x4f\x42\x41\x4cS"}["f\x75\x64xk\x75qi"]}>0){return true;}else{return false;}}function getConfig($name){$cbbnknw="\x73\x71\x6c";global$conn;${$cbbnknw}=$conn->query("SE\x4cE\x43\x54\x20v\x61\x6c\x6fr\x20FROM co\x6ef\x69g\x73\x20WHER\x45 \x6e\x6f\x6d\x65\x3d'$name'")->fetch();return${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["fu\x64xk\x75\x71i"]}["\x76a\x6cor"];}function addVersion($user){global$conn;${${"\x47L\x4f\x42A\x4c\x53"}["\x66\x75\x64\x78k\x75\x71\x69"]}=$conn->query("S\x45L\x45C\x54 ve\x72s\x61\x6f FRO\x4d\x20c\x6fnf\x69\x67ur\x61c\x6f\x65\x73\x20W\x48\x45RE\x20\x69\x64\x5f\x6f\x77\x6e\x65r=\x27$user\x27")->fetch();${"G\x4c\x4f\x42\x41\x4c\x53"}["\x79j\x71rb\x75\x6e\x6d\x67\x76"]="c\x63";${"GLO\x42\x41\x4cS"}["\x6f\x71\x63\x6dc\x68"]="s\x71\x6c";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["yj\x71\x72\x62un\x6dg\x76"]}=${${"\x47L\x4f\x42\x41L\x53"}["\x6fqc\x6d\x63\x68"]}[0]+1;${${"\x47L\x4f\x42\x41L\x53"}["\x75i\x6e\x73\x62nvb\x69"]}=$conn->query("UP\x44AT\x45\x20\x63\x6fnfi\x67\x75\x72\x61\x63oes \x53ET \x76e\x72\x73ao\x3d\x27$cc' WHERE \x69d\x5f\x6f\x77ne\x72='$user'");}function addSms($user){$jnilrypag="\x63c";$cirhjojaydjf="s\x71l";${"\x47L\x4fBA\x4c\x53"}["\x64\x6a\x69\x72v\x65sp\x72\x6e"]="\x72\x65s";global$conn;${"\x47\x4c\x4fB\x41\x4c\x53"}["j\x73o\x6as\x6b\x79i"]="\x73\x71\x6c";${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6asoj\x73k\x79\x69"]}=$conn->query("S\x45\x4cE\x43T \x61t\x74\x20\x46ROM \x6d\x65\x6e\x73ag\x65\x6es \x57H\x45\x52\x45\x20id_\x6fwne\x72\x3d'$user\x27")->fetch();${$jnilrypag}=${$cirhjojaydjf}[0]+1;${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x64\x6ai\x72\x76\x65\x73\x70\x72\x6e"]}=$conn->query("\x55P\x44AT\x45\x20\x6d\x65n\x73a\x67ens \x53E\x54\x20a\x74t=\x27$cc'\x20\x57\x48E\x52E\x20i\x64_\x6fw\x6e\x65\x72\x3d\x27$user'");}function getConfigUser($valor,$user){$jborcoeotqtr="\x73\x71\x6c";global$conn;${$jborcoeotqtr}=$conn->query("S\x45\x4c\x45CT *\x20F\x52\x4f\x4d\x20c\x6fn\x66ig\x75\x72\x61c\x6f\x65\x73\x20W\x48\x45\x52\x45\x20id_owner='$user'");if($sql->rowCount()>0){$kvqwguvbjg="\x73\x71\x6c";$mqwwkskqsig="\x76\x61l\x6fr";${${"GL\x4fB\x41\x4cS"}["\x66u\x64\x78\x6b\x75\x71\x69"]}=$conn->query("\x53\x45\x4c\x45CT\x20$valor F\x52O\x4d \x63o\x6ef\x69\x67\x75\x72aco\x65s WH\x45\x52\x45\x20id\x5f\x6f\x77\x6ee\x72\x3d'$user\x27")->fetch();return${$kvqwguvbjg}[${$mqwwkskqsig}];}else{};}function isLogged($sid){if(getLogged($sid)==false){header("l\x6fca\x74\x69\x6f\x6e: /\x70ai\x6e\x65l\x2e\x70h\x70");}}function download($arquivo){header("\x43\x6f\x6et\x65n\x74-\x54y\x70\x65: \x61pp\x6ci\x63a\x74i\x6f\x6e/\x66\x6frc\x65-\x64ownl\x6f\x61d");header("\x43on\x74en\x74-T\x79\x70e: appl\x69ca\x74\x69\x6f\x6e/o\x63t\x65t-\x73\x74\x72\x65a\x6d;");${"G\x4c\x4f\x42\x41\x4cS"}["\x73\x69zex\x73\x76"]="\x61r\x71\x75\x69\x76\x6f";header("Cont\x65nt-\x4c\x65ngth:".filesize(${${"GL\x4fBA\x4c\x53"}["si\x7a\x65xs\x76"]}));header("Cont\x65\x6e\x74-di\x73posi\x74ion: \x61\x74t\x61\x63h\x6de\x6e\x74\x3b \x66\x69\x6cen\x61\x6de\x3d".${${"G\x4c\x4fB\x41\x4cS"}["t\x70z\x6a\x70\x6a\x67\x74"]});header("P\x72\x61\x67m\x61:\x20\x6eo-\x63a\x63\x68\x65");header("\x43\x61\x63h\x65-\x43\x6fnt\x72o\x6c: \x6eo-st\x6f\x72e, \x6e\x6f-\x63a\x63\x68e,\x20mu\x73\x74-\x72\x65v\x61l\x69d\x61\x74e,\x20\x70\x6f\x73\x74-\x63\x68e\x63k=0, p\x72e-ch\x65c\x6b=0");header("\x45\x78\x70ir\x65\x73:\x20\x30");readfile(${${"\x47\x4cO\x42\x41\x4cS"}["\x74\x70zjpj\x67\x74"]});flush();}function delTree($dir){$iobyrjmfnx="\x64\x69r";${${"\x47\x4c\x4fBALS"}["\x6eb\x64\x70q\x6d"]}=array_diff(scandir(${$iobyrjmfnx}),array("\x2e","\x2e\x2e"));foreach(${${"GL\x4f\x42ALS"}["\x6e\x62\x64pq\x6d"]} as${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x79\x63\x77\x77\x68\x6bf\x72\x6c\x61p"]}){(is_dir("$dir/$file"))?delTree("$dir/$file"):unlink("$dir/$file");}return rmdir(${${"\x47\x4cO\x42\x41LS"}["\x63nh\x69g\x63\x6d"]});}function ipusuario(){${${"G\x4c\x4fBA\x4c\x53"}["\x78\x68vhy\x70\x6e\x6c"]}="\x49nd\x65\x66in\x69d\x6f";$sxdxtflc="i\x70\x61dd\x72\x65\x73\x73";${"G\x4c\x4f\x42A\x4c\x53"}["rq\x74xs\x66\x78\x74"]="\x69\x70\x61\x64\x64\x72ess";if(isset($_SERVER)){$mvndqkt="\x69\x70\x61\x64d\x72e\x73\x73";${${"G\x4cO\x42A\x4c\x53"}["\x78h\x76\x68\x79p\x6e\x6c"]}=$_SERVER["RE\x4d\x4fT\x45\x5fAD\x44\x52"];${"\x47\x4c\x4f\x42\x41LS"}["\x72\x6eb\x63\x74\x70"]="i\x70a\x64d\x72e\x73s";if(isset($_SERVER["\x48T\x54\x50_\x58\x5f\x46O\x52WAR\x44\x45D_\x46\x4f\x52"]))${$mvndqkt}=$_SERVER["\x48\x54T\x50\x5fX\x5f\x46\x4f\x52\x57A\x52DED\x5f\x46\x4fR"];elseif(isset($_SERVER["\x48\x54\x54P\x5fC\x4cIE\x4eT_IP"]))${${"\x47L\x4fB\x41\x4c\x53"}["r\x6e\x62\x63\x74\x70"]}=$_SERVER["\x48TTP\x5fCLI\x45N\x54_\x49P"];}else{${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x64\x65z\x6f\x6crx\x64\x71\x63\x63s"]="i\x70\x61\x64\x64\x72\x65s\x73";${${"G\x4c\x4fBALS"}["d\x65z\x6f\x6c\x72\x78\x64\x71\x63\x63\x73"]}=getenv("RE\x4d\x4f\x54\x45\x5f\x41DD\x52");$abqpzkilar="ip\x61\x64dr\x65\x73s";if(getenv("H\x54\x54P_\x58\x5fF\x4f\x52\x57A\x52D\x45D\x5f\x46\x4fR"))${${"\x47\x4c\x4f\x42A\x4cS"}["\x78\x68vhy\x70\x6el"]}=getenv("\x48\x54TP_X\x5fF\x4f\x52\x57\x41R\x44\x45D\x5f\x46OR");elseif(getenv("\x48T\x54P\x5f\x43\x4cIE\x4eT\x5f\x49P"))${$abqpzkilar}=getenv("H\x54\x54P\x5fCL\x49\x45NT\x5fI\x50");}${${"G\x4c\x4fB\x41\x4c\x53"}["x\x68vh\x79\x70n\x6c"]}=htmlspecialchars(${${"G\x4cO\x42\x41L\x53"}["r\x71t\x78\x73\x66xt"]},ENT_QUOTES,"\x55TF-\x38");return${$sxdxtflc};}function expulsaVisitante(){session_start();unset($_SESSION["i\x70u\x73u\x61r\x69\x6f"],$_SESSION["l\x6f\x67\x61\x64\x6f"]);session_destroy();header("\x4co\x63a\x74i\x6f\x6e:\x20/\x70\x61inel\x2eph\x70");exit;}
-?>
+<?php
+
+$GLOBALS["xhvhypnl"] = "ipaddress";
+$GLOBALS["cnhigcm"] = "dir";
+$GLOBALS["ycwwhkfrlap"] = "file";
+$GLOBALS["nbdpqm"] = "files";
+$GLOBALS["tpzjpjgt"] = "arquivo";
+$GLOBALS["uinsbnvbi"] = "res";
+$GLOBALS["gdevbltpnm"] = "uid";
+$GLOBALS["wcptgdxwbp"] = "xtm";
+$GLOBALS["fudxkuqi"] = "sql";
+require_once $_SERVER["DOCUMENT_ROOT"] . "/config/config.php";
+function isUser($uid)
+{
+    $ktzeeedgv = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT * FROM usuarios WHERE id='{$uid}'")->rowCount();
+    if ($sql > 0) {
+        return true;
+    } else {
+        return false;
+    }
+}
+function getNickById($uid)
+{
+    $mpckmqnpm = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT nome FROM usuarios WHERE id='{$uid}'")->fetch();
+    return @$sql[0];
+}
+function getLoginById($uid)
+{
+    $ssjbehlshkq = "sql";
+    $pjrsmqovqef = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT login FROM usuarios WHERE id='{$uid}'")->fetch();
+    return @$sql[0];
+}
+function getIdByNick($nick)
+{
+    global $conn;
+    $sql = $conn->query("SELECT id FROM usuarios WHERE login='{$nick}'")->fetch();
+    return $sql[0];
+}
+function getFolderById($uid)
+{
+    $GLOBALS["eejudmydfqv"] = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT pasta_att FROM usuarios WHERE id='{$uid}'")->fetch();
+    return @$sql[0];
+}
+function getBan($uid)
+{
+    global $conn;
+    $yllwohq = "sql";
+    $sql = $conn->query("SELECT * FROM usuarios WHERE id='{$uid}'")->fetch();
+    if ($sql["banido"] == 0) {
+        return false;
+    } else {
+        return true;
+    }
+}
+function getData($valor, $uid)
+{
+    $GLOBALS["rjlhlictghy"] = "valor";
+    global $conn;
+    $sql = $conn->query("SELECT {$valor} FROM usuarios WHERE id='{$uid}'")->fetch();
+    return $sql[$valor];
+}
+function getIdBySid($sid)
+{
+    $GLOBALS["qgnooycshqw"] = "uid";
+    global $conn;
+    $GLOBALS["ivzxabfplg"] = "uid";
+    $yfhzmu = "sql";
+    $sql = $conn->query("SELECT uid FROM sessao WHERE id='{$sid}'")->fetch();
+    @($uid = $sql[0]);
+    return $uid;
+}
+function getSxtm()
+{
+    global $conn;
+    $sql = $conn->query("SELECT valor FROM configs WHERE nome='sesexp'")->fetch();
+    return $sql["valor"];
+}
+function getLogged($sid)
+{
+    global $conn;
+    $hlopnkj = "sql";
+    $conn->query("DELETE FROM sessao WHERE expira<'" . time() . "'");
+    $sql = $conn->query("SELECT * FROM sessao WHERE id='{$sid}'")->rowCount();
+    if ($sql > 0) {
+        if (!getUser(getIdBySid($sid))) {
+            return false;
+        }
+        $xtm = time() + 2000;
+        $conn->query("UPDATE sessao SET expira='{$xtm}'WHERE id='{$sid}'");
+        return true;
+    } else {
+        return false;
+    }
+}
+function getAdm($uid)
+{
+    $GLOBALS["asqjmyzdff"] = "uid";
+    $skdahuyp = "sql";
+    $GLOBALS["gtwrbxg"] = "sql";
+    global $conn;
+    $GLOBALS["qaipnq"] = "uid";
+    $sql = $conn->query("SELECT nivel FROM usuarios WHERE id='" . $uid . "'")->fetch();
+    if ($sql[0] == "2" or $uid == "1") {
+        return true;
+    } else {
+        return false;
+    }
+}
+function getOwner($uid)
+{
+    $fhoskddtmxuu = "sql";
+    global $conn;
+    $oykftm = "sql";
+    $sql = $conn->query("SELECT nivel FROM usuarios WHERE id='" . $uid . "'")->fetch();
+    if ($sql[0] == "3" or $uid == "1") {
+        return true;
+    } else {
+        return false;
+    }
+}
+function getUser($uid)
+{
+    $GLOBALS["gqwsnfxjaqmn"] = "uid";
+    $GLOBALS["vjewkrclkp"] = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT * FROM usuarios WHERE id='" . $uid . "'")->rowCount();
+    if ($sql > 0) {
+        return true;
+    } else {
+        return false;
+    }
+}
+function getConfig($name)
+{
+    $cbbnknw = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT valor FROM configs WHERE nome='{$name}'")->fetch();
+    return $sql["valor"];
+}
+function addVersion($user)
+{
+    global $conn;
+    $sql = $conn->query("SELECT versao FROM configuracoes WHERE id_owner='{$user}'")->fetch();
+    $GLOBALS["yjqrbunmgv"] = "cc";
+    $GLOBALS["oqcmch"] = "sql";
+    $cc = $sql[0] + 1;
+    $res = $conn->query("UPDATE configuracoes SET versao='{$cc}' WHERE id_owner='{$user}'");
+}
+function addSms($user)
+{
+    $jnilrypag = "cc";
+    $cirhjojaydjf = "sql";
+    $GLOBALS["djirvesprn"] = "res";
+    global $conn;
+    $GLOBALS["jsojskyi"] = "sql";
+    $sql = $conn->query("SELECT att FROM mensagens WHERE id_owner='{$user}'")->fetch();
+    $cc = $sql[0] + 1;
+    $res = $conn->query("UPDATE mensagens SET att='{$cc}' WHERE id_owner='{$user}'");
+}
+function getConfigUser($valor, $user)
+{
+    $jborcoeotqtr = "sql";
+    global $conn;
+    $sql = $conn->query("SELECT * FROM configuracoes WHERE id_owner='{$user}'");
+    if ($sql->rowCount() > 0) {
+        $kvqwguvbjg = "sql";
+        $mqwwkskqsig = "valor";
+        $sql = $conn->query("SELECT {$valor} FROM configuracoes WHERE id_owner='{$user}'")->fetch();
+        return $sql[$valor];
+    } else {
+    }
+}
+function isLogged($sid)
+{
+    if (getLogged($sid) == false) {
+        header("location: /painel.php");
+    }
+}
+function download($arquivo)
+{
+    header("Content-Type: application/force-download");
+    header("Content-Type: application/octet-stream;");
+    $GLOBALS["sizexsv"] = "arquivo";
+    header("Content-Length:" . filesize($arquivo));
+    header("Content-disposition: attachment; filename=" . $arquivo);
+    header("Pragma: no-cache");
+    header("Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0");
+    header("Expires: 0");
+    readfile($arquivo);
+    flush();
+}
+function delTree($dir)
+{
+    $iobyrjmfnx = "dir";
+    $files = array_diff(scandir($dir), array(".", ".."));
+    foreach ($files as $file) {
+        is_dir("{$dir}/{$file}") ? delTree("{$dir}/{$file}") : unlink("{$dir}/{$file}");
+    }
+    return rmdir($dir);
+}
+function ipusuario()
+{
+    $ipaddress = "Indefinido";
+    $sxdxtflc = "ipaddress";
+    $GLOBALS["rqtxsfxt"] = "ipaddress";
+    if (isset($_SERVER)) {
+        $mvndqkt = "ipaddress";
+        $ipaddress = $_SERVER["REMOTE_ADDR"];
+        $GLOBALS["rnbctp"] = "ipaddress";
+        if (isset($_SERVER["HTTP_X_FORWARDED_FOR"])) {
+            $ipaddress = $_SERVER["HTTP_X_FORWARDED_FOR"];
+        } elseif (isset($_SERVER["HTTP_CLIENT_IP"])) {
+            $ipaddress = $_SERVER["HTTP_CLIENT_IP"];
+        }
+    } else {
+        $GLOBALS["dezolrxdqccs"] = "ipaddress";
+        $ipaddress = getenv("REMOTE_ADDR");
+        $abqpzkilar = "ipaddress";
+        if (getenv("HTTP_X_FORWARDED_FOR")) {
+            $ipaddress = getenv("HTTP_X_FORWARDED_FOR");
+        } elseif (getenv("HTTP_CLIENT_IP")) {
+            $ipaddress = getenv("HTTP_CLIENT_IP");
+        }
+    }
+    $ipaddress = htmlspecialchars($ipaddress, ENT_QUOTES, "UTF-8");
+    return ${$sxdxtflc};
+}
+function expulsaVisitante()
+{
+    session_start();
+    unset($_SESSION["ipusuario"], $_SESSION["logado"]);
+    session_destroy();
+    header("Location: /painel.php");
+    exit;
+}

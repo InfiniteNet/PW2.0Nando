@@ -1,2 +1,131 @@
-<?php ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["h\x70\x75ju\x64\x70\x6axg"]="\x73\x73h";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73z\x68\x79n\x6b\x6cw\x72\x70"]="\x72\x6f\x77";${"\x47L\x4f\x42\x41\x4c\x53"}["\x61\x64\x77\x73x\x62e\x6f\x64\x70\x76"]="\x73\x65\x6e\x68a\x53\x53\x48";${"\x47L\x4f\x42\x41\x4c\x53"}["g\x67\x73\x78\x6c\x6c\x6bz\x79\x77\x66"]="i\x70\x5f\x73e\x72\x76i\x64\x6f\x72";${"\x47LO\x42A\x4cS"}["\x7av\x79\x66v\x6dpyeic"]="\x6c\x6f\x67\x69\x6e\x53\x53H";${"\x47\x4c\x4fB\x41\x4c\x53"}["\x62s\x69\x75l\x79\x69wi\x69"]="\x53QLSS\x48";${"\x47L\x4f\x42\x41L\x53"}["\x73\x77\x76xq\x6b\x75c"]="\x73\x65\x72\x76\x69dor";${"GLO\x42A\x4c\x53"}["\x6f\x75u\x78j\x6b\x67\x72\x68\x75"]="\x53\x51\x4cSe\x72\x76\x69d\x6f\x72";${"\x47L\x4fB\x41\x4c\x53"}["\x62\x62bh\x72ac"]="\x53QLSSH";require_once("\x73eg\x75\x72a\x6e\x63\x61.\x70\x68\x70");require_once("co\x6efi\x67.\x70\x68\x70");$hxwycozayi="S\x51\x4c\x53\x53H";require_once("class\x65\x2e\x73s\x68\x2e\x70\x68\x70");$csexqox="\x64a\x74\x61";${$csexqox}=date("Y-m-d H:\x69:s");${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x62\x62b\x68\x72a\x63"]}="S\x45\x4cECT\x20*\x20\x46\x52O\x4d \x63\x6fnt\x61\x5f\x73s\x68 wher\x65 \x73ta\x74\x75\x73\x3d\x272\x27\x20\x61\x6ed \x61\x70aga\x72\x3d'2\x27";${$hxwycozayi}=$conn->prepare(${${"\x47L\x4f\x42\x41\x4cS"}["\x62\x62bh\x72a\x63"]});$SQLSSH->execute();${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x76\x6dg\x72q\x78\x6b"]="S\x51\x4cS\x53H";if(($SQLSSH->rowCount())>0){$rvrhdjvsdz="\x72ow";while(${$rvrhdjvsdz}=$SQLSSH->fetch()){$jpcemsmvp="\x69\x70_\x73\x65\x72vid\x6f\x72";$yfjpocr="\x73\x65r\x76\x69\x64\x6f\x72";$orxstabo="\x73e\x72\x76\x69d\x6fr";$frbyintcj="r\x6fw";$jvqbhjqaknn="\x53Q\x4c\x53\x53H";${${"\x47LO\x42\x41\x4c\x53"}["\x6f\x75u\x78\x6a\x6b\x67rh\x75"]}="\x73e\x6c\x65\x63t * f\x72om \x73e\x72v\x69\x64or WHER\x45 id_\x73\x65r\x76\x69\x64\x6fr \x3d\x20\x27".${$frbyintcj}["\x69\x64\x5f\x73\x65r\x76\x69d\x6f\x72"]."\x27";$kwkvqsqcwdc="\x53\x51\x4c\x53\x65\x72\x76i\x64o\x72";${"GL\x4fB\x41\x4c\x53"}["\x74\x74\x66\x75\x67j\x64pt\x70"]="\x53\x51\x4c\x53\x65\x72vi\x64o\x72";${${"\x47\x4c\x4fBALS"}["\x74t\x66\x75\x67\x6a\x64pt\x70"]}=$conn->prepare(${$kwkvqsqcwdc});${"\x47\x4c\x4f\x42A\x4cS"}["\x70kl\x71\x70\x61f\x72\x71\x6f\x66"]="\x73\x65\x72v\x69\x64\x6fr";$yjndgomrygp="\x72\x6f\x77";$SQLServidor->execute();${"GL\x4f\x42A\x4cS"}["\x6as\x62\x6a\x66l\x65\x6f\x67n\x77"]="ro\x77";${$orxstabo}=$SQLServidor->fetch();$xspleirj="\x73\x65\x6e\x68\x61S\x53\x48";${$jpcemsmvp}=${${"GLO\x42\x41\x4c\x53"}["sw\x76\x78\x71ku\x63"]}["\x69\x70\x5f\x73ervi\x64o\x72"];$ldaqvrixipm="\x73s\x68";$xuixlvs="\x53Q\x4c\x53\x53\x48";${${"GLO\x42\x41LS"}["\x7a\x76\x79\x66v\x6d\x70\x79e\x69c"]}=${${"\x47\x4c\x4f\x42AL\x53"}["p\x6blqp\x61fr\x71\x6f\x66"]}["\x6c\x6f\x67\x69n_\x73\x65\x72v\x65r"];$smdqbmn="\x64at\x61";${$xspleirj}=${$yfjpocr}["\x73\x65\x6e\x68\x61"];${$ldaqvrixipm}=new SSH2(${${"\x47LO\x42\x41L\x53"}["\x67\x67s\x78\x6c\x6ckz\x79wf"]});$ssh->auth(${${"\x47L\x4f\x42\x41L\x53"}["\x7a\x76\x79fv\x6d\x70\x79ei\x63"]},${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x61\x64\x77sx\x62\x65\x6fd\x70v"]});$ssh->exec("\x75\x73\x65\x72mo\x64 -L ".${${"G\x4cOB\x41LS"}["\x73\x7a\x68\x79nk\x6c\x77rp"]}["\x6c\x6fgi\x6e"]."\x20&&\x20/\x6fp\x74/\x67\x65\x73tor\x73\x69\x6ec/Ki\x6c\x6c\x55se\x72\x20".${$yjndgomrygp}["logi\x6e"].")");$ssh->output();${${"G\x4cO\x42A\x4c\x53"}["bb\x62\x68\x72\x61c"]}="\x75pd\x61t\x65\x20con\x74a\x5f\x73\x73h \x73\x65\x74\x20st\x61t\x75s=\x27\x32\x27,\x20a\x70agar\x3d\x270\x27,\x20on\x6c\x69n\x65='0', \x64\x61\x74\x61\x5fs\x75spe\x6esa\x6f=\x27".${$smdqbmn}."' WH\x45R\x45 \x69d\x5fu\x73u\x61\x72\x69o\x5fs\x73h =\x20\x27".${${"\x47\x4c\x4f\x42\x41\x4cS"}["j\x73b\x6a\x66l\x65\x6f\x67\x6e\x77"]}["id\x5f\x75\x73u\x61rio\x5f\x73s\x68"]."\x27\x20";${$jvqbhjqaknn}=$conn->prepare(${$xuixlvs});$SQLSSH->execute();echo"\x3c\x62\x72\x3e\x43\x6fn\x74\x61\x20SSH\x20s\x75s\x70\x65n\x73\x61 com\x20su\x63e\x73\x73o\x21<\x62r\x3e".${${"\x47\x4c\x4f\x42AL\x53"}["\x73\x7ah\x79\x6e\x6bl\x77r\x70"]}["\x6co\x67in"];}}else{echo"<\x62\x72\x3e\x4een\x68u\x6d\x61\x20\x43\x6fn\x74a\x20SSH\x20s\x75\x73\x70\x65n\x73a\x20n\x6f \x73er\x76i\x64o\x72\x21\x3cbr>";}${${"\x47\x4c\x4f\x42A\x4c\x53"}["b\x62\x62\x68r\x61c"]}="SE\x4c\x45\x43T\x20*\x20\x46RO\x4d \x63ont\x61_ss\x68 w\x68\x65re\x20 \x73\x74a\x74\x75s='\x31\x27\x20\x61\x6e\x64 \x61\x70agar='1\x27";${${"GL\x4fB\x41\x4cS"}["v\x6d\x67\x72\x71\x78\x6b"]}=$conn->prepare(${${"G\x4c\x4f\x42AL\x53"}["\x62si\x75l\x79\x69\x77\x69i"]});$SQLSSH->execute();if(($SQLSSH->rowCount())>0){while(${${"\x47L\x4f\x42AL\x53"}["\x73z\x68\x79\x6e\x6b\x6c\x77rp"]}=$SQLSSH->fetch()){$bntsxkya="\x72o\x77";${"G\x4c\x4f\x42\x41\x4cS"}["\x7a\x6b\x75tk\x67e\x67\x74"]="\x53Q\x4cSer\x76\x69\x64\x6f\x72";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x71l\x75\x6bmq\x68\x6fcd"]="s\x65r\x76\x69\x64o\x72";$rbhvpbuxnzzu="\x72o\x77";${"\x47L\x4fB\x41\x4cS"}["\x67\x63l\x78\x78q\x78\x75"]="l\x6f\x67i\x6eS\x53\x48";$eosfrylbgk="SQ\x4cS\x65\x72\x76\x69d\x6fr";$jvdgwdw="i\x70\x5f\x73\x65\x72\x76i\x64o\x72";$rsgntij="\x53\x51L\x53\x53\x48";$lzunjtu="row";${"\x47\x4c\x4f\x42AL\x53"}["\x74\x76\x72\x71q\x73x\x70"]="\x73s\x68";$jituivmyctga="\x69\x70\x5f\x73\x65\x72\x76\x69d\x6f\x72";${"\x47L\x4fB\x41\x4c\x53"}["ugxejxey"]="s\x65\x6eh\x61S\x53H";${${"\x47L\x4f\x42\x41\x4cS"}["ou\x75x\x6a\x6bg\x72\x68\x75"]}="se\x6c\x65\x63\x74\x20*\x20fr\x6fm ser\x76idor \x57\x48\x45RE id\x5fs\x65rv\x69do\x72\x20= '".${$bntsxkya}["\x69d_servi\x64\x6fr"]."\x27";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["zkut\x6b\x67egt"]}=$conn->prepare(${$eosfrylbgk});$SQLServidor->execute();${${"GL\x4fB\x41LS"}["\x73wvx\x71\x6b\x75\x63"]}=$SQLServidor->fetch();${$jvdgwdw}=${${"\x47\x4cO\x42\x41LS"}["\x71\x6c\x75k\x6dq\x68\x6f\x63\x64"]}["\x69\x70\x5f\x73\x65\x72\x76\x69dor"];${${"\x47L\x4f\x42A\x4c\x53"}["\x67\x63l\x78\x78\x71\x78u"]}=${${"G\x4cOB\x41\x4c\x53"}["\x73wv\x78\x71k\x75\x63"]}["\x6c\x6fgin_s\x65\x72\x76e\x72"];${${"\x47\x4cO\x42\x41\x4c\x53"}["u\x67xe\x6a\x78\x65\x79"]}=${${"GL\x4fBA\x4c\x53"}["sw\x76x\x71\x6bu\x63"]}["s\x65\x6eha"];${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x74vr\x71q\x73\x78\x70"]}=new SSH2(${$jituivmyctga});$ssh->auth(${${"\x47\x4c\x4fB\x41\x4cS"}["z\x76\x79\x66\x76mp\x79\x65i\x63"]},${${"\x47\x4c\x4f\x42A\x4c\x53"}["a\x64w\x73\x78\x62\x65o\x64\x70\x76"]});$ssh->exec("user\x6d\x6f\x64 -U ".${$lzunjtu}["\x6co\x67i\x6e"]."\x20&\x26 /\x6f\x70\x74/g\x65sto\x72\x73in\x63/K\x69\x6cl\x55\x73\x65r ".${${"\x47L\x4f\x42\x41\x4c\x53"}["\x73z\x68y\x6eklwr\x70"]}["\x6c\x6f\x67i\x6e"]."");$ssh->output();${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x62\x62b\x68\x72\x61\x63"]}="\x75p\x64ate \x63\x6f\x6et\x61_ss\x68 s\x65t\x20\x73\x74\x61t\x75\x73\x3d\x27\x31\x27,\x20apagar=\x270'\x20\x57HER\x45 id\x5fus\x75\x61r\x69\x6f\x5f\x73\x73h\x20\x3d\x20'".${${"GL\x4fB\x41LS"}["\x73z\x68\x79\x6e\x6bl\x77rp"]}["\x69d_u\x73u\x61ri\x6f\x5fssh"]."'";${$rsgntij}=$conn->prepare(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x62bb\x68ra\x63"]});$SQLSSH->execute();echo"<\x62\x72\x3e\x43\x6fn\x74a S\x53H: ".${$rbhvpbuxnzzu}["log\x69n"]."\x6c\x69b\x65r\x61da\x20com \x73u\x63e\x73\x73\x6f!\x3c\x62r>";}}else{echo"\x3cb\x72\x3e\x4e\x65nhu\x6da\x20\x43on\x74a \x53\x53\x48 li\x62er\x61da \x6eo \x73e\x72\x76id\x6fr!\x3cbr\x3e";}${${"G\x4c\x4f\x42AL\x53"}["\x62\x62\x62hr\x61\x63"]}="S\x45LE\x43\x54 *\x20F\x52\x4f\x4d\x20\x63\x6fn\x74a\x5f\x73\x73h\x20\x77here \x20\x73ta\x74\x75\x73='\x33'\x20\x61n\x64 apagar\x20\x3e='0'";${${"\x47L\x4f\x42\x41L\x53"}["\x62bbhr\x61c"]}=$conn->prepare(${${"GL\x4f\x42\x41L\x53"}["\x62\x62bhr\x61\x63"]});$SQLSSH->execute();if(($SQLSSH->rowCount())>0){while(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73\x7a\x68ynklw\x72p"]}=$SQLSSH->fetch()){$aycivduqgi="r\x6f\x77";$vnxcifsjeqa="\x72\x6f\x77";${"\x47\x4cO\x42\x41\x4c\x53"}["\x7ab\x6f\x6f\x76\x65m"]="\x53\x51\x4c\x53\x65r\x76\x69\x64o\x72";${${"\x47\x4cO\x42A\x4c\x53"}["zb\x6f\x6fv\x65\x6d"]}="\x73\x65\x6c\x65\x63t *\x20f\x72\x6f\x6d\x20s\x65\x72\x76\x69\x64or\x20\x57H\x45\x52\x45\x20id_servi\x64\x6f\x72\x20=\x20'".${$aycivduqgi}["\x69\x64_\x73\x65rvi\x64or"]."\x27";${"G\x4c\x4f\x42\x41\x4cS"}["\x64hun\x74\x70"]="sen\x68a\x53\x53H";$sfgsynqs="\x53\x51\x4c\x53\x53H";$ucfwfmutm="\x72o\x77";${"G\x4c\x4fB\x41\x4cS"}["\x79\x68g\x67\x6b\x67\x65\x64\x65\x6e\x73"]="\x73e\x72vi\x64\x6f\x72";${${"\x47\x4cO\x42\x41\x4cS"}["\x6fuuxjkg\x72\x68u"]}=$conn->prepare(${${"\x47L\x4f\x42\x41\x4c\x53"}["o\x75u\x78\x6a\x6bg\x72\x68u"]});$kfxpqnfvr="s\x65\x72\x76\x69do\x72";$zpgcevoik="r\x6f\x77";${"\x47\x4cO\x42\x41LS"}["j\x70x\x61ogwu\x78\x7a"]="\x69\x70\x5fs\x65\x72\x76i\x64o\x72";$SQLServidor->execute();${${"\x47\x4cO\x42A\x4cS"}["sw\x76\x78q\x6b\x75\x63"]}=$SQLServidor->fetch();$emjqnuynekmp="se\x72\x76\x69\x64\x6fr";${"GLO\x42\x41LS"}["\x62\x73\x68\x67\x62\x69\x68"]="lo\x67\x69\x6e\x53\x53\x48";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["g\x67s\x78\x6cl\x6b\x7a\x79\x77\x66"]}=${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x79\x68\x67g\x6b\x67\x65d\x65\x6e\x73"]}["i\x70_s\x65r\x76\x69\x64or"];$rhleyje="\x73e\x6e\x68\x61\x53\x53\x48";${"G\x4c\x4f\x42\x41L\x53"}["x\x6d\x6f\x61\x78\x6b\x64o"]="\x53\x51\x4c\x53\x53H";${${"\x47\x4c\x4fB\x41\x4cS"}["\x62s\x68g\x62\x69\x68"]}=${$kfxpqnfvr}["lo\x67i\x6e_s\x65r\x76\x65r"];${$rhleyje}=${$emjqnuynekmp}["s\x65\x6eha"];${${"\x47\x4c\x4fB\x41LS"}["h\x70\x75ju\x64p\x6ax\x67"]}=new SSH2(${${"\x47\x4c\x4f\x42\x41LS"}["\x6a\x70\x78\x61\x6f\x67\x77u\x78z"]});$ssh->auth(${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x7av\x79\x66vmp\x79\x65ic"]},${${"\x47LO\x42\x41\x4c\x53"}["\x64h\x75\x6e\x74\x70"]});$ssh->exec("/o\x70\x74/\x67\x65st\x6f\x72\x73i\x6ec/\x72e\x6d\x6f\x76\x65r ".${$zpgcevoik}["l\x6fgin"]."");$ssh->output();${${"G\x4c\x4f\x42\x41L\x53"}["x\x6d\x6f\x61\x78k\x64\x6f"]}="del\x65\x74\x65 \x66\x72\x6f\x6d\x20\x63o\x6et\x61\x5f\x73\x73\x68 WHER\x45 \x69\x64_\x75\x73uar\x69\x6f_s\x73\x68\x20= '".${$vnxcifsjeqa}["\x69\x64_u\x73uario_ss\x68"]."\x27";${${"\x47L\x4f\x42\x41L\x53"}["\x62bb\x68\x72a\x63"]}=$conn->prepare(${$sfgsynqs});$SQLSSH->execute();echo"\x3c\x62\x72\x3eCo\x6e\x74\x61 SS\x48: ".${$ucfwfmutm}["l\x6f\x67\x69\x6e"]."\x64el\x65\x74\x61da\x20\x63\x6f\x6d \x73u\x63\x65\x73\x73o!<\x62r>";}}else{echo"<b\x72\x3e\x4ee\x6e\x68\x75\x6da\x20\x43\x6fn\x74a\x20SSH\x20\x65\x78cluid\x61\x20\x6e\x6f se\x72\x76i\x64\x6fr\x21<b\x72>";}
-?>
+<?php
+
+$GLOBALS["hpujudpjxg"] = "ssh";
+$GLOBALS["szhynklwrp"] = "row";
+$GLOBALS["adwsxbeodpv"] = "senhaSSH";
+$GLOBALS["ggsxllkzywf"] = "ip_servidor";
+$GLOBALS["zvyfvmpyeic"] = "loginSSH";
+$GLOBALS["bsiulyiwii"] = "SQLSSH";
+$GLOBALS["swvxqkuc"] = "servidor";
+$GLOBALS["ouuxjkgrhu"] = "SQLServidor";
+$GLOBALS["bbbhrac"] = "SQLSSH";
+require_once "seguranca.php";
+require_once "config.php";
+$hxwycozayi = "SQLSSH";
+require_once "classe.ssh.php";
+$csexqox = "data";
+$data = date("Y-m-d H:i:s");
+$SQLSSH = "SELECT * FROM conta_ssh where status='2' and apagar='2'";
+$SQLSSH = $conn->prepare($SQLSSH);
+$SQLSSH->execute();
+$GLOBALS["vmgrqxk"] = "SQLSSH";
+if ($SQLSSH->rowCount() > 0) {
+    $rvrhdjvsdz = "row";
+    while (${$rvrhdjvsdz} = $SQLSSH->fetch()) {
+        $jpcemsmvp = "ip_servidor";
+        $yfjpocr = "servidor";
+        $orxstabo = "servidor";
+        $frbyintcj = "row";
+        $jvqbhjqaknn = "SQLSSH";
+        ${$GLOBALS["ouuxjkgrhu"]} = "select * from servidor WHERE id_servidor = '" . $row["id_servidor"] . "'";
+        $kwkvqsqcwdc = "SQLServidor";
+        $GLOBALS["ttfugjdptp"] = "SQLServidor";
+        $SQLServidor = $conn->prepare($SQLServidor);
+        $GLOBALS["pklqpafrqof"] = "servidor";
+        $yjndgomrygp = "row";
+        $SQLServidor->execute();
+        $GLOBALS["jsbjfleognw"] = "row";
+        ${$orxstabo} = $SQLServidor->fetch();
+        $xspleirj = "senhaSSH";
+        ${$jpcemsmvp} = ${$GLOBALS["swvxqkuc"]}["ip_servidor"];
+        $ldaqvrixipm = "ssh";
+        $xuixlvs = "SQLSSH";
+        ${$GLOBALS["zvyfvmpyeic"]} = ${$GLOBALS["pklqpafrqof"]}["login_server"];
+        $smdqbmn = "data";
+        ${$xspleirj} = ${$yfjpocr}["senha"];
+        ${$ldaqvrixipm} = new SSH2(${$GLOBALS["ggsxllkzywf"]});
+        $ssh->auth(${$GLOBALS["zvyfvmpyeic"]}, ${$GLOBALS["adwsxbeodpv"]});
+        $ssh->exec("usermod -L " . ${$GLOBALS["szhynklwrp"]}["login"] . " && /opt/gestorsinc/KillUser " . ${$yjndgomrygp}["login"] . ")");
+        $ssh->output();
+        ${$GLOBALS["bbbhrac"]} = "update conta_ssh set status='2', apagar='0', online='0', data_suspensao='" . ${$smdqbmn} . "' WHERE id_usuario_ssh = '" . ${$GLOBALS["jsbjfleognw"]}["id_usuario_ssh"] . "' ";
+        ${$jvqbhjqaknn} = $conn->prepare(${$xuixlvs});
+        $SQLSSH->execute();
+        echo "<br>Conta SSH suspensa com sucesso!<br>" . ${$GLOBALS["szhynklwrp"]}["login"];
+    }
+} else {
+    echo "<br>Nenhuma Conta SSH suspensa no servidor!<br>";
+}
+${$GLOBALS["bbbhrac"]} = "SELECT * FROM conta_ssh where  status='1' and apagar='1'";
+${$GLOBALS["vmgrqxk"]} = $conn->prepare(${$GLOBALS["bsiulyiwii"]});
+$SQLSSH->execute();
+if ($SQLSSH->rowCount() > 0) {
+    while (${$GLOBALS["szhynklwrp"]} = $SQLSSH->fetch()) {
+        $bntsxkya = "row";
+        $GLOBALS["zkutkgegt"] = "SQLServidor";
+        $GLOBALS["qlukmqhocd"] = "servidor";
+        $rbhvpbuxnzzu = "row";
+        $GLOBALS["gclxxqxu"] = "loginSSH";
+        $eosfrylbgk = "SQLServidor";
+        $jvdgwdw = "ip_servidor";
+        $rsgntij = "SQLSSH";
+        $lzunjtu = "row";
+        $GLOBALS["tvrqqsxp"] = "ssh";
+        $jituivmyctga = "ip_servidor";
+        $GLOBALS["ugxejxey"] = "senhaSSH";
+        ${$GLOBALS["ouuxjkgrhu"]} = "select * from servidor WHERE id_servidor = '" . $row["id_servidor"] . "'";
+        ${$GLOBALS["zkutkgegt"]} = $conn->prepare(${$eosfrylbgk});
+        $SQLServidor->execute();
+        ${$GLOBALS["swvxqkuc"]} = $SQLServidor->fetch();
+        ${$jvdgwdw} = ${$GLOBALS["qlukmqhocd"]}["ip_servidor"];
+        ${$GLOBALS["gclxxqxu"]} = ${$GLOBALS["swvxqkuc"]}["login_server"];
+        ${$GLOBALS["ugxejxey"]} = ${$GLOBALS["swvxqkuc"]}["senha"];
+        ${$GLOBALS["tvrqqsxp"]} = new SSH2(${$jituivmyctga});
+        $ssh->auth(${$GLOBALS["zvyfvmpyeic"]}, ${$GLOBALS["adwsxbeodpv"]});
+        $ssh->exec("usermod -U " . ${$lzunjtu}["login"] . " && /opt/gestorsinc/KillUser " . ${$GLOBALS["szhynklwrp"]}["login"] . "");
+        $ssh->output();
+        ${$GLOBALS["bbbhrac"]} = "update conta_ssh set status='1', apagar='0' WHERE id_usuario_ssh = '" . ${$GLOBALS["szhynklwrp"]}["id_usuario_ssh"] . "'";
+        ${$rsgntij} = $conn->prepare(${$GLOBALS["bbbhrac"]});
+        $SQLSSH->execute();
+        echo "<br>Conta SSH: " . ${$rbhvpbuxnzzu}["login"] . "liberada com sucesso!<br>";
+    }
+} else {
+    echo "<br>Nenhuma Conta SSH liberada no servidor!<br>";
+}
+${$GLOBALS["bbbhrac"]} = "SELECT * FROM conta_ssh where  status='3' and apagar >='0'";
+${$GLOBALS["bbbhrac"]} = $conn->prepare(${$GLOBALS["bbbhrac"]});
+$SQLSSH->execute();
+if ($SQLSSH->rowCount() > 0) {
+    while (${$GLOBALS["szhynklwrp"]} = $SQLSSH->fetch()) {
+        $aycivduqgi = "row";
+        $vnxcifsjeqa = "row";
+        $GLOBALS["zboovem"] = "SQLServidor";
+        $SQLServidor = "select * from servidor WHERE id_servidor = '" . $row["id_servidor"] . "'";
+        $GLOBALS["dhuntp"] = "senhaSSH";
+        $sfgsynqs = "SQLSSH";
+        $ucfwfmutm = "row";
+        $GLOBALS["yhggkgedens"] = "servidor";
+        ${$GLOBALS["ouuxjkgrhu"]} = $conn->prepare(${$GLOBALS["ouuxjkgrhu"]});
+        $kfxpqnfvr = "servidor";
+        $zpgcevoik = "row";
+        $GLOBALS["jpxaogwuxz"] = "ip_servidor";
+        $SQLServidor->execute();
+        ${$GLOBALS["swvxqkuc"]} = $SQLServidor->fetch();
+        $emjqnuynekmp = "servidor";
+        $GLOBALS["bshgbih"] = "loginSSH";
+        ${$GLOBALS["ggsxllkzywf"]} = ${$GLOBALS["yhggkgedens"]}["ip_servidor"];
+        $rhleyje = "senhaSSH";
+        $GLOBALS["xmoaxkdo"] = "SQLSSH";
+        ${$GLOBALS["bshgbih"]} = ${$kfxpqnfvr}["login_server"];
+        ${$rhleyje} = ${$emjqnuynekmp}["senha"];
+        ${$GLOBALS["hpujudpjxg"]} = new SSH2(${$GLOBALS["jpxaogwuxz"]});
+        $ssh->auth(${$GLOBALS["zvyfvmpyeic"]}, ${$GLOBALS["dhuntp"]});
+        $ssh->exec("/opt/gestorsinc/remover " . ${$zpgcevoik}["login"] . "");
+        $ssh->output();
+        ${$GLOBALS["xmoaxkdo"]} = "delete from conta_ssh WHERE id_usuario_ssh = '" . ${$vnxcifsjeqa}["id_usuario_ssh"] . "'";
+        ${$GLOBALS["bbbhrac"]} = $conn->prepare(${$sfgsynqs});
+        $SQLSSH->execute();
+        echo "<br>Conta SSH: " . ${$ucfwfmutm}["login"] . "deletada com sucesso!<br>";
+    }
+} else {
+    echo "<br>Nenhuma Conta SSH excluida no servidor!<br>";
+}

@@ -1,2 +1,330 @@
-<?php ${"\x47\x4cO\x42\x41\x4c\x53"}["\x71\x70m\x76\x76f"]="\x64a\x74a\x63\x72\x69\x61\x64\x6f";${"\x47\x4cO\x42\x41L\x53"}["h\x68\x6ca\x6a\x67\x76n\x76\x70\x64"]="i\x6e\x66o";${"\x47L\x4fBAL\x53"}["q\x63\x67\x6a\x73\x62\x72nf"]="\x63\x6c\x61\x73\x73";${"\x47L\x4f\x42\x41\x4c\x53"}["\x6e\x73\x6e\x65\x77\x72\x6bx"]="\x6e\x6fti";${"\x47\x4cO\x42\x41\x4c\x53"}["\x6fn\x66\x67\x7ao\x62\x64"]="\x53\x51\x4c\x55\x50U\x73e\x72";${"GL\x4fB\x41L\x53"}["\x67\x65w\x68\x72\x77\x64"]="\x53\x51\x4c\x6e\x6f\x74\x69\x6ce\x72";${"\x47\x4c\x4fBA\x4c\x53"}["fj\x79\x73\x75\x6d\x71\x6d\x78\x72\x6c"]="\x74\x75d\x6f";${"\x47\x4c\x4f\x42A\x4c\x53"}["qlg\x75y\x66\x62\x74yi"]="\x74o\x74aln\x6fti";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["l\x6ao\x75\x6d\x71i\x63v\x64"]="S\x51\x4c\x6e\x6f\x74\x69";${"G\x4c\x4f\x42\x41\x4c\x53"}["i\x6dwv\x66\x76\x6b\x62\x68\x73\x76"]="t\x69\x70\x6f";${"\x47L\x4fB\x41\x4cS"}["\x6dar\x72\x62\x66u\x6f"]="\x6c\x65\x72";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6ek\x77k\x6d\x79\x65\x64\x78"]="\x75\x73\x75\x61r\x69o";if(basename($_SERVER["\x52\x45\x51UEST_U\x52\x49"])===basename(__FILE__)){exit("\x3c\x68\x31\x3eERROR \x34\x30\x34</\x681\x3eE\x6et\x72e \x65\x6d \x63o\x6et\x61\x74\x6f\x20c\x6fn\x6fs\x63\x6f e\x20\x65\x6e\x76\x69\x65\x20\x64\x65\x74\x61l\x68\x65\x73\x2e");}protegePagina("u\x73e\x72");if(${${"\x47\x4c\x4f\x42A\x4c\x53"}["n\x6b\x77k\x6dy\x65\x64x"]}["a\x74\x69vo"]==2){echo"<\x73crip\x74 type\x3d\"text/\x6aa\x76a\x73cr\x69p\x74\x22\x3e";echo"\x77\x69\x6ed\x6f\x77\x2el\x6f\x63\x61\x74i\x6fn\x3d\x22home.ph\x70?\x70a\x67\x65\x3d\x73u\x73p\x65\x6es\x6f\x22\x3b";echo"\x3c/\x73c\x72\x69pt\x3e";exit;}if(isset($_GET["ler"])){${"G\x4cO\x42A\x4c\x53"}["\x72\x6dc\x69\x77\x6fi\x63"]="le\x72";${"G\x4c\x4fB\x41\x4cS"}["\x64\x68\x6c\x66ml"]="\x6ce\x72";${"G\x4cO\x42\x41\x4c\x53"}["\x78\x62\x6b\x62\x67\x6e\x65\x79x\x76\x65"]="l\x65\x72";$avlenkqchttp="le\x72";$qdgteqfom="\x74\x69p\x6f";$hhbieluap="\x6c\x65\x72";${"GLO\x42\x41\x4c\x53"}["\x6bf\x62bx\x76\x67t\x69"]="l\x65\x72";${"\x47\x4c\x4fBA\x4c\x53"}["\x6d\x63\x73\x71j\x6ck\x72"]="t\x69\x70\x6f";${"\x47\x4c\x4fB\x41\x4cS"}["\x76\x70\x72ju\x67w\x76\x70x\x79"]="le\x72";$blwemm="\x74i\x70\x6f";$cjnxuetxmxxo="\x6c\x65\x72";${"GL\x4f\x42A\x4c\x53"}["\x65j\x78\x6byr\x75\x66"]="\x6c\x65\x72";${"\x47\x4cO\x42A\x4c\x53"}["\x6f\x7a\x6d\x78nn\x6f\x63\x69jy"]="t\x69po";$jjbgfjlkrm="\x74\x69\x70\x6f";$wvujsbwekhb="\x6c\x65\x72";$esqfljpvkvx="\x6ce\x72";switch($_GET["l\x65r"]){case"al\x6c":${${"\x47\x4cOB\x41LS"}["m\x61\x72\x72\x62\x66\x75\x6f"]}="t\x75\x64\x6f";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x69mw\x76fvk\x62\x68\x73\x76"]}="\x74udo";break;case"\x6f\x74he\x72\x73":${$wvujsbwekhb}="others";${$blwemm}="\x6fu\x74ros";break;case"f\x61t\x75":${$esqfljpvkvx}="\x66atu";${${"\x47L\x4fB\x41\x4c\x53"}["\x69\x6dwv\x66vk\x62\x68s\x76"]}="\x66\x61\x74u\x72a";break;case"acc\x73":${$avlenkqchttp}="\x63on\x74a\x73";${$qdgteqfom}="c\x6f\x6e\x74\x61";break;case"r\x65ve":${$hhbieluap}="\x72\x65v\x65\x6eda";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x69\x6d\x77\x76\x66\x76kbh\x73v"]}="rev\x65n\x64\x61";break;case"s\x75\x62\x72e\x76e":${${"\x47\x4c\x4f\x42\x41L\x53"}["v\x70\x72\x6a\x75g\x77vpxy"]}="s\x75b\x72ev\x65n\x64a";${$jjbgfjlkrm}="\x73ub\x72e\x76\x65\x6e\x64a";break;case"u\x73ua\x72i\x6f":${${"G\x4cO\x42\x41L\x53"}["\x64h\x6c\x66\x6d\x6c"]}="\x75s\x75a\x72\x69o";${${"\x47L\x4fB\x41\x4cS"}["m\x63\x73qjlk\x72"]}="\x75\x73ua\x72io";break;case"c\x68\x61ma\x64os":${${"GL\x4f\x42\x41\x4c\x53"}["k\x66bb\x78\x76g\x74\x69"]}="\x63\x68\x61m\x61\x64os";${${"G\x4c\x4f\x42A\x4c\x53"}["o\x7am\x78\x6e\x6e\x6fc\x69j\x79"]}="cha\x6d\x61\x64\x6fs";break;default:${${"\x47\x4c\x4fBA\x4cS"}["m\x61\x72\x72b\x66\x75\x6f"]}="nada";break;}if(${${"G\x4c\x4fB\x41\x4cS"}["\x6d\x61r\x72\x62f\x75\x6f"]}=="n\x61d\x61"){}elseif(${${"\x47LO\x42\x41\x4cS"}["\x6d\x61\x72\x72b\x66\x75\x6f"]}=="t\x75\x64o"){${"\x47\x4c\x4fB\x41L\x53"}["t\x67\x7au\x79km"]="S\x51\x4c\x6e\x6f\x74\x69";${${"\x47L\x4f\x42\x41L\x53"}["ljo\x75\x6dq\x69\x63\x76d"]}="\x73\x65le\x63\x74 * \x66rom\x20\x20n\x6ft\x69fi\x63\x61\x63\x6f\x65s \x77\x68\x65r\x65\x20l\x69do\x3d\x27\x6eao\x27\x20\x61\x6ed a\x64mi\x6e='n\x61o'\x20a\x6e\x64\x20\x75\x73u\x61\x72io\x5fid\x3d\x27".$_SESSION["\x75\x73ua\x72\x69oI\x44"]."'";${"\x47\x4cOB\x41\x4c\x53"}["qe\x6b\x75g\x62\x74n\x6az"]="to\x74\x61\x6c\x6e\x6f\x74i";${${"GLO\x42\x41\x4cS"}["\x6c\x6aou\x6dq\x69\x63\x76\x64"]}=$conn->prepare(${${"GL\x4fB\x41L\x53"}["\x74g\x7a\x75\x79\x6bm"]});$SQLnoti->execute();${${"\x47LO\x42A\x4c\x53"}["qe\x6b\x75\x67\x62\x74\x6e\x6a\x7a"]}=$SQLnoti->rowCount();if(${${"G\x4cOB\x41\x4c\x53"}["\x71lg\x75\x79\x66bty\x69"]}>0){while(${${"GL\x4f\x42\x41L\x53"}["\x66\x6a\x79\x73\x75\x6d\x71\x6d\x78r\x6c"]}=$SQLnoti->fetch()){${"GL\x4f\x42\x41\x4c\x53"}["\x74\x73\x6d\x6a\x64\x6fv\x69\x77"]="\x74\x75d\x6f";${"G\x4c\x4fBAL\x53"}["\x65\x6e\x70d\x6d\x73\x76\x6b\x73dd\x6c"]="\x53Q\x4c\x6e\x6f\x74\x69\x6c\x65\x72";$clslyhepnp="\x53\x51\x4c\x6eo\x74\x69\x6c\x65\x72";${${"\x47LO\x42\x41\x4c\x53"}["\x65\x6ep\x64\x6d\x73\x76\x6b\x73\x64\x64l"]}="up\x64\x61te not\x69\x66\x69\x63\x61c\x6fe\x73\x20set\x20l\x69do\x3d'\x73i\x6d\x27 \x77\x68\x65\x72\x65\x20id=\x27".${${"\x47\x4cO\x42AL\x53"}["t\x73\x6d\x6a\x64\x6f\x76i\x77"]}["id"]."'";${$clslyhepnp}=$conn->prepare(${${"\x47\x4c\x4fB\x41L\x53"}["\x67\x65w\x68\x72\x77d"]});$SQLnotiler->execute();}}}elseif(${${"G\x4cO\x42\x41\x4cS"}["x\x62k\x62\x67n\x65\x79x\x76e"]}=="oth\x65rs"){$snktdbqtsnn="S\x51L\x6e\x6f\x74\x69";$axpepvbjdh="\x74\x6f\x74\x61l\x6e\x6f\x74\x69";${"\x47LO\x42\x41\x4c\x53"}["\x75\x71d\x6a\x72\x6d\x77"]="\x53Q\x4c\x6eo\x74i";${"GL\x4fBAL\x53"}["\x7ao\x6d\x6f\x72\x62\x6d\x77"]="\x74ot\x61lnot\x69";${${"\x47L\x4f\x42\x41\x4c\x53"}["l\x6aou\x6d\x71i\x63\x76\x64"]}="\x73\x65\x6cect *\x20\x66\x72\x6f\x6d\x20 n\x6f\x74\x69\x66\x69ca\x63oe\x73 w\x68\x65re l\x69d\x6f\x3d'nao\x27\x20\x61\x6e\x64\x20\x74\x69\x70\x6f\x3d\x27\x6f\x75\x74r\x6fs'\x20\x61nd ad\x6di\x6e=\x27na\x6f\x27\x20and\x20\x75\x73u\x61rio\x5f\x69d='".$_SESSION["u\x73\x75ari\x6fID"]."\x27";${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x75q\x64\x6a\x72\x6d\x77"]}=$conn->prepare(${$snktdbqtsnn});$SQLnoti->execute();${$axpepvbjdh}=$SQLnoti->rowCount();if(${${"\x47\x4cOB\x41\x4cS"}["z\x6f\x6d\x6f\x72b\x6d\x77"]}>0){${"\x47\x4c\x4f\x42\x41\x4cS"}["u\x62\x76\x77\x69w\x79\x79"]="tu\x64\x6f";while(${${"GL\x4f\x42\x41\x4cS"}["u\x62\x76\x77\x69\x77\x79\x79"]}=$SQLnoti->fetch()){$cckmnrdlhkl="\x74\x75\x64o";${${"\x47LO\x42\x41L\x53"}["g\x65\x77\x68\x72\x77\x64"]}="\x75\x70d\x61t\x65 n\x6f\x74i\x66\x69c\x61co\x65s\x20s\x65t \x6c\x69d\x6f=\x27si\x6d\x27 wher\x65\x20i\x64\x3d\x27".${$cckmnrdlhkl}["i\x64"]."\x27";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x67\x6e\x6ftr\x6b"]="S\x51\x4c\x6e\x6f\x74\x69\x6cer";${${"\x47LO\x42\x41LS"}["g\x6eo\x74\x72\x6b"]}=$conn->prepare(${${"\x47\x4c\x4f\x42AL\x53"}["\x67\x65\x77\x68r\x77\x64"]});$SQLnotiler->execute();}}}elseif(${${"G\x4cO\x42AL\x53"}["\x6darrbf\x75o"]}=="\x66\x61tu"){$jnqquqbhhc="\x53\x51\x4c\x6e\x6fti";$omfdcsbt="t\x6f\x74\x61lnot\x69";${"G\x4c\x4f\x42\x41L\x53"}["s\x6evw\x70\x61\x6d"]="\x53\x51\x4cno\x74i";${$jnqquqbhhc}="\x73ele\x63t *\x20\x66rom\x20\x20\x6e\x6f\x74\x69\x66\x69\x63\x61c\x6f\x65s \x77h\x65\x72\x65\x20lido\x3d\x27nao\x27\x20and\x20tip\x6f=\x27\x66\x61t\x75\x72\x61\x27\x20an\x64 \x61\x64min\x3d'\x6eao\x27 \x61n\x64 \x75\x73u\x61r\x69\x6f\x5fi\x64=\x27".$_SESSION["usu\x61\x72i\x6f\x49\x44"]."\x27";${${"GL\x4fBA\x4c\x53"}["ljo\x75\x6dqic\x76\x64"]}=$conn->prepare(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73\x6evw\x70\x61\x6d"]});$SQLnoti->execute();${$omfdcsbt}=$SQLnoti->rowCount();if(${${"G\x4cOBAL\x53"}["q\x6cgu\x79f\x62\x74\x79\x69"]}>0){while(${${"\x47LO\x42\x41LS"}["f\x6a\x79su\x6d\x71\x6d\x78\x72\x6c"]}=$SQLnoti->fetch()){${"\x47\x4c\x4f\x42ALS"}["b\x6b\x64fge\x64\x79\x76\x66\x76\x65"]="\x53\x51L\x6e\x6f\x74\x69\x6c\x65r";$jcncrlrtrju="\x53\x51\x4c\x6e\x6ft\x69\x6c\x65\x72";$ybykmqn="\x74u\x64\x6f";${$jcncrlrtrju}="up\x64\x61t\x65 notif\x69\x63\x61\x63o\x65\x73\x20\x73\x65\x74\x20\x6c\x69do=\x27si\x6d\x27 wh\x65\x72e\x20i\x64=\x27".${$ybykmqn}["i\x64"]."'";${${"\x47\x4cO\x42\x41\x4c\x53"}["\x62kd\x66gedy\x76fv\x65"]}=$conn->prepare(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["g\x65\x77\x68r\x77\x64"]});$SQLnotiler->execute();}}}elseif(${${"GL\x4f\x42\x41L\x53"}["m\x61\x72\x72\x62\x66u\x6f"]}=="\x63o\x6et\x61s"){${"\x47\x4c\x4fBALS"}["\x70emfirvk\x63\x78"]="\x53QL\x6e\x6f\x74i";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["ljo\x75\x6d\x71i\x63\x76\x64"]}="s\x65l\x65c\x74\x20*\x20\x66r\x6f\x6d \x20\x6eotif\x69\x63\x61\x63oe\x73 \x77\x68ere\x20li\x64\x6f\x3d\x27nao' \x61n\x64 tipo='\x63\x6f\x6e\x74a\x27\x20a\x6ed \x61d\x6di\x6e=\x27na\x6f'\x20\x61nd\x20usu\x61r\x69o\x5f\x69\x64\x3d'".$_SESSION["us\x75a\x72\x69\x6f\x49\x44"]."'";${${"\x47\x4c\x4fBA\x4c\x53"}["\x70e\x6df\x69r\x76\x6b\x63\x78"]}=$conn->prepare(${${"GL\x4f\x42AL\x53"}["\x6c\x6ao\x75m\x71\x69c\x76\x64"]});$enlksmu="t\x6ft\x61l\x6eoti";$SQLnoti->execute();${${"\x47\x4cO\x42\x41LS"}["q\x6cg\x75\x79f\x62t\x79\x69"]}=$SQLnoti->rowCount();if(${$enlksmu}>0){$ctapxsh="\x74u\x64o";while(${$ctapxsh}=$SQLnoti->fetch()){$opijxwdt="\x53Q\x4cnot\x69\x6c\x65r";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x67\x65\x77h\x72w\x64"]}="\x75\x70\x64a\x74\x65 \x6e\x6ft\x69\x66ic\x61c\x6fes se\x74 li\x64\x6f='\x73\x69m\x27\x20w\x68\x65\x72\x65 id=\x27".${${"\x47\x4c\x4f\x42\x41\x4cS"}["f\x6ay\x73\x75m\x71\x6d\x78r\x6c"]}["i\x64"]."'";${"\x47\x4cO\x42\x41\x4c\x53"}["\x6b\x64\x71\x63\x76\x6a\x63\x69"]="\x53\x51\x4c\x6eo\x74\x69\x6c\x65\x72";${$opijxwdt}=$conn->prepare(${${"GL\x4f\x42\x41\x4cS"}["\x6b\x64q\x63\x76\x6a\x63\x69"]});$SQLnotiler->execute();}}}elseif(${${"G\x4cO\x42\x41\x4cS"}["\x6d\x61rr\x62\x66\x75o"]}=="\x72eve\x6ed\x61"){$qkfibqsrtuel="\x74o\x74\x61\x6c\x6e\x6fti";${"\x47\x4cO\x42\x41\x4cS"}["\x6eh\x6d\x6b\x73\x6a\x72\x79\x6d\x61e"]="\x53QL\x6e\x6ft\x69";${${"GLOB\x41\x4c\x53"}["\x6c\x6a\x6f\x75mq\x69\x63v\x64"]}="\x73\x65\x6c\x65c\x74\x20* \x66ro\x6d \x20n\x6f\x74\x69fica\x63o\x65s\x20\x77her\x65\x20\x6cido\x3d\x27n\x61\x6f\x27 \x61\x6e\x64 \x74\x69\x70o='\x72\x65v\x65\x6e\x64\x61'\x20\x61\x6ed \x61d\x6di\x6e='na\x6f'\x20\x61\x6ed\x20u\x73\x75\x61\x72\x69o\x5fi\x64\x3d'".$_SESSION["\x75\x73\x75\x61\x72i\x6f\x49D"]."'";${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6e\x68\x6d\x6b\x73\x6a\x72\x79\x6d\x61\x65"]}=$conn->prepare(${${"G\x4cO\x42\x41\x4c\x53"}["lj\x6fu\x6dq\x69\x63\x76\x64"]});$SQLnoti->execute();${$qkfibqsrtuel}=$SQLnoti->rowCount();if(${${"\x47LOBA\x4c\x53"}["ql\x67\x75\x79f\x62\x74y\x69"]}>0){$ootuupfnd="t\x75do";while(${$ootuupfnd}=$SQLnoti->fetch()){$lffsksu="\x53\x51L\x6e\x6f\x74\x69le\x72";$ngrvthvla="\x53\x51\x4cn\x6fti\x6c\x65\x72";$dmnldr="\x74\x75d\x6f";${$lffsksu}="\x75\x70\x64a\x74\x65 n\x6f\x74\x69\x66ica\x63\x6fe\x73 \x73\x65t lido\x3d's\x69\x6d\x27\x20w\x68ere\x20\x69\x64='".${$dmnldr}["\x69d"]."\x27";$rkbebksygox="S\x51\x4c\x6e\x6f\x74ile\x72";${$rkbebksygox}=$conn->prepare(${$ngrvthvla});$SQLnotiler->execute();}}}elseif(${${"\x47L\x4f\x42\x41LS"}["\x65\x6a\x78k\x79r\x75\x66"]}=="s\x75br\x65ven\x64\x61"){$mosqvyiv="\x74\x6ft\x61\x6c\x6e\x6f\x74\x69";${"GLO\x42\x41\x4c\x53"}["\x75\x79v\x68\x6b\x68usg"]="S\x51\x4c\x6e\x6f\x74\x69";${${"G\x4c\x4fB\x41\x4cS"}["\x6cj\x6f\x75\x6d\x71\x69\x63\x76\x64"]}="se\x6cect * \x66\x72\x6f\x6d  n\x6ft\x69f\x69\x63\x61\x63\x6fes\x20\x77\x68\x65\x72\x65 l\x69do\x3d'\x6ea\x6f\x27 \x61\x6e\x64 \x74\x69\x70\x6f\x3d\x27s\x75b\x72\x65venda\x27 and\x20a\x64\x6d\x69n\x3d'\x6e\x61\x6f' \x61nd u\x73\x75\x61rio\x5fi\x64\x3d'".$_SESSION["\x75su\x61\x72io\x49\x44"]."\x27";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6c\x6a\x6fu\x6d\x71\x69cv\x64"]}=$conn->prepare(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x75\x79\x76\x68kh\x75\x73g"]});$SQLnoti->execute();${${"G\x4cOB\x41\x4c\x53"}["\x71\x6c\x67uy\x66\x62t\x79\x69"]}=$SQLnoti->rowCount();if(${$mosqvyiv}>0){while(${${"\x47LO\x42\x41\x4c\x53"}["\x66j\x79s\x75m\x71\x6dxrl"]}=$SQLnoti->fetch()){$lgdpzirlygh="\x74\x75\x64\x6f";${${"G\x4cO\x42\x41L\x53"}["\x67\x65\x77\x68r\x77d"]}="\x75\x70d\x61\x74\x65 \x6eo\x74\x69fica\x63oes\x20set\x20l\x69do\x3d's\x69\x6d\x27 wh\x65re\x20i\x64\x3d'".${$lgdpzirlygh}["\x69\x64"]."'";$ojlpsd="\x53\x51\x4c\x6eo\x74\x69le\x72";${$ojlpsd}=$conn->prepare(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["ge\x77\x68rwd"]});$SQLnotiler->execute();}}}elseif(${${"GL\x4f\x42A\x4cS"}["r\x6d\x63\x69\x77\x6f\x69\x63"]}=="\x75\x73ua\x72\x69o"){$trbmcjd="S\x51\x4cn\x6fti";${"G\x4c\x4f\x42\x41L\x53"}["\x71v\x6d\x77\x79q\x6f\x79\x63\x6e\x70"]="t\x6f\x74\x61\x6c\x6e\x6ft\x69";${$trbmcjd}="\x73\x65l\x65c\x74 *\x20\x66\x72o\x6d\x20 n\x6ftifi\x63\x61\x63o\x65\x73 \x77her\x65\x20l\x69do=\x27\x6eao'\x20\x61\x6e\x64 t\x69\x70o='\x73\x75br\x65\x76e\x6ed\x61\x27 \x61\x6ed\x20admi\x6e\x3d\x27\x6eao' \x61\x6ed \x75\x73uar\x69\x6f\x5fi\x64\x3d'".$_SESSION["u\x73\x75a\x72\x69oID"]."'";${${"\x47\x4c\x4fB\x41\x4cS"}["\x6cj\x6f\x75m\x71i\x63\x76\x64"]}=$conn->prepare(${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6cj\x6f\x75mq\x69c\x76d"]});$SQLnoti->execute();${${"\x47L\x4f\x42\x41\x4cS"}["\x71\x76m\x77\x79\x71\x6f\x79\x63\x6ep"]}=$SQLnoti->rowCount();if(${${"GL\x4fB\x41\x4cS"}["\x71l\x67u\x79\x66\x62t\x79\x69"]}>0){${"\x47\x4c\x4f\x42\x41L\x53"}["r\x71\x69\x71\x6c\x6c\x6e"]="tudo";while(${${"\x47\x4c\x4f\x42ALS"}["\x72\x71i\x71\x6c\x6c\x6e"]}=$SQLnoti->fetch()){${${"\x47LO\x42AL\x53"}["\x67ewhr\x77\x64"]}="\x75pd\x61te n\x6ft\x69\x66\x69c\x61\x63\x6f\x65s s\x65\x74\x20\x6cido\x3d\x27\x73im'\x20wher\x65 id=\x27".${${"\x47\x4c\x4f\x42A\x4cS"}["\x66\x6a\x79\x73\x75\x6d\x71m\x78r\x6c"]}["\x69d"]."\x27";$klbmvnu="S\x51L\x6eo\x74il\x65\x72";${$klbmvnu}=$conn->prepare(${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x67ew\x68\x72w\x64"]});$SQLnotiler->execute();}}}elseif(${$cjnxuetxmxxo}=="c\x68\x61\x6d\x61d\x6fs"){${${"\x47\x4cO\x42A\x4cS"}["\x6cjo\x75m\x71\x69\x63\x76\x64"]}="\x73\x65l\x65\x63\x74\x20* f\x72\x6f\x6d\x20\x20no\x74\x69fica\x63o\x65s\x20wh\x65re\x20\x6ci\x64\x6f\x3d\x27nao' \x61nd t\x69p\x6f='\x63ha\x6dad\x6fs' a\x6e\x64\x20a\x64min\x3d\x27na\x6f'\x20\x61\x6e\x64\x20u\x73u\x61r\x69o_id='".$_SESSION["us\x75ar\x69oID"]."'";$fbenjcphgbdf="S\x51\x4c\x6eot\x69";${$fbenjcphgbdf}=$conn->prepare(${${"\x47L\x4f\x42ALS"}["l\x6a\x6f\x75m\x71\x69\x63vd"]});$SQLnoti->execute();${${"\x47LOB\x41\x4c\x53"}["\x71\x6c\x67\x75\x79\x66\x62\x74\x79\x69"]}=$SQLnoti->rowCount();$qevqwrrl="\x74o\x74\x61\x6c\x6e\x6f\x74\x69";if(${$qevqwrrl}>0){$iqroeddpc="t\x75\x64\x6f";while(${$iqroeddpc}=$SQLnoti->fetch()){$hubgplgdndd="\x74\x75\x64\x6f";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x70\x7ampl\x6a"]="S\x51L\x6e\x6ft\x69ler";${${"\x47LO\x42ALS"}["\x67ew\x68\x72\x77\x64"]}="upda\x74\x65\x20\x6eot\x69f\x69cac\x6fes \x73\x65\x74\x20lido=\x27\x73\x69\x6d\x27 \x77\x68\x65r\x65\x20id=\x27".${$hubgplgdndd}["id"]."\x27";${${"G\x4c\x4f\x42\x41LS"}["\x67ew\x68\x72\x77d"]}=$conn->prepare(${${"\x47\x4cOB\x41\x4c\x53"}["\x70\x7a\x6dp\x6c\x6a"]});$SQLnotiler->execute();}}}}else{${${"GLO\x42\x41\x4cS"}["\x69\x6d\x77\x76f\x76k\x62\x68\x73v"]}="tu\x64\x6f";}echo "\x3c\x73cr\x69\x70\x74\x20type\x3d\x22\x74\x65\x78t/\x6a\x61\x76\x61scri\x70\x74\" src\x3d\x22../.\x2e/app-a\x73se\x74s/pl\x75gi\x6es/\x73ort-table.js\x22>\x3c/s\x63ript>\n\x3c\x73\x63ri\x70t\x3e\n\$(\x64o\x63\x75m\x65n\x74)\x2e\x72\x65a\x64y(fu\x6ec\x74ion()\x20{\n\$(\"#m\x79\x49n\x70u\x74\").\x6f\x6e(\"\x6b\x65\x79up\x22, f\x75n\x63t\x69\x6f\x6e()\x20{\n\x76ar v\x61l\x75\x65 = \$(this).\x76\x61l().\x74\x6fL\x6f\x77\x65rC\x61s\x65()\x3b\n\$(\"#my\x54ab\x6c\x65 tr\x22)\x2efilte\x72(f\x75nc\x74ion()\x20{\n\$(\x74his).\x74\x6fg\x67le(\$(thi\x73).\x74ext()\x2etoLo\x77e\x72C\x61se()\x2einde\x78Of(\x76\x61\x6cue) \x3e -\x31)\n})\x3b\n});\n});\n\x3c/\x73\x63\x72\x69\x70t\x3e\n<sty\x6c\x65>\n\x2eca\x72d-\x64atat\x61ble\x20{\npa\x64\x64in\x67-l\x65\x66\x74: \x35\x70x;\n\x70\x61ddi\x6eg-r\x69g\x68t: 5px;\n}\n\x3c/\x73\x74y\x6c\x65>\n\x3cs\x65cti\x6f\x6e\x20\x69\x64=\"c\x6fmp\x6cex-\x68e\x61\x64e\x72-d\x61\x74\x61t\x61b\x6c\x65\">\n<div class\x3d\x22\x72\x6f\x77\">\n\x3c\x64i\x76 \x63la\x73s=\x22\x63o\x6c-1\x32\x22>\n\x3cdiv\x20\x63l\x61\x73s=\x22c\x61rd\x22\x3e\n\x3c\x64i\x76 \x63\x6ca\x73s\x3d\"ca\x72d-\x68\x65a\x64\x65r b\x6f\x72d\x65\x72-\x62o\x74t\x6fm\"\x3e\n<\x684\x20clas\x73\x3d\"c\x61\x72\x64-\x74i\x74\x6c\x65\"\x3eÚlt\x69m\x61\x73 No\x74\x69f\x69caçõe\x73</\x68\x34\x3e\n</\x64iv>\n\x3cdiv c\x6c\x61\x73\x73\x3d\x22\x63\x61rd-\x64\x61t\x61ta\x62le\x22>\n<\x74\x61b\x6ce\x20id=\"ex\x61\x6d\x70l\x65\x22 \x63\x6cas\x73\x3d\x22ta\x62\x6c\x65\x22\x3e\n<\x74h\x65ad\x3e\n<\x74r>\n\x3ct\x68\x3e\x49\x44</t\x68>\n\x3cth>TI\x50\x4f</\x74h>\n<th\x3eD\x41\x54A|\x48OR\x41\x3c/\x74\x68\x3e\n\x3c\x74h\x3e\x49\x4eF\x4f\x52\x4d\x41ÇOE\x53\x3c/t\x68>\n\x3ct\x68\x3eDE\x54AL\x48E\x53\x3c/\x74\x68>\n</\x74r\x3e\n\x3c/\x74h\x65ad>\n\x3ct\x62\x6fdy\x3e\n";if(${${"\x47LO\x42A\x4cS"}["i\x6d\x77\x76f\x76\x6bbhs\x76"]}=="\x74udo"){$pkcgjpnqse="\x53\x51L\x55P\x55\x73\x65r";$lefitinf="\x75\x73u\x61\x72\x69\x6f";${$pkcgjpnqse}="SE\x4c\x45C\x54 * \x46ROM\x20\x6e\x6ft\x69\x66ic\x61coes \x77here\x20\x75\x73ua\x72io_\x69d =  '".${$lefitinf}["id\x5fu\x73\x75a\x72io"]."\x27 \x61\x6ed\x20\x61dmin\x3d'\x6eao'\x20\x4fR\x44\x45R \x42\x59 \x69\x64\x20\x64es\x63 LIMIT\x2015";}else{$sccznjhtxes="usu\x61\x72\x69\x6f";${${"\x47\x4c\x4fBA\x4c\x53"}["\x6fnf\x67z\x6f\x62d"]}="S\x45\x4c\x45CT *\x20F\x52OM\x20\x6eot\x69f\x69c\x61c\x6f\x65\x73\x20w\x68er\x65\x20usuar\x69\x6f_id\x20\x3d\x20 '".${$sccznjhtxes}["id\x5fusu\x61ri\x6f"]."\x27\x20\x61nd\x20ti\x70o\x3d\x27".${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x69\x6d\x77\x76\x66vk\x62\x68s\x76"]}."\x27 a\x6e\x64 a\x64mi\x6e='\x6ea\x6f' \x4fRD\x45R BY \x69d \x64\x65sc\x20L\x49\x4d\x49T\x20\x31\x35";}${${"GL\x4f\x42\x41L\x53"}["\x6f\x6e\x66\x67zo\x62\x64"]}=$conn->prepare(${${"\x47\x4c\x4f\x42A\x4cS"}["\x6f\x6e\x66\x67\x7a\x6fb\x64"]});$SQLUPUser->execute();if(($SQLUPUser->rowCount())>0){while(${${"\x47\x4c\x4fB\x41L\x53"}["\x6e\x73n\x65\x77\x72\x6b\x78"]}=$SQLUPUser->fetch()){$qzmdlrgtd="\x69\x6ef\x6f";$vlfpji="\x74\x69\x70\x6f";${"\x47LOB\x41\x4cS"}["\x78u\x6b\x69g\x65\x67j\x67"]="\x74ip\x6f";${"\x47L\x4fB\x41\x4c\x53"}["\x64pw\x64br\x70"]="\x74\x69\x70\x6f";${"GL\x4f\x42\x41\x4cS"}["\x71u\x71l\x6bh"]="\x74i\x70o";${"\x47L\x4fBA\x4cS"}["pj\x6f\x64\x66j\x69j\x66"]="\x63\x6ca\x73\x73";${"\x47L\x4f\x42\x41L\x53"}["g\x6fb\x66\x76\x61\x6d\x6f"]="n\x6ft\x69";${"G\x4cOBA\x4c\x53"}["\x69\x6cn\x79\x63v\x76\x70"]="n\x6f\x74i";$vapofvp="\x63\x6c\x61\x73\x73";$blucxqrejv="\x69\x6ef\x6f";$idnnrxylpj="\x63\x6c\x61\x73\x73";${"\x47L\x4f\x42A\x4c\x53"}["o\x69\x7a\x6f\x6crjq\x64\x63"]="\x6e\x6f\x74\x69";$hbktqwuisjg="i\x6e\x66\x6f";${"\x47LOBA\x4cS"}["\x62\x6b\x65\x64t\x74\x6d"]="t\x69p\x6f";$jqobxcdterd="\x63\x6c\x61\x73\x73";switch(${${"\x47\x4cO\x42\x41LS"}["\x6e\x73newr\x6bx"]}["\x74i\x70o"]){case"f\x61tur\x61":${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x62\x6bed\x74tm"]}="\x46\x61\x74u\x72a";${${"\x47L\x4f\x42AL\x53"}["\x71\x63gj\x73b\x72nf"]}="\x6ca\x62\x65l labe\x6c-\x73uc\x63e\x73\x73";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x68\x68\x6c\x61j\x67vn\x76\x70d"]}="\x56\x69\x73u\x61l\x69z\x61\x72";break;case"\x63\x6fnta":${${"G\x4c\x4fB\x41\x4cS"}["\x69mwvf\x76\x6b\x62\x68\x73\x76"]}="\x43\x6f\x6e\x74\x61";${$idnnrxylpj}="\x6ca\x62\x65\x6c \x6cab\x65l-w\x61rni\x6e\x67";${$qzmdlrgtd}=${${"\x47L\x4f\x42\x41\x4cS"}["\x67o\x62f\x76\x61\x6d\x6f"]}["i\x6e\x66\x6f\x5f\x6fu\x74\x72\x6fs"];break;case"r\x65\x76\x65n\x64a":${${"\x47\x4cO\x42\x41\x4cS"}["\x78\x75\x6b\x69\x67e\x67\x6a\x67"]}="Re\x76\x65\x6eda";${${"\x47LOB\x41L\x53"}["\x71\x63g\x6as\x62r\x6e\x66"]}="la\x62\x65l la\x62\x65\x6c-dang\x65r";${${"\x47\x4cO\x42\x41\x4cS"}["\x68\x68\x6ca\x6a\x67vn\x76p\x64"]}=${${"G\x4cO\x42\x41LS"}["\x6e\x73\x6eew\x72\x6b\x78"]}["i\x6ef\x6f\x5fo\x75\x74\x72\x6fs"];break;case"s\x75\x62\x72e\x76\x65nd\x61":${${"\x47\x4cO\x42A\x4c\x53"}["\x64p\x77\x64b\x72\x70"]}="Re\x76\x65\x6eda-\x53\x55B";${$vapofvp}="\x6ca\x62e\x6c l\x61\x62\x65l-p\x72i\x6dary";${${"G\x4c\x4f\x42\x41\x4cS"}["\x68\x68\x6ca\x6a\x67v\x6e\x76\x70\x64"]}="S\x6f\x62\x72\x65\x20\x61 R\x65\x76\x65\x6e\x64\x61";break;case"\x75suario":${${"G\x4c\x4fB\x41LS"}["\x69\x6d\x77v\x66\x76\x6b\x62\x68sv"]}="Usúa\x72i\x6f \x56\x50\x4e";${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x70\x6a\x6f\x64\x66ji\x6af"]}="label la\x62e\x6c-p\x72i\x6d\x61r\x79";${${"G\x4c\x4fB\x41LS"}["hhla\x6a\x67v\x6evp\x64"]}="So\x62\x72e \x53ua\x73 C\x6f\x6e\x74a\x73";break;case"\x6fut\x72o\x73":${$vlfpji}="O\x75tro\x73";${$jqobxcdterd}="\x6cabe\x6c\x20\x6cabe\x6c-pr\x69\x6da\x72y";${$hbktqwuisjg}=${${"\x47\x4c\x4f\x42\x41\x4cS"}["n\x73\x6ee\x77\x72\x6bx"]}["info_ou\x74ros"];break;case"ch\x61m\x61dos":${${"\x47\x4c\x4f\x42\x41LS"}["\x69\x6d\x77\x76f\x76\x6b\x62h\x73v"]}="C\x68am\x61do/Sup\x6f\x72t\x65";${${"\x47\x4c\x4f\x42\x41LS"}["q\x63\x67j\x73\x62\x72\x6e\x66"]}="l\x61b\x65\x6c\x20la\x62el-\x70\x72\x69mar\x79";${$blucxqrejv}=${${"GL\x4f\x42\x41L\x53"}["\x6f\x69z\x6fl\x72jqd\x63"]}["i\x6efo_o\x75t\x72os"];break;default:${${"\x47\x4cO\x42\x41L\x53"}["\x69\x6d\x77\x76\x66\x76\x6bbh\x73v"]}="e\x72r\x6f";break;}${${"\x47\x4c\x4fBA\x4c\x53"}["q\x70\x6d\x76vf"]}=${${"\x47LO\x42\x41L\x53"}["\x69\x6c\x6ey\x63v\x76\x70"]}["\x64a\x74a"];echo "<tr\x3e\n<td>";echo${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6e\x73n\x65\x77\x72\x6b\x78"]}["i\x64"];echo "\x3c/t\x64>\n<td\x3e";echo${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["q\x75\x71l\x6b\x68"]};echo "\x3c/\x74\x64\x3e\n<\x74\x64>";echo date("\x64/\x6d/\x59\x20\x48:i:\x73",strtotime(${${"GLO\x42\x41L\x53"}["\x71\x70mv\x76\x66"]}));echo "</\x74\x64\x3e\n";if(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6es\x6eew\x72\x6bx"]}["l\x69nk\x66\x61tu\x72a"]=="\x41\x64\x6d\x69\x6e"){echo "\x3ctd><\x73\x70\x61n c\x6cas\x73=\"la\x62el \x6c\x61\x62\x65l-\x77a\x72nin\x67\x20b\x67-\x79\x65llow-a\x63\x74\x69\x76e\x20co\x6cor-\x70\x61l\x65tt\x65\"\x3eA\x64\x6dinistração</s\x70\x61\x6e>\x3c/\x74\x64\x3e\n";}else{$bnkhyfdgqsg="t\x69\x70\x6f";if(${$bnkhyfdgqsg}=="\x46\x61t\x75\x72\x61"){${"\x47\x4cOB\x41L\x53"}["\x63dd\x74by\x6ct\x65qd"]="\x63\x6c\x61s\x73";${"\x47\x4c\x4f\x42A\x4cS"}["\x6dvhc\x65\x72\x7a\x68\x67\x6a\x77"]="\x6eot\x69";echo "<td>\x3c\x61 \x68re\x66=\x22\x68\x6fm\x65\x2e\x70\x68\x70?p\x61\x67e\x3d";echo${${"\x47LO\x42\x41LS"}["\x6d\x76\x68\x63er\x7a\x68\x67\x6aw"]}["li\x6ek\x66a\x74\x75\x72a"];echo "\"><\x73p\x61n\x20cla\x73s=\"";echo${${"G\x4cO\x42\x41LS"}["\x63dd\x74b\x79\x6c\x74\x65\x71\x64"]};echo "\">";echo${${"\x47L\x4fBAL\x53"}["\x68\x68\x6c\x61\x6a\x67v\x6e\x76\x70\x64"]};echo "</sp\x61n\x3e\x3c/\x61>\x3c/t\x64\x3e\n";}else{$dgucfmk="i\x6ef\x6f";$aepmqtbpedu="c\x6ca\x73s";echo "\x3ctd>\x3csp\x61\x6e\x20cl\x61\x73s\x3d\x22";echo${$aepmqtbpedu};echo "\">";echo${$dgucfmk};echo "</\x73\x70an\x3e</\x74d>\n";}}echo "\x3c\x74d>";echo${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6e\x73\x6e\x65w\x72\x6bx"]}["me\x6es\x61g\x65\x6d"];echo "\x3c/\x74d>\n\x3c/\x74\x72>\n";}}else{echo "\x3c\x74\x72\x20\x3e\x3c\x74\x64 \x76\x61\x6cig\x6e=\x22\x74\x6fp\"\x20c\x6f\x6cs\x70\x61n=\x22\x35\x22\x3eNenh\x75\x6da n\x6ft\x69\x66\x69\x63\x61çã\x6f\x20\x65nc\x6fn\x74\x72\x61\x64\x61</t\x64></t\x72>\n";}echo "</\x74bod\x79\x3e\n\x3c/t\x61\x62\x6ce>\n</\x64i\x76\x3e\n</di\x76\x3e\n</\x64iv\x3e\n</\x64i\x76>\n\x3c/s\x65c\x74ion\x3e\n";
-?>
+<?php
+
+$GLOBALS["qpmvvf"] = "datacriado";
+$GLOBALS["hhlajgvnvpd"] = "info";
+$GLOBALS["qcgjsbrnf"] = "class";
+$GLOBALS["nsnewrkx"] = "noti";
+$GLOBALS["onfgzobd"] = "SQLUPUser";
+$GLOBALS["gewhrwd"] = "SQLnotiler";
+$GLOBALS["fjysumqmxrl"] = "tudo";
+$GLOBALS["qlguyfbtyi"] = "totalnoti";
+$GLOBALS["ljoumqicvd"] = "SQLnoti";
+$GLOBALS["imwvfvkbhsv"] = "tipo";
+$GLOBALS["marrbfuo"] = "ler";
+$GLOBALS["nkwkmyedx"] = "usuario";
+if (basename($_SERVER["REQUEST_URI"]) === basename("/var/www/html/notificacoes.php")) {
+    exit("<h1>ERROR 404</h1>Entre em contato conosco e envie detalhes.");
+}
+protegePagina("user");
+if (${$GLOBALS["nkwkmyedx"]}["ativo"] == 2) {
+    echo "<script type=\"text/javascript\">";
+    echo "window.location=\"home.php?page=suspenso\";";
+    echo "</script>";
+    exit;
+}
+if (isset($_GET["ler"])) {
+    $GLOBALS["rmciwoic"] = "ler";
+    $GLOBALS["dhlfml"] = "ler";
+    $GLOBALS["xbkbgneyxve"] = "ler";
+    $avlenkqchttp = "ler";
+    $qdgteqfom = "tipo";
+    $hhbieluap = "ler";
+    $GLOBALS["kfbbxvgti"] = "ler";
+    $GLOBALS["mcsqjlkr"] = "tipo";
+    $GLOBALS["vprjugwvpxy"] = "ler";
+    $blwemm = "tipo";
+    $cjnxuetxmxxo = "ler";
+    $GLOBALS["ejxkyruf"] = "ler";
+    $GLOBALS["ozmxnnocijy"] = "tipo";
+    $jjbgfjlkrm = "tipo";
+    $wvujsbwekhb = "ler";
+    $esqfljpvkvx = "ler";
+    switch ($_GET["ler"]) {
+        case "all":
+            ${$GLOBALS["marrbfuo"]} = "tudo";
+            ${$GLOBALS["imwvfvkbhsv"]} = "tudo";
+            break;
+        case "others":
+            ${$wvujsbwekhb} = "others";
+            ${$blwemm} = "outros";
+            break;
+        case "fatu":
+            ${$esqfljpvkvx} = "fatu";
+            ${$GLOBALS["imwvfvkbhsv"]} = "fatura";
+            break;
+        case "accs":
+            ${$avlenkqchttp} = "contas";
+            ${$qdgteqfom} = "conta";
+            break;
+        case "reve":
+            ${$hhbieluap} = "revenda";
+            ${$GLOBALS["imwvfvkbhsv"]} = "revenda";
+            break;
+        case "subreve":
+            ${$GLOBALS["vprjugwvpxy"]} = "subrevenda";
+            ${$jjbgfjlkrm} = "subrevenda";
+            break;
+        case "usuario":
+            ${$GLOBALS["dhlfml"]} = "usuario";
+            ${$GLOBALS["mcsqjlkr"]} = "usuario";
+            break;
+        case "chamados":
+            ${$GLOBALS["kfbbxvgti"]} = "chamados";
+            ${$GLOBALS["ozmxnnocijy"]} = "chamados";
+            break;
+        default:
+            ${$GLOBALS["marrbfuo"]} = "nada";
+            break;
+    }
+    if (${$GLOBALS["marrbfuo"]} == "nada") {
+    } elseif (${$GLOBALS["marrbfuo"]} == "tudo") {
+        $GLOBALS["tgzuykm"] = "SQLnoti";
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        $GLOBALS["qekugbtnjz"] = "totalnoti";
+        ${$GLOBALS["ljoumqicvd"]} = $conn->prepare(${$GLOBALS["tgzuykm"]});
+        $SQLnoti->execute();
+        ${$GLOBALS["qekugbtnjz"]} = $SQLnoti->rowCount();
+        if (${$GLOBALS["qlguyfbtyi"]} > 0) {
+            while (${$GLOBALS["fjysumqmxrl"]} = $SQLnoti->fetch()) {
+                $GLOBALS["tsmjdoviw"] = "tudo";
+                $GLOBALS["enpdmsvksddl"] = "SQLnotiler";
+                $clslyhepnp = "SQLnotiler";
+                $SQLnotiler = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                $SQLnotiler = $conn->prepare(${$GLOBALS["gewhrwd"]});
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["xbkbgneyxve"]} == "others") {
+        $snktdbqtsnn = "SQLnoti";
+        $axpepvbjdh = "totalnoti";
+        $GLOBALS["uqdjrmw"] = "SQLnoti";
+        $GLOBALS["zomorbmw"] = "totalnoti";
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and tipo='outros' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["uqdjrmw"]} = $conn->prepare(${$snktdbqtsnn});
+        $SQLnoti->execute();
+        ${$axpepvbjdh} = $SQLnoti->rowCount();
+        if (${$GLOBALS["zomorbmw"]} > 0) {
+            $GLOBALS["ubvwiwyy"] = "tudo";
+            while (${$GLOBALS["ubvwiwyy"]} = $SQLnoti->fetch()) {
+                $cckmnrdlhkl = "tudo";
+                ${$GLOBALS["gewhrwd"]} = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                $GLOBALS["gnotrk"] = "SQLnotiler";
+                $SQLnotiler = $conn->prepare(${$GLOBALS["gewhrwd"]});
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["marrbfuo"]} == "fatu") {
+        $jnqquqbhhc = "SQLnoti";
+        $omfdcsbt = "totalnoti";
+        $GLOBALS["snvwpam"] = "SQLnoti";
+        $SQLnoti = "select * from  notificacoes where lido='nao' and tipo='fatura' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["ljoumqicvd"]} = $conn->prepare($SQLnoti);
+        $SQLnoti->execute();
+        ${$omfdcsbt} = $SQLnoti->rowCount();
+        if (${$GLOBALS["qlguyfbtyi"]} > 0) {
+            while (${$GLOBALS["fjysumqmxrl"]} = $SQLnoti->fetch()) {
+                $GLOBALS["bkdfgedyvfve"] = "SQLnotiler";
+                $jcncrlrtrju = "SQLnotiler";
+                $ybykmqn = "tudo";
+                $SQLnotiler = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                $SQLnotiler = $conn->prepare(${$GLOBALS["gewhrwd"]});
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["marrbfuo"]} == "contas") {
+        $GLOBALS["pemfirvkcx"] = "SQLnoti";
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and tipo='conta' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["pemfirvkcx"]} = $conn->prepare(${$GLOBALS["ljoumqicvd"]});
+        $enlksmu = "totalnoti";
+        $SQLnoti->execute();
+        ${$GLOBALS["qlguyfbtyi"]} = $SQLnoti->rowCount();
+        if (${$enlksmu} > 0) {
+            $ctapxsh = "tudo";
+            while (${$ctapxsh} = $SQLnoti->fetch()) {
+                $opijxwdt = "SQLnotiler";
+                ${$GLOBALS["gewhrwd"]} = "update notificacoes set lido='sim' where id='" . ${$GLOBALS["fjysumqmxrl"]}["id"] . "'";
+                $GLOBALS["kdqcvjci"] = "SQLnotiler";
+                ${$opijxwdt} = $conn->prepare($SQLnotiler);
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["marrbfuo"]} == "revenda") {
+        $qkfibqsrtuel = "totalnoti";
+        $GLOBALS["nhmksjrymae"] = "SQLnoti";
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and tipo='revenda' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["nhmksjrymae"]} = $conn->prepare(${$GLOBALS["ljoumqicvd"]});
+        $SQLnoti->execute();
+        ${$qkfibqsrtuel} = $SQLnoti->rowCount();
+        if (${$GLOBALS["qlguyfbtyi"]} > 0) {
+            $ootuupfnd = "tudo";
+            while (${$ootuupfnd} = $SQLnoti->fetch()) {
+                $lffsksu = "SQLnotiler";
+                $ngrvthvla = "SQLnotiler";
+                $dmnldr = "tudo";
+                $SQLnotiler = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                $rkbebksygox = "SQLnotiler";
+                $SQLnotiler = $conn->prepare($SQLnotiler);
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["ejxkyruf"]} == "subrevenda") {
+        $mosqvyiv = "totalnoti";
+        $GLOBALS["uyvhkhusg"] = "SQLnoti";
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and tipo='subrevenda' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["ljoumqicvd"]} = $conn->prepare(${$GLOBALS["uyvhkhusg"]});
+        $SQLnoti->execute();
+        ${$GLOBALS["qlguyfbtyi"]} = $SQLnoti->rowCount();
+        if (${$mosqvyiv} > 0) {
+            while (${$GLOBALS["fjysumqmxrl"]} = $SQLnoti->fetch()) {
+                $lgdpzirlygh = "tudo";
+                ${$GLOBALS["gewhrwd"]} = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                $ojlpsd = "SQLnotiler";
+                $SQLnotiler = $conn->prepare(${$GLOBALS["gewhrwd"]});
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$GLOBALS["rmciwoic"]} == "usuario") {
+        $trbmcjd = "SQLnoti";
+        $GLOBALS["qvmwyqoycnp"] = "totalnoti";
+        $SQLnoti = "select * from  notificacoes where lido='nao' and tipo='subrevenda' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        ${$GLOBALS["ljoumqicvd"]} = $conn->prepare(${$GLOBALS["ljoumqicvd"]});
+        $SQLnoti->execute();
+        ${$GLOBALS["qvmwyqoycnp"]} = $SQLnoti->rowCount();
+        if (${$GLOBALS["qlguyfbtyi"]} > 0) {
+            $GLOBALS["rqiqlln"] = "tudo";
+            while (${$GLOBALS["rqiqlln"]} = $SQLnoti->fetch()) {
+                ${$GLOBALS["gewhrwd"]} = "update notificacoes set lido='sim' where id='" . ${$GLOBALS["fjysumqmxrl"]}["id"] . "'";
+                $klbmvnu = "SQLnotiler";
+                $SQLnotiler = $conn->prepare(${$GLOBALS["gewhrwd"]});
+                $SQLnotiler->execute();
+            }
+        }
+    } elseif (${$cjnxuetxmxxo} == "chamados") {
+        ${$GLOBALS["ljoumqicvd"]} = "select * from  notificacoes where lido='nao' and tipo='chamados' and admin='nao' and usuario_id='" . $_SESSION["usuarioID"] . "'";
+        $fbenjcphgbdf = "SQLnoti";
+        $SQLnoti = $conn->prepare(${$GLOBALS["ljoumqicvd"]});
+        $SQLnoti->execute();
+        ${$GLOBALS["qlguyfbtyi"]} = $SQLnoti->rowCount();
+        $qevqwrrl = "totalnoti";
+        if ($totalnoti > 0) {
+            $iqroeddpc = "tudo";
+            while (${$iqroeddpc} = $SQLnoti->fetch()) {
+                $hubgplgdndd = "tudo";
+                $GLOBALS["pzmplj"] = "SQLnotiler";
+                ${$GLOBALS["gewhrwd"]} = "update notificacoes set lido='sim' where id='" . $tudo["id"] . "'";
+                ${$GLOBALS["gewhrwd"]} = $conn->prepare(${$GLOBALS["pzmplj"]});
+                $SQLnotiler->execute();
+            }
+        }
+    }
+} else {
+    ${$GLOBALS["imwvfvkbhsv"]} = "tudo";
+}
+echo "<script type=\"text/javascript\" src=\"../../app-assets/plugins/sort-table.js\"></script>\n<script>\n\$(document).ready(function() {\n\$(\"#myInput\").on(\"keyup\", function() {\nvar value = \$(this).val().toLowerCase();\n\$(\"#myTable tr\").filter(function() {\n\$(this).toggle(\$(this).text().toLowerCase().indexOf(value) > -1)\n});\n});\n});\n</script>\n<style>\n.card-datatable {\npadding-left: 5px;\npadding-right: 5px;\n}\n</style>\n<section id=\"complex-header-datatable\">\n<div class=\"row\">\n<div class=\"col-12\">\n<div class=\"card\">\n<div class=\"card-header border-bottom\">\n<h4 class=\"card-title\">\xc3\x9altimas Notifica\xc3\xa7\xc3\xb5es</h4>\n</div>\n<div class=\"card-datatable\">\n<table id=\"example\" class=\"table\">\n<thead>\n<tr>\n<th>ID</th>\n<th>TIPO</th>\n<th>DATA|HORA</th>\n<th>INFORMA\xc3\x87OES</th>\n<th>DETALHES</th>\n</tr>\n</thead>\n<tbody>\n";
+if (${$GLOBALS["imwvfvkbhsv"]} == "tudo") {
+    $pkcgjpnqse = "SQLUPUser";
+    $lefitinf = "usuario";
+    $SQLUPUser = "SELECT * FROM notificacoes where usuario_id =  '" . $usuario["id_usuario"] . "' and admin='nao' ORDER BY id desc LIMIT 15";
+} else {
+    $sccznjhtxes = "usuario";
+    ${$GLOBALS["onfgzobd"]} = "SELECT * FROM notificacoes where usuario_id =  '" . $usuario["id_usuario"] . "' and tipo='" . ${$GLOBALS["imwvfvkbhsv"]} . "' and admin='nao' ORDER BY id desc LIMIT 15";
+}
+${$GLOBALS["onfgzobd"]} = $conn->prepare(${$GLOBALS["onfgzobd"]});
+$SQLUPUser->execute();
+if ($SQLUPUser->rowCount() > 0) {
+    while (${$GLOBALS["nsnewrkx"]} = $SQLUPUser->fetch()) {
+        $qzmdlrgtd = "info";
+        $vlfpji = "tipo";
+        $GLOBALS["xukigegjg"] = "tipo";
+        $GLOBALS["dpwdbrp"] = "tipo";
+        $GLOBALS["quqlkh"] = "tipo";
+        $GLOBALS["pjodfjijf"] = "class";
+        $GLOBALS["gobfvamo"] = "noti";
+        $GLOBALS["ilnycvvp"] = "noti";
+        $vapofvp = "class";
+        $blucxqrejv = "info";
+        $idnnrxylpj = "class";
+        $GLOBALS["oizolrjqdc"] = "noti";
+        $hbktqwuisjg = "info";
+        $GLOBALS["bkedttm"] = "tipo";
+        $jqobxcdterd = "class";
+        switch (${$GLOBALS["nsnewrkx"]}["tipo"]) {
+            case "fatura":
+                ${$GLOBALS["bkedttm"]} = "Fatura";
+                ${$GLOBALS["qcgjsbrnf"]} = "label label-success";
+                ${$GLOBALS["hhlajgvnvpd"]} = "Visualizar";
+                break;
+            case "conta":
+                ${$GLOBALS["imwvfvkbhsv"]} = "Conta";
+                ${$idnnrxylpj} = "label label-warning";
+                ${$qzmdlrgtd} = ${$GLOBALS["gobfvamo"]}["info_outros"];
+                break;
+            case "revenda":
+                ${$GLOBALS["xukigegjg"]} = "Revenda";
+                ${$GLOBALS["qcgjsbrnf"]} = "label label-danger";
+                ${$GLOBALS["hhlajgvnvpd"]} = ${$GLOBALS["nsnewrkx"]}["info_outros"];
+                break;
+            case "subrevenda":
+                ${$GLOBALS["dpwdbrp"]} = "Revenda-SUB";
+                ${$vapofvp} = "label label-primary";
+                ${$GLOBALS["hhlajgvnvpd"]} = "Sobre a Revenda";
+                break;
+            case "usuario":
+                ${$GLOBALS["imwvfvkbhsv"]} = "Us\xc3\xbaario VPN";
+                ${$GLOBALS["pjodfjijf"]} = "label label-primary";
+                ${$GLOBALS["hhlajgvnvpd"]} = "Sobre Suas Contas";
+                break;
+            case "outros":
+                ${$vlfpji} = "Outros";
+                ${$jqobxcdterd} = "label label-primary";
+                ${$hbktqwuisjg} = ${$GLOBALS["nsnewrkx"]}["info_outros"];
+                break;
+            case "chamados":
+                ${$GLOBALS["imwvfvkbhsv"]} = "Chamado/Suporte";
+                ${$GLOBALS["qcgjsbrnf"]} = "label label-primary";
+                ${$blucxqrejv} = ${$GLOBALS["oizolrjqdc"]}["info_outros"];
+                break;
+            default:
+                ${$GLOBALS["imwvfvkbhsv"]} = "erro";
+                break;
+        }
+        ${$GLOBALS["qpmvvf"]} = ${$GLOBALS["ilnycvvp"]}["data"];
+        echo "<tr>\n<td>";
+        echo ${$GLOBALS["nsnewrkx"]}["id"];
+        echo "</td>\n<td>";
+        echo ${$GLOBALS["quqlkh"]};
+        echo "</td>\n<td>";
+        echo date("d/m/Y H:i:s", strtotime(${$GLOBALS["qpmvvf"]}));
+        echo "</td>\n";
+        if (${$GLOBALS["nsnewrkx"]}["linkfatura"] == "Admin") {
+            echo "<td><span class=\"label label-warning bg-yellow-active color-palette\">Administra\xc3\xa7\xc3\xa3o</span></td>\n";
+        } else {
+            $bnkhyfdgqsg = "tipo";
+            if ($tipo == "Fatura") {
+                $GLOBALS["cddtbylteqd"] = "class";
+                $GLOBALS["mvhcerzhgjw"] = "noti";
+                echo "<td><a href=\"home.php?page=";
+                echo $noti["linkfatura"];
+                echo "\"><span class=\"";
+                echo $class;
+                echo "\">";
+                echo ${$GLOBALS["hhlajgvnvpd"]};
+                echo "</span></a></td>\n";
+            } else {
+                $dgucfmk = "info";
+                $aepmqtbpedu = "class";
+                echo "<td><span class=\"";
+                echo $class;
+                echo "\">";
+                echo $info;
+                echo "</span></td>\n";
+            }
+        }
+        echo "<td>";
+        echo ${$GLOBALS["nsnewrkx"]}["mensagem"];
+        echo "</td>\n</tr>\n";
+    }
+} else {
+    echo "<tr ><td valign=\"top\" colspan=\"5\">Nenhuma notifica\xc3\xa7\xc3\xa3o encontrada</td></tr>\n";
+}
+echo "</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</section>\n";
