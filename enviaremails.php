@@ -1,2 +1,48 @@
-<?php ${"\x47\x4c\x4f\x42ALS"}["\x61byg\x6c\x66\x73\x78pru\x71"]="\x65n\x76\x69\x61\x64o";${"G\x4c\x4fB\x41LS"}["\x64\x73\x75\x79e\x71\x68ii\x71\x64"]="\x63\x6f\x72\x70\x6f";${"\x47\x4cO\x42\x41\x4cS"}["\x6c\x65e\x67\x66km\x67p\x77"]="\x65\x6d\x61\x69l_\x73m\x74\x70";${"GLO\x42A\x4c\x53"}["ygaeins\x79"]="se\x72\x76\x69dor_\x73\x6d\x74\x70";$qgeqqaxbj="ass\x75nto";${"\x47\x4cO\x42\x41\x4cS"}["k\x75\x68\x71\x70q\x74\x73r"]="\x6d\x61\x69\x6c";$hysjyfn="\x73\x65\x6e\x68\x61_\x73\x6d\x74\x70";require_once("p\x68pm\x61\x69\x6ce\x72/c\x6c\x61s\x73.p\x68\x70\x6d\x61\x69\x6ce\x72.\x70\x68p");require_once("\x70h\x70ma\x69\x6cer/\x63l\x61ss.\x73\x6dtp\x2e\x70\x68p");${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6b\x75\x68\x71\x70\x71\x74\x73\x72"]}=new PHPMailer();$rtdcvoflv="d\x65s\x74ino";${"\x47\x4c\x4fB\x41LS"}["\x66to\x70\x65\x6c\x64x"]="e\x6d\x61\x69\x6c\x5f\x73m\x74p";${"G\x4c\x4f\x42\x41L\x53"}["cq\x6bhtm\x6a"]="\x65\x6e\x76\x69\x61\x64\x6f";$mail->IsSMTP();$bmygcmyyksa="\x73s\x6c\x5f\x73m\x74p";$mail->SMTPSecure=${$bmygcmyyksa};$pcsqdgws="p\x6f\x72\x74\x61_\x73m\x74\x70";$qrpsbhcxu="\x64\x65s\x74i\x6e\x61\x74\x61r\x69\x6f";$mail->Host=${${"\x47L\x4f\x42\x41\x4c\x53"}["y\x67\x61\x65i\x6e\x73\x79"]};$mail->Port=${$pcsqdgws};$mail->SMTPDebug=0;$mail->SMTPAuth=true;$mail->Username=${${"G\x4c\x4fB\x41\x4c\x53"}["l\x65\x65\x67\x66\x6bm\x67\x70w"]};$mail->Password=${$hysjyfn};$mail->From=${${"\x47\x4c\x4f\x42\x41LS"}["f\x74ope\x6cd\x78"]};$mail->FromName="\x53\x75po\x72te\x20-\x20\x53\x53H";$mail->AddAddress(${$rtdcvoflv},${$qrpsbhcxu});$mail->IsHTML(true);$mail->CharSet="\x55\x54\x46-\x38";$mail->Subject=${$qgeqqaxbj};$mail->Body="'".${${"\x47\x4c\x4f\x42AL\x53"}["\x64s\x75ye\x71\x68\x69i\x71d"]}."\x27";${${"G\x4c\x4f\x42\x41\x4cS"}["\x61by\x67l\x66\x73\x78pr\x75\x71"]}=$mail->Send();$mail->ClearAllRecipients();$mail->ClearAttachments();if(${${"G\x4cO\x42\x41\x4c\x53"}["cq\x6b\x68\x74m\x6a"]}){$yjemnrc="\x73u\x63\x65\x73\x73\x6f";echo"<\x73c\x72\x69pt\x20\x74\x79\x70\x65=\"t\x65\x78\x74/\x6a\x61va\x73c\x72ipt\">";echo"a\x6c\x65r\x74(\x22".${$yjemnrc}."\")\x3b";echo"w\x69\x6e\x64ow.\x6c\x6f\x63a\x74ion=\x22.\x2e/../h\x6f\x6de.\x70\x68\x70?\x70\x61\x67\x65\x3de\x6da\x69l/en\x76\x69\x61r\x65mail\x22;";echo"\x3c/sc\x72ip\x74\x3e";}else{echo"\x3c\x73c\x72\x69\x70\x74\x20\x74y\x70\x65=\"t\x65xt/\x6a\x61\x76asc\x72i\x70\x74\"\x3e";echo"\x61\x6c\x65\x72t(\"Er\x72\x6f\x20ao\x20e\x6e\x76iar: ".$mail->ErrorInfo."\")\x3b";echo"w\x69n\x64ow.\x6c\x6fc\x61\x74\x69\x6f\x6e\x3d\"../.\x2e/\x68o\x6de\x2ephp?p\x61ge=\x65ma\x69l/env\x69\x61\x72e\x6da\x69l\x22\x3b";echo"</sc\x72\x69\x70t>";}
-?>
+<?php
+
+$GLOBALS["abyglfsxpruq"] = "enviado";
+$GLOBALS["dsuyeqhiiqd"] = "corpo";
+$GLOBALS["leegfkmgpw"] = "email_smtp";
+$GLOBALS["ygaeinsy"] = "servidor_smtp";
+$qgeqqaxbj = "assunto";
+$GLOBALS["kuhqpqtsr"] = "mail";
+$hysjyfn = "senha_smtp";
+require_once "phpmailer/class.phpmailer.php";
+require_once "phpmailer/class.smtp.php";
+$mail = new PHPMailer();
+$rtdcvoflv = "destino";
+$GLOBALS["ftopeldx"] = "email_smtp";
+$GLOBALS["cqkhtmj"] = "enviado";
+$mail->IsSMTP();
+$bmygcmyyksa = "ssl_smtp";
+$mail->SMTPSecure = $ssl_smtp;
+$pcsqdgws = "porta_smtp";
+$qrpsbhcxu = "destinatario";
+$mail->Host = $servidor_smtp;
+$mail->Port = $porta_smtp;
+$mail->SMTPDebug = 0;
+$mail->SMTPAuth = true;
+$mail->Username = $email_smtp;
+$mail->Password = $senha_smtp;
+$mail->From = $email_smtp;
+$mail->FromName = "Suporte - SSH";
+$mail->AddAddress($destino, $destinatario);
+$mail->IsHTML(true);
+$mail->CharSet = "UTF-8";
+$mail->Subject = $assunto;
+$mail->Body = "'" . $corpo . "'";
+$enviado = $mail->Send();
+$mail->ClearAllRecipients();
+$mail->ClearAttachments();
+if ($enviado) {
+    $yjemnrc = "sucesso";
+    echo "<script type=\"text/javascript\">";
+    echo "alert(\"" . $sucesso . "\");";
+    echo "window.location=\"../../home.php?page=email/enviaremail\";";
+    echo "</script>";
+} else {
+    echo "<script type=\"text/javascript\">";
+    echo "alert(\"Erro ao enviar: " . $mail->ErrorInfo . "\");";
+    echo "window.location=\"../../home.php?page=email/enviaremail\";";
+    echo "</script>";
+}
