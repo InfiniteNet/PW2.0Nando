@@ -1,0 +1,2 @@
+<?php require_once("\x2e./pa\x67\x65\x73/\x73ys\x74e\x6d/seg\x75r\x61nc\x61.p\x68\x70");expulsaSair();
+?>

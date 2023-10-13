@@ -1,0 +1,2 @@
+<?php header("lo\x63\x61\x74\x69\x6f\x6e: /");
+?>
