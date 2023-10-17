@@ -8,26 +8,7 @@ $GLOBALS["onkobxqrvj"] = "conn";
 $GLOBALS["wwprqroigfno"] = "key";
 $GLOBALS["alhhbe"] = "pass";
 $GLOBALS["xyqlnhxhidn"] = "form1";
-if (!file_exists("/usr/lib/blockpainel")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/usr/lib/telegram")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/bin/info-chave")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/etc/kernel/recweb/sweb")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/bin/pweb")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
+
 session_start();
 if ($_POST["form_login"] == "LOGIN") {
     $wgowccnwmul = "pass1";

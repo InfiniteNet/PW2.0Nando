@@ -1,26 +1,7 @@
 <?php
 
 require_once $_SERVER["DOCUMENT_ROOT"] . "/loginc.php";
-if (!file_exists("/usr/lib/blockpainel")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/usr/lib/telegram")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/bin/info-chave")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/etc/kernel/recweb/sweb")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
-if (!file_exists("/bin/pweb")) {
-    echo "<script>window.location.href = \"locked.php\";</script>";
-    exit;
-}
+
 if (getLogged($sid) == true) {
     header("location: homec.php");
 } else {
